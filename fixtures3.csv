@@ -1,0 +1,958 @@
+sport,country,league,season,match_time,home_team,away_team,scraped_date
+football,South America,Copa Libertadores,2020,15.12. 16:30,Palmeiras (Bra),Libertad Asuncion (Par),2020-12-15
+football,South America,Copa Libertadores,2020,16.12. 14:15,Santos (Bra),Gremio (Bra),2020-12-15
+football,South America,Copa Libertadores,2020,16.12. 16:30,Racing Club (Arg),Boca Juniors (Arg),2020-12-15
+football,South America,Copa Libertadores,2020,17.12. 16:30,Nacional (Uru),River Plate (Arg),2020-12-15
+football,South America,Copa Libertadores,2020,23.12. 16:30,Boca Juniors (Arg),Racing Club (Arg),2020-12-15
+football,South America,Copa América,2020,11.06. 16:00,Argentina,Chile,2020-12-15
+football,South America,Copa América,2020,12.06. 12:00,Australia,Uruguay,2020-12-15
+football,South America,Copa América,2020,12.06. 15:00,Paraguay,Bolivia,2020-12-15
+football,South America,Copa América,2020,12.06. 18:00,Colombia,Ecuador,2020-12-15
+football,South America,Copa América,2020,13.06. 15:00,Brazil,Venezuela,2020-12-15
+football,South America,Copa América,2020,13.06. 18:00,Peru,Qatar,2020-12-15
+football,South America,Copa América,2020,15.06. 12:00,Chile,Bolivia,2020-12-15
+football,South America,Copa América,2020,15.06. 15:00,Argentina,Uruguay,2020-12-15
+football,South America,Copa América,2020,16.06. 15:00,Paraguay,Australia,2020-12-15
+football,South America,Copa América,2020,16.06. 18:00,Colombia,Venezuela,2020-12-15
+football,South America,Copa América,2020,17.06. 15:00,Ecuador,Qatar,2020-12-15
+football,South America,Copa América,2020,17.06. 18:00,Peru,Brazil,2020-12-15
+football,South America,Copa América,2020,18.06. 16:00,Uruguay,Chile,2020-12-15
+football,South America,Copa América,2020,19.06. 13:00,Australia,Bolivia,2020-12-15
+football,South America,Copa América,2020,19.06. 16:00,Argentina,Paraguay,2020-12-15
+football,South America,Copa América,2020,20.06. 15:00,Venezuela,Ecuador,2020-12-15
+football,South America,Copa América,2020,20.06. 18:00,Colombia,Peru,2020-12-15
+football,South America,Copa América,2020,21.06. 17:00,Brazil,Qatar,2020-12-15
+football,South America,Copa América,2020,22.06. 13:00,Bolivia,Uruguay,2020-12-15
+football,South America,Copa América,2020,22.06. 16:00,Australia,Argentina,2020-12-15
+football,South America,Copa América,2020,23.06. 15:00,Chile,Paraguay,2020-12-15
+football,South America,Copa América,2020,23.06. 18:00,Ecuador,Peru,2020-12-15
+football,South America,Copa América,2020,24.06. 15:00,Qatar,Venezuela,2020-12-15
+football,South America,Copa América,2020,24.06. 18:00,Brazil,Colombia,2020-12-15
+football,South America,Copa América,2020,27.06. 16:00,Bolivia,Argentina,2020-12-15
+football,South America,Copa América,2020,27.06. 16:00,Chile,Australia,2020-12-15
+football,South America,Copa América,2020,27.06. 16:00,Uruguay,Paraguay,2020-12-15
+football,South America,Copa América,2020,28.06. 18:00,Ecuador,Brazil,2020-12-15
+football,South America,Copa América,2020,28.06. 18:00,Qatar,Colombia,2020-12-15
+football,South America,Copa América,2020,28.06. 18:00,Venezuela,Peru,2020-12-15
+football,World,Olympic Games Women,2020,19.02. 03:00,South Korea W,China W,2020-12-15
+football,World,Olympic Games Women,2020,24.02. 03:00,China W,South Korea W,2020-12-15
+football,World,Arab Club Champions Cup,2019/2020,04.01. 09:00,Al-Ittihad FC,Al-Shabab,2020-12-15
+football,World,Arab Club Champions Cup,2019/2020,11.01. 11:00,Raja Casablanca,El Ismaily,2020-12-15
+football,World,World Cup,2022,24.03. 12:45,Belgium,Wales,2020-12-15
+football,World,World Cup,2022,24.03. 12:45,Cyprus,Slovakia,2020-12-15
+football,World,World Cup,2022,24.03. 12:45,Estonia,Czech Republic,2020-12-15
+football,World,World Cup,2022,24.03. 12:45,Finland,Bosnia & Herzegovina,2020-12-15
+football,World,World Cup,2022,24.03. 12:45,France,Ukraine,2020-12-15
+football,World,World Cup,2022,24.03. 12:45,Gibraltar,Norway,2020-12-15
+football,World,World Cup,2022,24.03. 12:45,Latvia,Montenegro,2020-12-15
+football,World,World Cup,2022,24.03. 12:45,Malta,Russia,2020-12-15
+football,World,World Cup,2022,24.03. 12:45,Portugal,Azerbaijan,2020-12-15
+football,World,World Cup,2022,24.03. 12:45,Serbia,Ireland,2020-12-15
+football,World,World Cup,2022,24.03. 12:45,Slovenia,Croatia,2020-12-15
+football,World,World Cup,2022,24.03. 12:45,Turkey,Netherlands,2020-12-15
+football,World,World Cup,2022,25.03. 12:45,Andorra,Albania,2020-12-15
+football,World,World Cup,2022,25.03. 12:45,Bulgaria,Switzerland,2020-12-15
+football,World,World Cup,2022,25.03. 12:45,England,San Marino,2020-12-15
+football,World,World Cup,2022,25.03. 12:45,Germany,Iceland,2020-12-15
+football,World,World Cup,2022,25.03. 12:45,Hungary,Poland,2020-12-15
+football,World,World Cup,2022,25.03. 12:45,Israel,Denmark,2020-12-15
+football,World,World Cup,2022,25.03. 12:45,Italy,Northern Ireland,2020-12-15
+football,World,World Cup,2022,25.03. 12:45,Liechtenstein,Armenia,2020-12-15
+football,World,World Cup,2022,25.03. 12:45,Moldova,Faroe Islands,2020-12-15
+football,World,World Cup,2022,25.03. 12:45,Romania,North Macedonia,2020-12-15
+football,World,World Cup,2022,25.03. 12:45,Scotland,Austria,2020-12-15
+football,World,World Cup,2022,25.03. 12:45,Spain,Greece,2020-12-15
+football,World,World Cup,2022,25.03. 12:45,Sweden,Georgia,2020-12-15
+football,World,World Cup,2022,25.03. 14:00,Argentina,Uruguay,2020-12-15
+football,World,World Cup,2022,25.03. 14:00,Bolivia,Peru,2020-12-15
+football,World,World Cup,2022,25.03. 14:00,Chile,Paraguay,2020-12-15
+football,World,World Cup,2022,25.03. 14:00,Colombia,Brazil,2020-12-15
+football,World,World Cup,2022,25.03. 14:00,Venezuela,Ecuador,2020-12-15
+football,World,World Cup,2022,27.03. 07:00,Montenegro,Gibraltar,2020-12-15
+football,World,World Cup,2022,27.03. 07:00,Russia,Slovenia,2020-12-15
+football,World,World Cup,2022,27.03. 10:00,Belarus,Estonia,2020-12-15
+football,World,World Cup,2022,27.03. 10:00,Croatia,Cyprus,2020-12-15
+football,World,World Cup,2022,27.03. 10:00,Norway,Turkey,2020-12-15
+football,World,World Cup,2022,27.03. 12:45,Czech Republic,Belgium,2020-12-15
+football,World,World Cup,2022,27.03. 12:45,Ireland,Luxembourg,2020-12-15
+football,World,World Cup,2022,27.03. 12:45,Netherlands,Latvia,2020-12-15
+football,World,World Cup,2022,27.03. 12:45,Serbia,Portugal,2020-12-15
+football,World,World Cup,2022,27.03. 12:45,Slovakia,Malta,2020-12-15
+football,World,World Cup,2022,28.03. 06:00,Kazakhstan,France,2020-12-15
+football,World,World Cup,2022,28.03. 09:00,Albania,England,2020-12-15
+football,World,World Cup,2022,28.03. 09:00,Armenia,Iceland,2020-12-15
+football,World,World Cup,2022,28.03. 09:00,Denmark,Moldova,2020-12-15
+football,World,World Cup,2022,28.03. 09:00,Georgia,Spain,2020-12-15
+football,World,World Cup,2022,28.03. 11:45,Austria,Faroe Islands,2020-12-15
+football,World,World Cup,2022,28.03. 11:45,Bulgaria,Italy,2020-12-15
+football,World,World Cup,2022,28.03. 11:45,Israel,Scotland,2020-12-15
+football,World,World Cup,2022,28.03. 11:45,Kosovo,Sweden,2020-12-15
+football,World,World Cup,2022,28.03. 11:45,North Macedonia,Liechtenstein,2020-12-15
+football,World,World Cup,2022,28.03. 11:45,Poland,Andorra,2020-12-15
+football,World,World Cup,2022,28.03. 11:45,Romania,Germany,2020-12-15
+football,World,World Cup,2022,28.03. 11:45,San Marino,Hungary,2020-12-15
+football,World,World Cup,2022,28.03. 11:45,Switzerland,Lithuania,2020-12-15
+football,World,World Cup,2022,28.03. 11:45,Ukraine,Finland,2020-12-15
+football,World,World Cup,2022,30.03. 09:00,Azerbaijan,Serbia,2020-12-15
+football,World,World Cup,2022,30.03. 11:45,Belgium,Belarus,2020-12-15
+football,World,World Cup,2022,30.03. 11:45,Croatia,Malta,2020-12-15
+football,World,World Cup,2022,30.03. 11:45,Cyprus,Slovenia,2020-12-15
+football,World,World Cup,2022,30.03. 11:45,Gibraltar,Netherlands,2020-12-15
+football,World,World Cup,2022,30.03. 11:45,Luxembourg,Portugal,2020-12-15
+football,World,World Cup,2022,30.03. 11:45,Montenegro,Norway,2020-12-15
+football,World,World Cup,2022,30.03. 11:45,Slovakia,Russia,2020-12-15
+football,World,World Cup,2022,30.03. 11:45,Turkey,Latvia,2020-12-15
+football,World,World Cup,2022,30.03. 11:45,Wales,Czech Republic,2020-12-15
+football,World,World Cup,2022,30.03. 13:00,Brazil,Argentina,2020-12-15
+football,World,World Cup,2022,30.03. 13:00,Ecuador,Chile,2020-12-15
+football,World,World Cup,2022,30.03. 13:00,Paraguay,Colombia,2020-12-15
+football,World,World Cup,2022,30.03. 13:00,Peru,Venezuela,2020-12-15
+football,World,World Cup,2022,30.03. 13:00,Uruguay,Bolivia,2020-12-15
+football,World,World Cup,2022,31.03. 09:00,Armenia,Romania,2020-12-15
+football,World,World Cup,2022,31.03. 11:45,Andorra,Hungary,2020-12-15
+football,World,World Cup,2022,31.03. 11:45,Austria,Denmark,2020-12-15
+football,World,World Cup,2022,31.03. 11:45,Bosnia & Herzegovina,France,2020-12-15
+football,World,World Cup,2022,31.03. 11:45,England,Poland,2020-12-15
+football,World,World Cup,2022,31.03. 11:45,Germany,North Macedonia,2020-12-15
+football,World,World Cup,2022,31.03. 11:45,Greece,Georgia,2020-12-15
+football,World,World Cup,2022,31.03. 11:45,Liechtenstein,Iceland,2020-12-15
+football,World,World Cup,2022,31.03. 11:45,Lithuania,Italy,2020-12-15
+football,World,World Cup,2022,31.03. 11:45,Moldova,Israel,2020-12-15
+football,World,World Cup,2022,31.03. 11:45,Northern Ireland,Bulgaria,2020-12-15
+football,World,World Cup,2022,31.03. 11:45,San Marino,Albania,2020-12-15
+football,World,World Cup,2022,31.03. 11:45,Scotland,Faroe Islands,2020-12-15
+football,World,World Cup,2022,31.03. 11:45,Spain,Kosovo,2020-12-15
+football,World,World Cup,2022,31.03. 11:45,Ukraine,Kazakhstan,2020-12-15
+football,World,World Cup,2022,03.06. 13:00,Argentina,Chile,2020-12-15
+football,World,World Cup,2022,03.06. 13:00,Bolivia,Venezuela,2020-12-15
+football,World,World Cup,2022,03.06. 13:00,Brazil,Ecuador,2020-12-15
+football,World,World Cup,2022,03.06. 13:00,Peru,Colombia,2020-12-15
+football,Europe,Premier League (Crimea),2020/2021,17.12. 03:00,Gvardeyets,Ocean Kerch,2020-12-15
+football,World,World Cup,2022,03.06. 13:00,Uruguay,Paraguay,2020-12-15
+football,World,World Cup,2022,08.06. 13:00,Chile,Bolivia,2020-12-15
+football,Europe,Premier League (Crimea),2020/2021,17.12. 03:00,Kafa,TSK Simferopol,2020-12-15
+football,World,World Cup,2022,08.06. 13:00,Colombia,Argentina,2020-12-15
+football,World,World Cup,2022,08.06. 13:00,Ecuador,Peru,2020-12-15
+football,World,World Cup,2022,08.06. 13:00,Paraguay,Brazil,2020-12-15
+football,Europe,Premier League (Crimea),2020/2021,17.12. 03:00,SKCHF Sevastopol,Kyzyltash,2020-12-15
+football,Europe,Premier League (Crimea),2020/2021,17.12. 05:00,Krymteplytsia,Yevpatoriya,2020-12-15
+football,Europe,Premier League (Crimea),2020/2021,21.12. 03:00,Yevpatoriya,SKCHF Sevastopol,2020-12-15
+football,World,World Cup,2022,08.06. 13:00,Venezuela,Uruguay,2020-12-15
+football,World,World Cup,2022,01.09. 07:00,Kazakhstan,Ukraine,2020-12-15
+football,World,World Cup,2022,01.09. 11:45,Denmark,Scotland,2020-12-15
+football,World,World Cup,2022,01.09. 11:45,Faroe Islands,Israel,2020-12-15
+football,World,World Cup,2022,01.09. 11:45,France,Bosnia & Herzegovina,2020-12-15
+football,World,World Cup,2022,01.09. 11:45,Latvia,Gibraltar,2020-12-15
+football,World,World Cup,2022,01.09. 11:45,Luxembourg,Azerbaijan,2020-12-15
+football,World,World Cup,2022,01.09. 11:45,Malta,Cyprus,2020-12-15
+football,World,World Cup,2022,01.09. 11:45,Moldova,Austria,2020-12-15
+football,World,World Cup,2022,01.09. 11:45,Norway,Netherlands,2020-12-15
+football,World,World Cup,2022,01.09. 11:45,Portugal,Ireland,2020-12-15
+football,World,World Cup,2022,01.09. 11:45,Russia,Croatia,2020-12-15
+football,World,World Cup,2022,01.09. 11:45,Slovenia,Slovakia,2020-12-15
+football,World,World Cup,2022,01.09. 11:45,Turkey,Montenegro,2020-12-15
+football,World,World Cup,2022,02.09. 09:00,Georgia,Kosovo,2020-12-15
+football,Europe,Euro U19 Women,2021,16.02. 05:00,Montenegro U19 W,Hungary U19 W,2020-12-15
+football,World,World Cup,2022,02.09. 11:45,Andorra,San Marino,2020-12-15
+football,Europe,Euro U19 Women,2021,16.02. 05:00,Scotland U19 W,Estonia U19 W,2020-12-15
+football,World,World Cup,2022,02.09. 11:45,Czech Republic,Belarus,2020-12-15
+football,Europe,Euro U17 Women,2021,04.02. 05:00,England U17 W,Moldova U17 W,2020-12-15
+football,Europe,Euro U19 Women,2021,17.02. 05:00,England U19 W,Kosovo U19 W,2020-12-15
+football,World,World Cup,2022,02.09. 11:45,Estonia,Belgium,2020-12-15
+football,Europe,Euro U17 Women,2021,04.02. 05:00,Northern Ireland U17 W,Slovenia U17 W,2020-12-15
+football,Europe,Euro U19 Women,2021,17.02. 05:00,Greece U19 W,Ireland U19 W,2020-12-15
+football,World,World Cup,2022,02.09. 11:45,Hungary,England,2020-12-15
+football,Europe,Euro U17 Women,2021,07.02. 05:00,Bulgaria U17 W,Russia U17 W,2020-12-15
+football,Europe,Euro U19 Women,2021,17.02. 05:00,Israel U19 W,Slovenia U19 W,2020-12-15
+football,World,World Cup,2022,02.09. 11:45,Iceland,Romania,2020-12-15
+football,Europe,Euro U17 Women,2021,07.02. 05:00,England U17 W,Northern Ireland U17 W,2020-12-15
+football,Europe,Euro U17 Women,2021,07.02. 05:00,Netherlands U17 W,Albania U17 W,2020-12-15
+football,Europe,Euro U19 Women,2021,17.02. 05:00,Netherlands U19 W,Lithuania U19 W,2020-12-15
+football,Europe,Euro U19 Women,2021,17.02. 05:00,Switzerland U19 W,Armenia U19 W,2020-12-15
+football,World,World Cup,2022,02.09. 11:45,Italy,Bulgaria,2020-12-15
+football,Europe,Euro U17 Women,2021,07.02. 05:00,Romania U17 W,Sweden U17 W,2020-12-15
+football,Europe,Euro U19 Women,2021,17.02. 05:00,Turkey U19 W,Northern Ireland U19 W,2020-12-15
+football,World,World Cup,2022,02.09. 11:45,Liechtenstein,Germany,2020-12-15
+football,Europe,Euro Women,2021,18.02. 06:00,Azerbaijan W,Spain W,2020-12-15
+football,Europe,Euro U17 Women,2021,07.02. 05:00,Slovenia U17 W,Moldova U17 W,2020-12-15
+football,Europe,Euro U19 Women,2021,18.02. 05:00,Albania U19 W,Russia U19 W,2020-12-15
+football,World,World Cup,2022,02.09. 11:45,Lithuania,Northern Ireland,2020-12-15
+football,Europe,Euro Women,2021,19.02. 08:15,Finland W,Portugal W,2020-12-15
+football,Europe,Euro U17 Women,2021,07.02. 05:00,Spain U17 W,Armenia U17 W,2020-12-15
+football,Europe,Euro U17 Women,2021,09.02. 05:00,Croatia U17 W,Serbia U17 W,2020-12-15
+football,Europe,Euro U19 Women,2021,18.02. 05:00,Azerbaijan U19 W,Sweden U19 W,2020-12-15
+football,World,World Cup,2022,02.09. 11:45,North Macedonia,Armenia,2020-12-15
+football,Europe,Euro Women,2021,19.02. 09:00,Cyprus W,Scotland W,2020-12-15
+football,Europe,Euro U17 Women,2021,09.02. 05:00,Denmark U17 W,Kazakhstan U17 W,2020-12-15
+football,Europe,Euro U19 Women,2021,18.02. 05:00,Belgium U19 W,Cyprus U19 W,2020-12-15
+football,World,World Cup,2022,02.09. 11:45,Poland,Albania,2020-12-15
+football,Europe,Euro Women,2021,23.02. 05:00,Azerbaijan W,Moldova W,2020-12-15
+football,Europe,Euro U17 Women,2021,09.02. 05:00,Poland U17 W,Montenegro U17 W,2020-12-15
+football,Europe,Euro U19 Women,2021,18.02. 05:00,Bosnia & Herzegovina U19 W,Poland U19 W,2020-12-15
+football,Europe,Euro U19 Women,2021,18.02. 05:00,Bulgaria U19 W,Iceland U19 W,2020-12-15
+football,World,World Cup,2022,02.09. 11:45,Sweden,Spain,2020-12-15
+football,Europe,Euro Women,2021,23.02. 08:00,Estonia W,Slovenia W,2020-12-15
+football,Europe,Euro Women,2021,23.02. 09:00,Cyprus W,Finland W,2020-12-15
+football,Europe,Euro U17 Women,2021,09.02. 05:00,Slovakia U17 W,Switzerland U17 W,2020-12-15
+football,Europe,Euro U17 Women,2021,10.02. 05:00,Azerbaijan U17 W,Belgium U17 W,2020-12-15
+football,Europe,Euro U19 Women,2021,18.02. 05:00,Croatia U19 W,Austria U19 W,2020-12-15
+football,Europe,Euro U19 Women,2021,18.02. 05:00,Czech Republic U19 W,Latvia U19 W,2020-12-15
+football,World,World Cup,2022,02.09. 13:00,Bolivia,Colombia,2020-12-15
+football,Europe,Euro Women,2021,23.02. 11:30,Scotland W,Portugal W,2020-12-15
+football,Europe,Euro U17 Women,2021,10.02. 05:00,Germany U17 W,Malta U17 W,2020-12-15
+football,Europe,Euro U19 Women,2021,18.02. 05:00,Denmark U19 W,Moldova U19 W,2020-12-15
+football,World,World Cup,2022,02.09. 13:00,Chile,Brazil,2020-12-15
+football,World,World Cup,2022,02.09. 13:00,Ecuador,Paraguay,2020-12-15
+football,Europe,Euro Women,2021,23.02. 12:00,Spain W,Poland W,2020-12-15
+football,Europe,Euro U17 Women,2021,10.02. 05:00,Moldova U17 W,Northern Ireland U17 W,2020-12-15
+football,Europe,Euro U19 Women,2021,18.02. 05:00,Finland U19 W,Georgia U19 W,2020-12-15
+football,World,World Cup,2022,02.09. 13:00,Peru,Uruguay,2020-12-15
+football,World,World Cup,2022,02.09. 13:00,Venezuela,Argentina,2020-12-15
+football,Europe,Euro Women,2021,24.02. 11:45,Italy W,Israel W,2020-12-15
+football,Europe,Euro U17 Women,2021,10.02. 05:00,Netherlands U17 W,Romania U17 W,2020-12-15
+football,Europe,Euro U19 Women,2021,18.02. 05:00,France U19 W,North Macedonia U19 W,2020-12-15
+football,Europe,Euro U19 Women,2021,18.02. 05:00,Germany U19 W,Kazakhstan U19 W,2020-12-15
+football,Europe,Euro U17 Women,2021,10.02. 05:00,Russia U17 W,Armenia U17 W,2020-12-15
+football,Europe,Euro U19 Women,2021,18.02. 05:00,Italy U19 W,Andorra U19 W,2020-12-15
+football,Europe,Euro U17 Women,2021,10.02. 05:00,Slovenia U17 W,England U17 W,2020-12-15
+football,Europe,Euro U19 Women,2021,18.02. 05:00,Norway U19 W,Faroe Islands U19 W,2020-12-15
+football,Europe,Euro U19 Women,2021,18.02. 05:00,Romania U19 W,Portugal U19 W,2020-12-15
+football,Europe,Euro U17 Women,2021,10.02. 05:00,Spain U17 W,Bulgaria U17 W,2020-12-15
+football,Europe,Euro U19 Women,2021,18.02. 05:00,Ukraine U19 W,Serbia U19 W,2020-12-15
+football,Europe,Euro U17 Women,2021,10.02. 05:00,Sweden U17 W,Albania U17 W,2020-12-15
+football,Europe,Euro U17 Women,2021,12.02. 05:00,Denmark U17 W,Slovakia U17 W,2020-12-15
+football,Europe,Euro U19 Women,2021,18.02. 05:00,Wales U19 W,Slovakia U19 W,2020-12-15
+football,Europe,Euro U17 Women,2021,12.02. 05:00,Poland U17 W,Croatia U17 W,2020-12-15
+football,Europe,Euro U19 Women,2021,19.02. 05:00,Hungary U19 W,Estonia U19 W,2020-12-15
+football,Europe,Euro U17 Women,2021,12.02. 05:00,Serbia U17 W,Montenegro U17 W,2020-12-15
+football,Europe,Euro U17 Women,2021,12.02. 05:00,Switzerland U17 W,Kazakhstan U17 W,2020-12-15
+football,Europe,Euro U19 Women,2021,19.02. 05:00,Scotland U19 W,Montenegro U19 W,2020-12-15
+football,Europe,Euro U19 Women,2021,20.02. 05:00,England U19 W,Greece U19 W,2020-12-15
+football,Europe,Euro U17 Women,2021,13.02. 05:00,Albania U17 W,Romania U17 W,2020-12-15
+football,Europe,Euro U17 Women,2021,13.02. 05:00,Armenia U17 W,Bulgaria U17 W,2020-12-15
+football,Europe,Euro U19 Women,2021,20.02. 05:00,Ireland U19 W,Kosovo U19 W,2020-12-15
+football,Europe,Euro U19 Women,2021,20.02. 05:00,Netherlands U19 W,Israel U19 W,2020-12-15
+football,Europe,Euro U19 Women,2021,20.02. 05:00,Northern Ireland U19 W,Armenia U19 W,2020-12-15
+football,Europe,Euro U17 Women,2021,13.02. 05:00,Belgium U17 W,Malta U17 W,2020-12-15
+football,Europe,Euro U17 Women,2021,13.02. 05:00,Germany U17 W,Azerbaijan U17 W,2020-12-15
+football,Europe,Euro U17 Women,2021,13.02. 05:00,Russia U17 W,Spain U17 W,2020-12-15
+football,Europe,Euro U19 Women,2021,20.02. 05:00,Slovenia U19 W,Lithuania U19 W,2020-12-15
+football,Europe,Euro U19 Women,2021,20.02. 05:00,Switzerland U19 W,Turkey U19 W,2020-12-15
+football,Europe,Euro U19 Women,2021,21.02. 05:00,Austria U19 W,Kazakhstan U19 W,2020-12-15
+football,Europe,Euro U17 Women,2021,13.02. 05:00,Sweden U17 W,Netherlands U17 W,2020-12-15
+football,Europe,Euro U19 Women,2021,21.02. 05:00,Belgium U19 W,Azerbaijan U19 W,2020-12-15
+football,Europe,Euro U19 Women,2021,21.02. 05:00,Czech Republic U19 W,Romania U19 W,2020-12-15
+football,Europe,Euro U19 Women,2021,21.02. 05:00,Denmark U19 W,Albania U19 W,2020-12-15
+football,Europe,Euro U17 Women,2021,15.02. 05:00,Kazakhstan U17 W,Slovakia U17 W,2020-12-15
+football,Europe,Euro U17 Women,2021,15.02. 05:00,Montenegro U17 W,Croatia U17 W,2020-12-15
+football,Europe,Euro U17 Women,2021,15.02. 05:00,Serbia U17 W,Poland U17 W,2020-12-15
+football,Europe,Euro U19 Women,2021,21.02. 05:00,Finland U19 W,Bulgaria U19 W,2020-12-15
+football,Europe,Euro U17 Women,2021,15.02. 05:00,Switzerland U17 W,Denmark U17 W,2020-12-15
+football,Europe,Euro U17 Women,2021,16.02. 05:00,Belgium U17 W,Germany U17 W,2020-12-15
+football,Europe,Euro U17 Women,2021,16.02. 05:00,Malta U17 W,Azerbaijan U17 W,2020-12-15
+football,Europe,Euro U19 Women,2021,21.02. 05:00,France U19 W,Wales U19 W,2020-12-15
+football,Europe,Euro U19 Women,2021,21.02. 05:00,Germany U19 W,Croatia U19 W,2020-12-15
+football,Europe,Euro U17 Women,2021,17.02. 05:00,Finland U17 W,Israel U17 W,2020-12-15
+football,Europe,Euro U19 Women,2021,21.02. 05:00,Iceland U19 W,Georgia U19 W,2020-12-15
+football,Europe,Euro U19 Women,2021,21.02. 05:00,Italy U19 W,Ukraine U19 W,2020-12-15
+football,Europe,Euro U19 Women,2021,21.02. 05:00,Norway U19 W,Bosnia & Herzegovina U19 W,2020-12-15
+football,Europe,Euro U17 Women,2021,17.02. 05:00,Turkey U17 W,Hungary U17 W,2020-12-15
+football,Europe,Euro U17 Women,2021,18.02. 05:00,Bosnia & Herzegovina U17 W,Czech Republic U17 W,2020-12-15
+football,Europe,Euro U19 Women,2021,21.02. 05:00,Poland U19 W,Faroe Islands U19 W,2020-12-15
+football,Europe,Euro U19 Women,2021,21.02. 05:00,Portugal U19 W,Latvia U19 W,2020-12-15
+football,Europe,Euro U17 Women,2021,18.02. 05:00,Ireland U17 W,North Macedonia U17 W,2020-12-15
+football,Europe,Euro U17 Women,2021,18.02. 05:00,Norway U17 W,Georgia U17 W,2020-12-15
+football,Europe,Euro U17 Women,2021,18.02. 05:00,Wales U17 W,Portugal U17 W,2020-12-15
+football,Europe,Euro U19 Women,2021,21.02. 05:00,Russia U19 W,Moldova U19 W,2020-12-15
+football,Europe,Euro U19 Women,2021,21.02. 05:00,Serbia U19 W,Andorra U19 W,2020-12-15
+football,Europe,Euro U17 Women,2021,20.02. 05:00,Finland U17 W,Turkey U17 W,2020-12-15
+football,Europe,Euro U17 Women,2021,20.02. 05:00,Hungary U17 W,Israel U17 W,2020-12-15
+football,Europe,Euro U17 Women,2021,21.02. 05:00,Czech Republic U17 W,Georgia U17 W,2020-12-15
+football,Europe,Euro U19 Women,2021,21.02. 05:00,Slovakia U19 W,North Macedonia U19 W,2020-12-15
+football,Europe,Euro U19 Women,2021,21.02. 05:00,Sweden U19 W,Cyprus U19 W,2020-12-15
+football,Europe,Euro U19 Women,2021,22.02. 05:00,Estonia U19 W,Montenegro U19 W,2020-12-15
+football,Europe,Euro U17 Women,2021,21.02. 05:00,Ireland U17 W,Wales U17 W,2020-12-15
+football,Europe,Euro U19 Women,2021,22.02. 05:00,Hungary U19 W,Scotland U19 W,2020-12-15
+football,Europe,Euro U19 Women,2021,23.02. 05:00,Armenia U19 W,Turkey U19 W,2020-12-15
+football,Europe,Euro U17 Women,2021,21.02. 05:00,Norway U17 W,Bosnia & Herzegovina U17 W,2020-12-15
+football,Europe,Euro U17 Women,2021,21.02. 05:00,Portugal U17 W,North Macedonia U17 W,2020-12-15
+football,Europe,Euro U19 Women,2021,23.02. 05:00,Ireland U19 W,England U19 W,2020-12-15
+football,Europe,Euro U19 Women,2021,23.02. 05:00,Kosovo U19 W,Greece U19 W,2020-12-15
+football,Europe,Euro U17 Women,2021,23.02. 05:00,Hungary U17 W,Finland U17 W,2020-12-15
+football,Europe,Euro U17 Women,2021,23.02. 05:00,Israel U17 W,Turkey U17 W,2020-12-15
+football,Europe,Euro U19 Women,2021,23.02. 05:00,Lithuania U19 W,Israel U19 W,2020-12-15
+football,Europe,Euro U19 Women,2021,23.02. 05:00,Northern Ireland U19 W,Switzerland U19 W,2020-12-15
+football,Europe,Euro U17 Women,2021,24.02. 05:00,Czech Republic U17 W,Norway U17 W,2020-12-15
+football,Europe,Euro U17 Women,2021,24.02. 05:00,Georgia U17 W,Bosnia & Herzegovina U17 W,2020-12-15
+football,Europe,Euro U19 Women,2021,23.02. 05:00,Slovenia U19 W,Netherlands U19 W,2020-12-15
+football,Europe,Euro U19 Women,2021,24.02. 05:00,Andorra U19 W,Ukraine U19 W,2020-12-15
+football,Europe,Euro U19 Women,2021,24.02. 05:00,Austria U19 W,Germany U19 W,2020-12-15
+football,Europe,Euro U17 Women,2021,24.02. 05:00,North Macedonia U17 W,Wales U17 W,2020-12-15
+football,Europe,Euro U17 Women,2021,24.02. 05:00,Portugal U17 W,Ireland U17 W,2020-12-15
+football,Europe,Euro U19 Women,2021,24.02. 05:00,Cyprus U19 W,Azerbaijan U19 W,2020-12-15
+football,Europe,Euro U19 Women,2021,24.02. 05:00,Faroe Islands U19 W,Bosnia & Herzegovina U19 W,2020-12-15
+football,Europe,Euro U19 Women,2021,24.02. 05:00,Georgia U19 W,Bulgaria U19 W,2020-12-15
+football,Europe,Euro U19 Women,2021,24.02. 05:00,Iceland U19 W,Finland U19 W,2020-12-15
+football,Europe,Euro U19 Women,2021,24.02. 05:00,Kazakhstan U19 W,Croatia U19 W,2020-12-15
+football,Europe,Euro U19 Women,2021,24.02. 05:00,Latvia U19 W,Romania U19 W,2020-12-15
+football,Europe,Euro U19 Women,2021,24.02. 05:00,Moldova U19 W,Albania U19 W,2020-12-15
+football,Europe,Euro U19 Women,2021,24.02. 05:00,North Macedonia U19 W,Wales U19 W,2020-12-15
+football,Europe,Euro U19 Women,2021,24.02. 05:00,Poland U19 W,Norway U19 W,2020-12-15
+football,Europe,Euro U19 Women,2021,24.02. 05:00,Portugal U19 W,Czech Republic U19 W,2020-12-15
+football,Europe,Euro U19 Women,2021,24.02. 05:00,Russia U19 W,Denmark U19 W,2020-12-15
+football,Europe,Euro U19 Women,2021,24.02. 05:00,Serbia U19 W,Italy U19 W,2020-12-15
+football,Europe,Euro U19 Women,2021,24.02. 05:00,Slovakia U19 W,France U19 W,2020-12-15
+football,Europe,Euro U19 Women,2021,24.02. 05:00,Sweden U19 W,Belgium U19 W,2020-12-15
+football,Europe,UEFA Nations League,2020/2021,24.03. 09:00,Cyprus,Estonia,2020-12-15
+football,Europe,UEFA Nations League,2020/2021,24.03. 09:00,Kazakhstan,Moldova,2020-12-15
+football,Europe,UEFA Nations League,2020/2021,28.03. 08:00,Estonia,Cyprus,2020-12-15
+football,Europe,UEFA Nations League,2020/2021,28.03. 08:00,Moldova,Kazakhstan,2020-12-15
+football,Europe,UEFA Nations League,2020/2021,06.10. 11:45,Italy,Spain,2020-12-15
+football,Europe,UEFA Nations League,2020/2021,07.10. 11:45,Belgium,France,2020-12-15
+football,Europe,Europa League,2020/2021,18.02. 09:55,Braga,AS Roma,2020-12-15
+football,Europe,Europa League,2020/2021,18.02. 09:55,Dyn. Kyiv,Club Brugge KV,2020-12-15
+football,Europe,Europa League,2020/2021,18.02. 09:55,FK Crvena zvezda,AC Milan,2020-12-15
+football,Europe,Europa League,2020/2021,18.02. 09:55,Krasnodar,D. Zagreb,2020-12-15
+football,Europe,Europa League,2020/2021,18.02. 09:55,Olympiacos Piraeus,PSV,2020-12-15
+football,Europe,Euro U21,2021,24.03. 09:00,Czech Republic U21,Italy U21,2020-12-15
+football,Europe,Europa League,2020/2021,18.02. 09:55,Real Sociedad,Manchester Utd,2020-12-15
+football,Europe,Europa League,2020/2021,18.02. 09:55,Slavia Prague,Leicester,2020-12-15
+football,Europe,Euro U21,2021,24.03. 09:00,Hungary U21,Germany U21,2020-12-15
+football,Europe,Euro U21,2021,24.03. 09:00,Romania U21,Netherlands U21,2020-12-15
+football,Europe,Euro U21,2021,24.03. 09:00,Slovenia U21,Spain U21,2020-12-15
+football,Europe,Europa League,2020/2021,18.02. 09:55,Wolfsberger AC,Tottenham,2020-12-15
+football,Europe,Europa League,2020/2021,18.02. 09:55,Young Boys,Bayer Leverkusen,2020-12-15
+football,Europe,Champions League,2020/2021,16.02. 12:00,Barcelona,Paris SG,2020-12-15
+football,Europe,Euro U21,2021,25.03. 09:00,England U21,Switzerland U21,2020-12-15
+football,Europe,Euro U21,2021,25.03. 09:00,France U21,Denmark U21,2020-12-15
+football,Europe,Euro U21,2021,25.03. 09:00,Portugal U21,Croatia U21,2020-12-15
+football,Europe,Euro U21,2021,25.03. 09:00,Russia U21,Iceland U21,2020-12-15
+football,Europe,Europa League,2020/2021,18.02. 12:00,Antwerp,Rangers,2020-12-15
+football,Europe,Europa League,2020/2021,18.02. 12:00,Benfica,Arsenal,2020-12-15
+football,Europe,Champions League,2020/2021,16.02. 12:00,RB Leipzig,Liverpool,2020-12-15
+football,Europe,Champions League,2020/2021,17.02. 12:00,FC Porto,Juventus,2020-12-15
+football,Europe,Euro U21,2021,27.03. 09:00,Germany U21,Netherlands U21,2020-12-15
+football,Europe,Euro U21,2021,27.03. 09:00,Hungary U21,Romania U21,2020-12-15
+football,Europe,Europa League,2020/2021,18.02. 12:00,Granada CF,Napoli,2020-12-15
+football,Europe,Europa League,2020/2021,18.02. 12:00,Lille,Ajax,2020-12-15
+football,Europe,Champions League,2020/2021,17.02. 12:00,Sevilla,Dortmund,2020-12-15
+football,Europe,Champions League,2020/2021,23.02. 12:00,Atl. Madrid,Chelsea,2020-12-15
+football,Europe,Euro U21,2021,27.03. 09:00,Slovenia U21,Czech Republic U21,2020-12-15
+football,Europe,Euro U21,2021,27.03. 09:00,Spain U21,Italy U21,2020-12-15
+football,Europe,Europa League,2020/2021,18.02. 12:00,Maccabi Tel Aviv,Shakhtar Donetsk,2020-12-15
+football,Europe,Europa League,2020/2021,18.02. 12:00,Molde,Hoffenheim,2020-12-15
+football,Europe,Europa League,2020/2021,18.02. 12:00,Salzburg,Villarreal,2020-12-15
+football,Europe,Champions League,2020/2021,23.02. 12:00,Lazio,Bayern Munich,2020-12-15
+football,Europe,Champions League,2020/2021,24.02. 12:00,Atalanta,Real Madrid,2020-12-15
+football,Europe,Euro U21,2021,28.03. 08:00,Croatia U21,Switzerland U21,2020-12-15
+football,Europe,Euro U21,2021,28.03. 08:00,Iceland U21,Denmark U21,2020-12-15
+football,Europe,Euro U21,2021,28.03. 08:00,Portugal U21,England U21,2020-12-15
+football,Europe,Europa League,2020/2021,24.02. 09:00,Tottenham,Wolfsberger AC,2020-12-15
+football,Europe,Europa League,2020/2021,25.02. 09:55,Ajax,Lille,2020-12-15
+football,Europe,Champions League,2020/2021,24.02. 12:00,B. Monchengladbach,Manchester City,2020-12-15
+football,Europe,Champions League,2020/2021,09.03. 12:00,Dortmund,Sevilla,2020-12-15
+football,Europe,Champions League,2020/2021,09.03. 12:00,Juventus,FC Porto,2020-12-15
+football,Europe,Euro U21,2021,28.03. 08:00,Russia U21,France U21,2020-12-15
+football,Europe,Euro U21,2021,30.03. 08:00,Germany U21,Romania U21,2020-12-15
+football,Europe,Euro U21,2021,30.03. 08:00,Italy U21,Slovenia U21,2020-12-15
+football,Europe,Europa League,2020/2021,25.02. 09:55,Arsenal,Benfica,2020-12-15
+football,Europe,Europa League,2020/2021,25.02. 09:55,Hoffenheim,Molde,2020-12-15
+football,Europe,Champions League,2020/2021,10.03. 12:00,Liverpool,RB Leipzig,2020-12-15
+football,Europe,Champions League,2020/2021,10.03. 12:00,Paris SG,Barcelona,2020-12-15
+football,Europe,Champions League,2020/2021,16.03. 13:00,Manchester City,B. Monchengladbach,2020-12-15
+football,Europe,Euro U21,2021,30.03. 08:00,Netherlands U21,Hungary U21,2020-12-15
+football,Europe,Euro U21,2021,30.03. 08:00,Spain U21,Czech Republic U21,2020-12-15
+football,Europe,Euro U21,2021,31.03. 08:00,Croatia U21,England U21,2020-12-15
+football,Europe,Europa League,2020/2021,25.02. 09:55,Napoli,Granada CF,2020-12-15
+football,Europe,Champions League,2020/2021,16.03. 13:00,Real Madrid,Atalanta,2020-12-15
+football,Europe,Champions League,2020/2021,17.03. 13:00,Bayern Munich,Lazio,2020-12-15
+football,Europe,Euro U21,2021,31.03. 08:00,Denmark U21,Russia U21,2020-12-15
+football,Europe,Europa League,2020/2021,25.02. 09:55,Rangers,Antwerp,2020-12-15
+football,Europe,Europa League,2020/2021,25.02. 09:55,Shakhtar Donetsk,Maccabi Tel Aviv,2020-12-15
+football,Europe,Europa League,2020/2021,25.02. 09:55,Villarreal,Salzburg,2020-12-15
+football,Europe,Champions League,2020/2021,17.03. 13:00,Chelsea,Atl. Madrid,2020-12-15
+football,Europe,Euro U21,2021,31.03. 08:00,Iceland U21,France U21,2020-12-15
+football,Europe,Euro U21,2021,31.03. 08:00,Switzerland U21,Portugal U21,2020-12-15
+football,Europe,Europa League,2020/2021,25.02. 12:00,AC Milan,FK Crvena zvezda,2020-12-15
+football,Europe,Europa League,2020/2021,25.02. 12:00,AS Roma,Braga,2020-12-15
+football,Europe,Europa League,2020/2021,25.02. 12:00,Bayer Leverkusen,Young Boys,2020-12-15
+football,Europe,Europa League,2020/2021,25.02. 12:00,Club Brugge KV,Dyn. Kyiv,2020-12-15
+football,Europe,Europa League,2020/2021,25.02. 12:00,D. Zagreb,Krasnodar,2020-12-15
+football,Europe,Europa League,2020/2021,25.02. 12:00,Leicester,Slavia Prague,2020-12-15
+football,Europe,Europa League,2020/2021,25.02. 12:00,Manchester Utd,Real Sociedad,2020-12-15
+football,Europe,Europa League,2020/2021,25.02. 12:00,PSV,Olympiacos Piraeus,2020-12-15
+football,North & Central America,CONCACAF Nations League,2019/2020,04.06. 15:30,Honduras,USA,2020-12-15
+football,North & Central America,CONCACAF Nations League,2019/2020,04.06. 15:30,Mexico,Costa Rica,2020-12-15
+football,North & Central America,Gold Cup,2021,02.07. 13:00,Bermuda,Barbados,2020-12-15
+football,North & Central America,Gold Cup,2021,02.07. 13:00,Cuba,French Guiana,2020-12-15
+football,North & Central America,Gold Cup,2021,02.07. 13:00,Guadeloupe,Bahamas,2020-12-15
+football,North & Central America,Gold Cup,2021,02.07. 13:00,Guatemala,Guyana,2020-12-15
+football,North & Central America,Gold Cup,2021,02.07. 13:00,Haiti,Saint Vincent and the Grenadines,2020-12-15
+football,North & Central America,Gold Cup,2021,02.07. 13:00,Trinidad & Tobago,Montserrat,2020-12-15
+football,Europe,Euro,2020,11.06. 12:00,Turkey,Italy,2020-12-15
+football,Europe,Euro,2020,12.06. 06:00,Wales,Switzerland,2020-12-15
+football,Europe,Euro,2020,12.06. 09:00,Denmark,Finland,2020-12-15
+football,Europe,Euro,2020,12.06. 12:00,Belgium,Russia,2020-12-15
+football,Europe,Euro,2020,13.06. 06:00,England,Croatia,2020-12-15
+football,Europe,Euro,2020,13.06. 09:00,Austria,North Macedonia,2020-12-15
+football,Europe,Euro,2020,13.06. 12:00,Netherlands,Ukraine,2020-12-15
+football,Europe,Euro,2020,14.06. 06:00,Scotland,Czech Republic,2020-12-15
+football,Europe,Euro,2020,14.06. 09:00,Poland,Slovakia,2020-12-15
+football,Europe,Euro,2020,14.06. 12:00,Spain,Sweden,2020-12-15
+football,Europe,Euro,2020,15.06. 09:00,Hungary,Portugal,2020-12-15
+football,Europe,Euro,2020,15.06. 12:00,France,Germany,2020-12-15
+football,Europe,Euro,2020,16.06. 06:00,Finland,Russia,2020-12-15
+football,Europe,Euro,2020,16.06. 09:00,Turkey,Wales,2020-12-15
+football,Europe,Euro,2020,16.06. 12:00,Italy,Switzerland,2020-12-15
+football,Europe,Euro,2020,17.06. 06:00,Ukraine,North Macedonia,2020-12-15
+football,Europe,Euro,2020,17.06. 09:00,Denmark,Belgium,2020-12-15
+football,Europe,Euro,2020,17.06. 12:00,Netherlands,Austria,2020-12-15
+football,Europe,Euro,2020,18.06. 06:00,Sweden,Slovakia,2020-12-15
+football,Europe,Euro,2020,18.06. 09:00,Croatia,Czech Republic,2020-12-15
+football,Europe,Euro,2020,18.06. 12:00,England,Scotland,2020-12-15
+football,Europe,Euro,2020,19.06. 06:00,Hungary,France,2020-12-15
+football,Europe,Euro,2020,19.06. 09:00,Portugal,Germany,2020-12-15
+football,Europe,Euro,2020,19.06. 12:00,Spain,Poland,2020-12-15
+football,Europe,Euro,2020,20.06. 09:00,Italy,Wales,2020-12-15
+football,Europe,Euro,2020,20.06. 09:00,Switzerland,Turkey,2020-12-15
+football,Europe,Euro,2020,21.06. 09:00,North Macedonia,Netherlands,2020-12-15
+football,Europe,Euro,2020,21.06. 09:00,Ukraine,Austria,2020-12-15
+football,Europe,Euro,2020,21.06. 12:00,Finland,Belgium,2020-12-15
+football,Europe,Euro,2020,21.06. 12:00,Russia,Denmark,2020-12-15
+football,Europe,Euro,2020,22.06. 12:00,Croatia,Scotland,2020-12-15
+football,Europe,Euro,2020,22.06. 12:00,Czech Republic,England,2020-12-15
+football,Europe,Euro,2020,23.06. 09:00,Slovakia,Spain,2020-12-15
+football,Europe,Euro,2020,23.06. 09:00,Sweden,Poland,2020-12-15
+football,Europe,Euro,2020,23.06. 12:00,Germany,Hungary,2020-12-15
+football,Europe,Euro,2020,23.06. 12:00,Portugal,France,2020-12-15
+football,Africa,African Nations Championship,2020,16.01. 08:00,Cameroon,Zimbabwe,2020-12-15
+football,Africa,African Nations Championship,2020,16.01. 11:00,Mali,Burkina Faso,2020-12-15
+football,Africa,African Nations Championship,2020,17.01. 08:00,Libya,Niger,2020-12-15
+football,Africa,African Nations Championship,2020,17.01. 11:00,D.R. Congo,Congo,2020-12-15
+football,Africa,African Nations Championship,2020,18.01. 08:00,Morocco,Togo,2020-12-15
+football,Africa,African Nations Championship,2020,18.01. 11:00,Rwanda,Uganda,2020-12-15
+football,Africa,African Nations Championship,2020,19.01. 08:00,Zambia,Tanzania,2020-12-15
+football,Africa,African Nations Championship,2020,19.01. 11:00,Guinea,Namibia,2020-12-15
+football,Africa,African Nations Championship,2020,20.01. 08:00,Cameroon,Mali,2020-12-15
+football,Africa,African Nations Championship,2020,20.01. 11:00,Burkina Faso,Zimbabwe,2020-12-15
+football,Africa,African Nations Championship,2020,21.01. 08:00,Libya,D.R. Congo,2020-12-15
+football,Africa,African Nations Championship,2020,21.01. 11:00,Congo,Niger,2020-12-15
+football,Africa,African Nations Championship,2020,22.01. 08:00,Morocco,Rwanda,2020-12-15
+football,Africa,African Nations Championship,2020,22.01. 11:00,Uganda,Togo,2020-12-15
+football,Africa,African Nations Championship,2020,23.01. 08:00,Zambia,Guinea,2020-12-15
+football,Africa,African Nations Championship,2020,23.01. 11:00,Namibia,Tanzania,2020-12-15
+football,Africa,African Nations Championship,2020,24.01. 11:00,Burkina Faso,Cameroon,2020-12-15
+football,Africa,African Nations Championship,2020,24.01. 11:00,Zimbabwe,Mali,2020-12-15
+football,Africa,African Nations Championship,2020,25.01. 11:00,Congo,Libya,2020-12-15
+football,Africa,African Nations Championship,2020,25.01. 11:00,Niger,D.R. Congo,2020-12-15
+football,Africa,African Nations Championship,2020,26.01. 11:00,Togo,Rwanda,2020-12-15
+football,Africa,African Nations Championship,2020,26.01. 11:00,Uganda,Morocco,2020-12-15
+football,Africa,African Nations Championship,2020,27.01. 11:00,Namibia,Zambia,2020-12-15
+football,Africa,African Nations Championship,2020,27.01. 11:00,Tanzania,Guinea,2020-12-15
+football,Asia,AFC Championship U19,2020,03.03. 03:00,Australia U19,Vietnam U19,2020-12-15
+football,Asia,AFC Championship U19,2020,03.03. 03:00,Bahrain U19,Japan U19,2020-12-15
+football,Asia,AFC Championship U19,2020,03.03. 03:00,Cambodia U19,Iran U19,2020-12-15
+football,Asia,AFC Championship U19,2020,03.03. 03:00,Cambodia U19,Uzbekistan U19,2020-12-15
+football,Asia,AFC Championship U19,2020,03.03. 03:00,Indonesia U19,Cambodia U19,2020-12-15
+football,Asia,AFC Championship U19,2020,03.03. 03:00,Iran U19,Indonesia U19,2020-12-15
+football,Asia,AFC Championship U19,2020,03.03. 03:00,Iraq U19,Bahrain U19,2020-12-15
+football,Asia,AFC Championship U19,2020,03.03. 03:00,Iraq U19,South Korea U19,2020-12-15
+football,Asia,AFC Championship U19,2020,03.03. 03:00,Japan U19,Iraq U19,2020-12-15
+football,Asia,AFC Championship U19,2020,03.03. 03:00,Laos U19,Australia U19,2020-12-15
+football,Africa,CAF Champions League,2020/2021,22.12. 03:00,Al Ahly Benghazi (Lby),Esperance Tunis (Tun),2020-12-15
+football,Asia,AFC Championship U19,2020,03.03. 03:00,Malaysia U19,Qatar U19,2020-12-15
+football,Asia,AFC Championship U19,2020,03.03. 03:00,Malaysia U19,Yemen U19,2020-12-15
+football,Asia,AFC Championship U19,2020,03.03. 03:00,Qatar U19,Tajikistan U19,2020-12-15
+football,Africa,CAF Champions League,2020/2021,22.12. 03:00,Al-Merreikh (Sud),Enyimba (Nga),2020-12-15
+football,Africa,CAF Champions League,2020/2021,22.12. 03:00,Asante Kotoko (Gha),Al-Hilal Omdurman (Sud),2020-12-15
+football,Africa,CAF Champions League,2020/2021,22.12. 03:00,Bouenguidi (Gab),Mazembe (Drc),2020-12-15
+football,Asia,AFC Championship U19,2020,03.03. 03:00,Qatar U19,Yemen U19,2020-12-15
+football,Asia,AFC Championship U19,2020,03.03. 03:00,Saudi Arabia U19,Australia U19,2020-12-15
+football,Asia,AFC Championship U19,2020,03.03. 03:00,Saudi Arabia U19,Laos U19,2020-12-15
+football,Africa,CAF Champions League,2020/2021,22.12. 03:00,CR Belouizdad (Alg),Gor Mahia (Ken),2020-12-15
+football,Africa,CAF Champions League,2020/2021,22.12. 03:00,Gazelle (Cha),Zamalek (Egy),2020-12-15
+football,Asia,AFC Championship U19,2020,03.03. 03:00,South Korea U19,Bahrain U19,2020-12-15
+football,Asia,AFC Championship U19,2020,03.03. 03:00,South Korea U19,Japan U19,2020-12-15
+football,Asia,AFC Championship U19,2020,03.03. 03:00,Tajikistan U19,Malaysia U19,2020-12-15
+football,Africa,CAF Champions League,2020/2021,22.12. 03:00,Jwaneng Galaxy (Bot),Mamelodi Sundowns (Rsa),2020-12-15
+football,Africa,CAF Champions League,2020/2021,22.12. 03:00,Kaizer Chiefs (Rsa),Primeiro de Agosto (Ang),2020-12-15
+football,Asia,AFC Championship U19,2020,03.03. 03:00,Uzbekistan U19,Indonesia U19,2020-12-15
+football,Asia,AFC Championship U19,2020,03.03. 03:00,Uzbekistan U19,Iran U19,2020-12-15
+football,Asia,AFC Championship U19,2020,03.03. 03:00,Vietnam U19,Laos U19,2020-12-15
+football,Africa,CAF Champions League,2020/2021,22.12. 03:00,MC Alger (Alg),Sfaxien (Tun),2020-12-15
+football,Africa,CAF Champions League,2020/2021,22.12. 03:00,Nkana (Zam),Petro Atletico (Ang),2020-12-15
+football,Asia,AFC Championship U19,2020,03.03. 03:00,Vietnam U19,Saudi Arabia U19,2020-12-15
+football,Asia,AFC Championship U19,2020,03.03. 03:00,Yemen U19,Tajikistan U19,2020-12-15
+football,Africa,CAF Champions League,2020/2021,22.12. 03:00,Platinum (Zim),Simba (Tan),2020-12-15
+football,Africa,CAF Champions League,2020/2021,22.12. 03:00,Racing d'Abidjan (Ivo),Horoya (Gui),2020-12-15
+football,Africa,CAF Champions League,2020/2021,22.12. 03:00,SONIDEP (Nig),Al Ahly (Egy),2020-12-15
+football,Africa,CAF Champions League,2020/2021,22.12. 03:00,Stade Malien (Mli),Wydad (Mar),2020-12-15
+football,Africa,CAF Champions League,2020/2021,22.12. 03:00,Teungueth (Sen),Raja Casablanca (Mar),2020-12-15
+football,Africa,CAF Champions League,2020/2021,22.12. 03:00,Young Buffaloes (Esw),AS Vita Club (Drc),2020-12-15
+football,Africa,CAF Champions League,2020/2021,05.01. 03:00,Al Ahly (Egy),SONIDEP (Nig),2020-12-15
+football,Africa,CAF Champions League,2020/2021,05.01. 03:00,Al-Hilal Omdurman (Sud),Asante Kotoko (Gha),2020-12-15
+football,Africa,CAF Champions League,2020/2021,05.01. 03:00,AS Vita Club (Drc),Young Buffaloes (Esw),2020-12-15
+football,Africa,CAF Champions League,2020/2021,05.01. 03:00,Enyimba (Nga),Al-Merreikh (Sud),2020-12-15
+football,Africa,CAF Champions League,2020/2021,05.01. 03:00,Esperance Tunis (Tun),Al Ahly Benghazi (Lby),2020-12-15
+football,Africa,CAF Champions League,2020/2021,05.01. 03:00,Gor Mahia (Ken),CR Belouizdad (Alg),2020-12-15
+football,Africa,CAF Champions League,2020/2021,05.01. 03:00,Horoya (Gui),Racing d'Abidjan (Ivo),2020-12-15
+football,Africa,CAF Champions League,2020/2021,05.01. 03:00,Mamelodi Sundowns (Rsa),Jwaneng Galaxy (Bot),2020-12-15
+football,Africa,CAF Champions League,2020/2021,05.01. 03:00,Mazembe (Drc),Bouenguidi (Gab),2020-12-15
+football,Africa,CAF Champions League,2020/2021,05.01. 03:00,Petro Atletico (Ang),Nkana (Zam),2020-12-15
+football,Africa,CAF Champions League,2020/2021,05.01. 03:00,Primeiro de Agosto (Ang),Kaizer Chiefs (Rsa),2020-12-15
+football,Africa,CAF Champions League,2020/2021,05.01. 03:00,Raja Casablanca (Mar),Teungueth (Sen),2020-12-15
+football,Africa,CAF Champions League,2020/2021,05.01. 03:00,Sfaxien (Tun),MC Alger (Alg),2020-12-15
+football,Africa,CAF Champions League,2020/2021,05.01. 03:00,Simba (Tan),Platinum (Zim),2020-12-15
+football,Africa,CAF Champions League,2020/2021,05.01. 03:00,Wydad (Mar),Stade Malien (Mli),2020-12-15
+football,Africa,CAF Champions League,2020/2021,05.01. 03:00,Zamalek (Egy),Gazelle (Cha),2020-12-15
+football,Asia,AFC Champions League,2020,19.12. 04:00,Persepolis (Irn),Ulsan Hyundai (Kor),2020-12-15
+football,Africa,Africa Cup of Nations,2021,22.03. 10:00,Benin,Nigeria,2020-12-15
+football,Africa,Africa Cup of Nations,2021,22.03. 10:00,Botswana,Zimbabwe,2020-12-15
+football,Africa,Africa Cup of Nations,2021,22.03. 10:00,Burundi,Central Africa,2020-12-15
+football,Africa,Africa Cup of Nations,2021,22.03. 10:00,Cape Verde,Cameroon,2020-12-15
+football,Africa,Africa Cup of Nations,2021,22.03. 10:00,Chad,Namibia,2020-12-15
+football,Africa,Africa Cup of Nations,2021,22.03. 10:00,Comoros,Togo,2020-12-15
+football,Africa,Africa Cup of Nations,2021,22.03. 10:00,Congo,Senegal,2020-12-15
+football,Africa,Africa Cup of Nations,2021,22.03. 10:00,Equatorial Guinea,Tanzania,2020-12-15
+football,Africa,Africa Cup of Nations,2021,22.03. 10:00,Eswatini,Guinea Bissau,2020-12-15
+football,Africa,Africa Cup of Nations,2021,22.03. 10:00,Ethiopia,Madagascar,2020-12-15
+football,Africa,Africa Cup of Nations,2021,22.03. 10:00,Gabon,D.R. Congo,2020-12-15
+football,Africa,Africa Cup of Nations,2021,22.03. 10:00,Gambia,Angola,2020-12-15
+football,Africa,Africa Cup of Nations,2021,22.03. 10:00,Guinea,Mali,2020-12-15
+football,Africa,Africa Cup of Nations,2021,22.03. 10:00,Kenya,Egypt,2020-12-15
+football,Africa,Africa Cup of Nations,2021,22.03. 10:00,Lesotho,Sierra Leone,2020-12-15
+football,Africa,Africa Cup of Nations,2021,22.03. 10:00,Libya,Tunisia,2020-12-15
+football,Africa,Africa Cup of Nations,2021,22.03. 10:00,Mauritania,Morocco,2020-12-15
+football,Africa,Africa Cup of Nations,2021,22.03. 10:00,Niger,Ivory Coast,2020-12-15
+football,Africa,Africa Cup of Nations,2021,22.03. 10:00,Rwanda,Mozambique,2020-12-15
+football,Africa,Africa Cup of Nations,2021,22.03. 10:00,Sao Tome and Principe,Sudan,2020-12-15
+football,Africa,Africa Cup of Nations,2021,22.03. 10:00,South Africa,Ghana,2020-12-15
+football,Africa,Africa Cup of Nations,2021,22.03. 10:00,South Sudan,Malawi,2020-12-15
+football,Africa,Africa Cup of Nations,2021,22.03. 10:00,Uganda,Burkina Faso,2020-12-15
+football,Africa,Africa Cup of Nations,2021,22.03. 10:00,Zambia,Algeria,2020-12-15
+football,Africa,Africa Cup of Nations,2021,30.03. 09:00,Algeria,Botswana,2020-12-15
+football,Africa,Africa Cup of Nations,2021,30.03. 09:00,Angola,Gabon,2020-12-15
+football,Africa,Africa Cup of Nations,2021,30.03. 09:00,Burkina Faso,South Sudan,2020-12-15
+football,Africa,Africa Cup of Nations,2021,30.03. 09:00,Cameroon,Rwanda,2020-12-15
+football,Africa,Africa Cup of Nations,2021,30.03. 09:00,Central Africa,Mauritania,2020-12-15
+football,Africa,Africa Cup of Nations,2021,30.03. 09:00,D.R. Congo,Gambia,2020-12-15
+football,Africa,Africa Cup of Nations,2021,30.03. 09:00,Egypt,Comoros,2020-12-15
+football,Africa,Africa Cup of Nations,2021,30.03. 09:00,Ghana,Sao Tome and Principe,2020-12-15
+football,Zambia,Super League,2020/2021,16.12. 05:00,Forest Rangers,Buildcon,2020-12-15
+football,Africa,Africa Cup of Nations,2021,30.03. 09:00,Guinea Bissau,Congo,2020-12-15
+football,Africa,Africa Cup of Nations,2021,30.03. 09:00,Ivory Coast,Ethiopia,2020-12-15
+football,Africa,Africa Cup of Nations,2021,30.03. 09:00,Madagascar,Niger,2020-12-15
+football,Africa,Africa Cup of Nations,2021,30.03. 09:00,Malawi,Uganda,2020-12-15
+football,Zambia,Super League,2020/2021,16.12. 05:00,Nkana,Kitwe United,2020-12-15
+football,Zambia,Super League,2020/2021,16.12. 05:00,Power Dynamos,NAPSA Stars,2020-12-15
+football,Africa,Africa Cup of Nations,2021,30.03. 09:00,Mali,Chad,2020-12-15
+football,Africa,Africa Cup of Nations,2021,30.03. 09:00,Morocco,Burundi,2020-12-15
+football,Africa,Africa Cup of Nations,2021,30.03. 09:00,Mozambique,Cape Verde,2020-12-15
+football,Africa,Africa Cup of Nations,2021,30.03. 09:00,Namibia,Guinea,2020-12-15
+football,Africa,Africa Cup of Nations,2021,30.03. 09:00,Nigeria,Lesotho,2020-12-15
+football,Africa,Africa Cup of Nations,2021,30.03. 09:00,Senegal,Eswatini,2020-12-15
+football,Africa,Africa Cup of Nations,2021,30.03. 09:00,Sierra Leone,Benin,2020-12-15
+football,Africa,Africa Cup of Nations,2021,30.03. 09:00,Sudan,South Africa,2020-12-15
+football,Africa,Africa Cup of Nations,2021,30.03. 09:00,Tanzania,Libya,2020-12-15
+football,Africa,Africa Cup of Nations,2021,30.03. 09:00,Togo,Kenya,2020-12-15
+football,Africa,Africa Cup of Nations,2021,30.03. 09:00,Tunisia,Equatorial Guinea,2020-12-15
+football,Africa,Africa Cup of Nations,2021,30.03. 09:00,Zimbabwe,Zambia,2020-12-15
+football,Wales,Cymru Premier,2020/2021,16.12. 11:45,Haverfordwest,Barry,2020-12-15
+football,Wales,Cymru Premier,2020/2021,18.12. 11:45,Caernarfon,Newtown,2020-12-15
+football,Wales,Cymru Premier,2020/2021,19.12. 06:30,Barry,Druids,2020-12-15
+football,Wales,Cymru Premier,2020/2021,19.12. 06:30,Connahs Q.,Cardiff Metropolitan,2020-12-15
+football,Wales,Cymru Premier,2020/2021,19.12. 06:30,TNS,Penybont,2020-12-15
+football,Wales,Cymru Premier,2020/2021,19.12. 08:30,Flint,Aberystwyth,2020-12-15
+football,Wales,Cymru Premier,2020/2021,22.12. 11:45,Aberystwyth,Newtown,2020-12-15
+football,Wales,Cymru Premier,2020/2021,22.12. 11:45,Barry,Penybont,2020-12-15
+football,Wales,Cymru Premier,2020/2021,26.12. 06:30,Aberystwyth,Haverfordwest,2020-12-15
+football,Wales,Cymru Premier,2020/2021,26.12. 06:30,Flint,Connahs Q.,2020-12-15
+football,Wales,Cymru Premier,2020/2021,26.12. 06:30,Newtown,Cardiff Metropolitan,2020-12-15
+football,Wales,Cymru Premier,2020/2021,26.12. 06:30,Penybont,Barry,2020-12-15
+football,Wales,Cymru Premier,2020/2021,26.12. 06:30,TNS,Druids,2020-12-15
+football,Wales,Cymru Premier,2020/2021,26.12. 09:15,Bala,Caernarfon,2020-12-15
+football,Wales,Cymru Premier,2020/2021,29.12. 09:00,Haverfordwest,TNS,2020-12-15
+football,Wales,Cymru Premier,2020/2021,01.01. 07:00,Bala,Connahs Q.,2020-12-15
+football,Wales,Cymru Premier,2020/2021,02.01. 06:30,Newtown,Penybont,2020-12-15
+football,Wales,Cymru Premier,2020/2021,22.01. 11:45,Druids,Newtown,2020-12-15
+football,Wales,Cymru Premier,2020/2021,23.01. 06:30,Barry,Aberystwyth,2020-12-15
+football,Wales,Cymru Premier,2020/2021,23.01. 06:30,Caernarfon,Cardiff Metropolitan,2020-12-15
+football,Wales,Cymru Premier,2020/2021,23.01. 06:30,Connahs Q.,Haverfordwest,2020-12-15
+football,Wales,Cymru Premier,2020/2021,23.01. 06:30,Flint,Penybont,2020-12-15
+football,Wales,Cymru Premier,2020/2021,23.01. 06:30,TNS,Bala,2020-12-15
+football,Wales,Cymru Premier,2020/2021,29.01. 11:45,Aberystwyth,Druids,2020-12-15
+football,Wales,Cymru Premier,2020/2021,29.01. 11:45,Bala,Flint,2020-12-15
+football,Wales,Cymru Premier,2020/2021,29.01. 11:45,Cardiff Metropolitan,Barry,2020-12-15
+football,Wales,Cymru Premier,2020/2021,29.01. 11:45,Newtown,Connahs Q.,2020-12-15
+football,Wales,Cymru Premier,2020/2021,29.01. 11:45,Penybont,Haverfordwest,2020-12-15
+football,Wales,Cymru Premier,2020/2021,29.01. 11:45,TNS,Caernarfon,2020-12-15
+football,Venezuela,Primera Division,2020,15.12. 12:30,Lara,Caracas,2020-12-15
+football,Venezuela,Primera Division,2020,15.12. 15:00,La Guaira,Dep. Tachira,2020-12-15
+football,Vietnam,V.League 1,2021,16.01. 04:00,Binh Duong,Thanh Hoa,2020-12-15
+football,Vietnam,V.League 1,2021,16.01. 04:00,Da Nang,Ho Chi Minh,2020-12-15
+football,Vietnam,V.League 1,2021,16.01. 04:00,Hong Linh Ha Tinh,Than Quang Ninh,2020-12-15
+football,Vietnam,V.League 1,2021,16.01. 04:00,Nam Dinh,Hanoi FC,2020-12-15
+football,Vietnam,V.League 1,2021,16.01. 04:00,Sai Gon FC,Gia Lai,2020-12-15
+football,Vietnam,V.League 1,2021,16.01. 04:00,Song Lam Nghe An,Binh Dinh,2020-12-15
+football,Vietnam,V.League 1,2021,16.01. 04:00,The Cong,Hai Phong,2020-12-15
+football,Uruguay,Primera Division,2020,20.12. 15:00,Nacional,Wanderers,2020-12-15
+football,Uganda,Premier League,2020/2021,16.12. 05:00,Kyetume,UPDF,2020-12-15
+football,Uganda,Premier League,2020/2021,16.12. 05:00,Mbarara City,Express,2020-12-15
+football,Uganda,Premier League,2020/2021,16.12. 05:00,Vipers,Airtel Kitara,2020-12-15
+football,Uganda,Premier League,2020/2021,18.12. 05:00,Kampala City,URA SC,2020-12-15
+football,Uganda,Premier League,2020/2021,18.12. 05:00,Wakiso Giants,Bright Stars,2020-12-15
+football,Uganda,Premier League,2020/2021,19.12. 05:00,Airtel Kitara,Onduparaka FC,2020-12-15
+football,Uganda,Premier League,2020/2021,19.12. 05:00,Express,Villa,2020-12-15
+football,Uganda,Premier League,2020/2021,19.12. 05:00,Myda,Mbarara City,2020-12-15
+football,Uganda,Premier League,2020/2021,19.12. 05:00,UPDF,Police,2020-12-15
+football,Uganda,Premier League,2020/2021,20.12. 02:00,Kyetume,BUL,2020-12-15
+football,Uganda,Premier League,2020/2021,20.12. 05:00,Busoga,Vipers,2020-12-15
+football,Uganda,Premier League,2020/2021,12.02. 05:00,Bright Stars,Airtel Kitara,2020-12-15
+football,Uganda,Premier League,2020/2021,12.02. 05:00,BUL,Kampala City,2020-12-15
+football,Uganda,Premier League,2020/2021,12.02. 05:00,Mbarara City,Wakiso Giants,2020-12-15
+football,Uganda,Premier League,2020/2021,12.02. 05:00,Onduparaka FC,Busoga,2020-12-15
+football,Uganda,Premier League,2020/2021,12.02. 05:00,Police,Kyetume,2020-12-15
+football,Uganda,Premier League,2020/2021,13.02. 05:00,URA SC,Express,2020-12-15
+football,Uganda,Premier League,2020/2021,13.02. 05:00,Villa,Myda,2020-12-15
+football,Uganda,Premier League,2020/2021,13.02. 05:00,Vipers,UPDF,2020-12-15
+football,Uganda,Premier League,2020/2021,16.02. 02:00,Busoga,Bright Stars,2020-12-15
+football,Uganda,Premier League,2020/2021,16.02. 05:00,Airtel Kitara,Mbarara City,2020-12-15
+football,Uganda,Premier League,2020/2021,16.02. 05:00,Kyetume,Vipers,2020-12-15
+football,Uganda,Premier League,2020/2021,16.02. 05:00,Police,BUL,2020-12-15
+football,Uganda,Premier League,2020/2021,16.02. 05:00,UPDF,Onduparaka FC,2020-12-15
+football,Uganda,Premier League,2020/2021,17.02. 05:00,Express,Kampala City,2020-12-15
+football,Uganda,Premier League,2020/2021,17.02. 05:00,Myda,URA SC,2020-12-15
+football,Uganda,Premier League,2020/2021,17.02. 05:00,Wakiso Giants,Villa,2020-12-15
+football,Uganda,Premier League,2020/2021,19.02. 05:00,Bright Stars,UPDF,2020-12-15
+football,Uganda,Premier League,2020/2021,19.02. 05:00,Mbarara City,Busoga,2020-12-15
+football,Uganda,Premier League,2020/2021,19.02. 05:30,Kampala City,Myda,2020-12-15
+football,Uganda,Premier League,2020/2021,20.02. 05:00,BUL,Express,2020-12-15
+football,Uganda,Premier League,2020/2021,20.02. 05:00,Onduparaka FC,Kyetume,2020-12-15
+football,Uganda,Premier League,2020/2021,20.02. 05:00,URA SC,Wakiso Giants,2020-12-15
+football,Uganda,Premier League,2020/2021,20.02. 05:00,Villa,Airtel Kitara,2020-12-15
+football,Uganda,Premier League,2020/2021,20.02. 05:00,Vipers,Police,2020-12-15
+football,Uganda,Premier League,2020/2021,22.02. 05:00,Kyetume,Bright Stars,2020-12-15
+football,Uganda,Premier League,2020/2021,22.02. 05:00,Vipers,BUL,2020-12-15
+football,Uganda,Premier League,2020/2021,23.02. 05:00,Busoga,Villa,2020-12-15
+football,Uganda,Premier League,2020/2021,23.02. 05:00,Wakiso Giants,Kampala City,2020-12-15
+football,Uganda,Premier League,2020/2021,23.02. 05:30,Myda,Express,2020-12-15
+football,Uganda,Premier League,2020/2021,23.02. 05:30,Police,Onduparaka FC,2020-12-15
+football,Uganda,Premier League,2020/2021,23.02. 05:30,UPDF,Mbarara City,2020-12-15
+football,Uganda,Premier League,2020/2021,24.02. 05:00,Airtel Kitara,URA SC,2020-12-15
+football,Uganda,Premier League,2020/2021,26.02. 05:30,Bright Stars,Police,2020-12-15
+football,Uganda,Premier League,2020/2021,26.02. 05:30,Express,Wakiso Giants,2020-12-15
+football,Uganda,Premier League,2020/2021,27.02. 05:00,BUL,Myda,2020-12-15
+football,Uganda,Premier League,2020/2021,27.02. 05:00,Kampala City,Airtel Kitara,2020-12-15
+football,Uganda,Premier League,2020/2021,27.02. 05:00,Mbarara City,Kyetume,2020-12-15
+football,Uganda,Premier League,2020/2021,27.02. 05:00,Onduparaka FC,Vipers,2020-12-15
+football,Uganda,Premier League,2020/2021,27.02. 05:00,URA SC,Busoga,2020-12-15
+football,Uganda,Premier League,2020/2021,27.02. 05:00,Villa,UPDF,2020-12-15
+football,Uganda,Premier League,2020/2021,02.03. 02:00,Busoga,Kampala City,2020-12-15
+football,Uganda,Premier League,2020/2021,02.03. 05:00,Airtel Kitara,Express,2020-12-15
+football,Uganda,Premier League,2020/2021,02.03. 05:30,Police,Mbarara City,2020-12-15
+football,Uganda,Premier League,2020/2021,02.03. 05:30,UPDF,URA SC,2020-12-15
+football,Uganda,Premier League,2020/2021,02.03. 05:30,Wakiso Giants,Myda,2020-12-15
+football,Uganda,Premier League,2020/2021,03.03. 05:30,Kyetume,Villa,2020-12-15
+football,Uganda,Premier League,2020/2021,03.03. 05:30,Onduparaka FC,BUL,2020-12-15
+football,Uganda,Premier League,2020/2021,03.03. 05:30,Vipers,Bright Stars,2020-12-15
+football,Uganda,Premier League,2020/2021,05.03. 05:00,Express,Busoga,2020-12-15
+football,Uganda,Premier League,2020/2021,05.03. 05:00,Myda,Airtel Kitara,2020-12-15
+football,Uganda,Premier League,2020/2021,05.03. 05:30,Kampala City,UPDF,2020-12-15
+football,Uganda,Premier League,2020/2021,06.03. 05:00,Bright Stars,Onduparaka FC,2020-12-15
+football,Uganda,Premier League,2020/2021,06.03. 05:00,BUL,Wakiso Giants,2020-12-15
+football,Uganda,Premier League,2020/2021,06.03. 05:00,Mbarara City,Vipers,2020-12-15
+football,Uganda,Premier League,2020/2021,06.03. 05:00,URA SC,Kyetume,2020-12-15
+football,Ukraine,Youth League,2020/2021,16.12. 02:00,Olimpik Donetsk U21,Mariupol U21,2020-12-15
+football,Uganda,Premier League,2020/2021,06.03. 05:00,Villa,Police,2020-12-15
+football,Ukraine,Youth League,2020/2021,12.02. 05:00,Dnipro-1 U21,Inhulets U21,2020-12-15
+football,Ukraine,Youth League,2020/2021,12.02. 05:00,Dynamo Kiev U21,Olimpik Donetsk U21,2020-12-15
+football,Uganda,Premier League,2020/2021,09.03. 02:00,Busoga,Myda,2020-12-15
+football,Uganda,Premier League,2020/2021,09.03. 05:30,Kyetume,Kampala City,2020-12-15
+football,Ukraine,Youth League,2020/2021,12.02. 05:00,Kolos Kovalivka U21,Shakhtar Donetsk U21,2020-12-15
+football,Ukraine,Youth League,2020/2021,12.02. 05:00,Mariupol U21,Oleksandriya U21,2020-12-15
+football,Ukraine,Youth League,2020/2021,12.02. 05:00,Minaj U21,Lviv U21,2020-12-15
+football,Uganda,Premier League,2020/2021,09.03. 05:30,Police,URA SC,2020-12-15
+football,Uganda,Premier League,2020/2021,09.03. 05:30,UPDF,Express,2020-12-15
+football,Ukraine,Youth League,2020/2021,12.02. 05:00,Rukh Lviv U21,Vorskla Poltava U21,2020-12-15
+football,Ukraine,Youth League,2020/2021,12.02. 05:00,Zorya U21,Desna U21,2020-12-15
+football,Ukraine,Youth League,2020/2021,19.02. 05:00,Desna U21,Dynamo Kiev U21,2020-12-15
+football,Uganda,Premier League,2020/2021,10.03. 02:00,Airtel Kitara,Wakiso Giants,2020-12-15
+football,Ukraine,Youth League,2020/2021,19.02. 05:00,Inhulets U21,Vorskla Poltava U21,2020-12-15
+football,Ukraine,Youth League,2020/2021,19.02. 05:00,Lviv U21,Kolos Kovalivka U21,2020-12-15
+football,Ukraine,Youth League,2020/2021,19.02. 05:00,Mariupol U21,Zorya U21,2020-12-15
+football,Uganda,Premier League,2020/2021,10.03. 05:30,Bright Stars,BUL,2020-12-15
+football,Uganda,Premier League,2020/2021,10.03. 05:30,Onduparaka FC,Mbarara City,2020-12-15
+football,Uganda,Premier League,2020/2021,10.03. 05:30,Vipers,Villa,2020-12-15
+football,Ukraine,Youth League,2020/2021,19.02. 05:00,Oleksandriya U21,Minaj U21,2020-12-15
+football,Ukraine,Youth League,2020/2021,19.02. 05:00,Olimpik Donetsk U21,Dnipro-1 U21,2020-12-15
+football,Ukraine,Youth League,2020/2021,19.02. 05:00,Shakhtar Donetsk U21,Rukh Lviv U21,2020-12-15
+football,Ukraine,Youth League,2020/2021,26.02. 05:00,Desna U21,Inhulets U21,2020-12-15
+football,Uganda,Premier League,2020/2021,12.03. 05:30,Express,Kyetume,2020-12-15
+football,Uganda,Premier League,2020/2021,12.03. 05:30,Myda,UPDF,2020-12-15
+football,Ukraine,Youth League,2020/2021,26.02. 05:00,Kolos Kovalivka U21,Rukh Lviv U21,2020-12-15
+football,Ukraine,Youth League,2020/2021,26.02. 05:00,Lviv U21,Dynamo Kiev U21,2020-12-15
+football,Uganda,Premier League,2020/2021,13.03. 05:00,BUL,Airtel Kitara,2020-12-15
+football,Uganda,Premier League,2020/2021,13.03. 05:00,Kampala City,Police,2020-12-15
+football,Ukraine,Youth League,2020/2021,26.02. 05:00,Mariupol U21,Dnipro-1 U21,2020-12-15
+football,Ukraine,Youth League,2020/2021,26.02. 05:00,Minaj U21,Olimpik Donetsk U21,2020-12-15
+football,Ukraine,Youth League,2020/2021,26.02. 05:00,Shakhtar Donetsk U21,Zorya U21,2020-12-15
+football,Uganda,Premier League,2020/2021,13.03. 05:00,Mbarara City,Bright Stars,2020-12-15
+football,Uganda,Premier League,2020/2021,13.03. 05:00,URA SC,Vipers,2020-12-15
+football,Ukraine,Youth League,2020/2021,26.02. 05:00,Vorskla Poltava U21,Oleksandriya U21,2020-12-15
+football,Ukraine,Youth League,2020/2021,05.03. 05:00,Dnipro-1 U21,Oleksandriya U21,2020-12-15
+football,Uganda,Premier League,2020/2021,13.03. 05:00,Villa,Onduparaka FC,2020-12-15
+football,Ukraine,Youth League,2020/2021,05.03. 05:00,Dynamo Kiev U21,Minaj U21,2020-12-15
+football,Uganda,Premier League,2020/2021,13.03. 05:00,Wakiso Giants,Busoga,2020-12-15
+football,Uganda,Premier League,2020/2021,16.03. 06:30,Bright Stars,Villa,2020-12-15
+football,Ukraine,Youth League,2020/2021,05.03. 05:00,Inhulets U21,Kolos Kovalivka U21,2020-12-15
+football,Ukraine,Youth League,2020/2021,05.03. 05:00,Mariupol U21,Vorskla Poltava U21,2020-12-15
+football,Uganda,Premier League,2020/2021,16.03. 06:30,Mbarara City,BUL,2020-12-15
+football,Ukraine,Youth League,2020/2021,05.03. 05:00,Olimpik Donetsk U21,Shakhtar Donetsk U21,2020-12-15
+football,Ukraine,Youth League,2020/2021,05.03. 05:00,Rukh Lviv U21,Desna U21,2020-12-15
+football,Uganda,Premier League,2020/2021,16.03. 06:30,Police,Express,2020-12-15
+football,Ukraine,Youth League,2020/2021,05.03. 05:00,Zorya U21,Lviv U21,2020-12-15
+football,Uganda,Premier League,2020/2021,16.03. 06:30,UPDF,Wakiso Giants,2020-12-15
+football,Uganda,Premier League,2020/2021,17.03. 06:30,Kyetume,Myda,2020-12-15
+football,Ukraine,Youth League,2020/2021,12.03. 05:00,Lviv U21,Rukh Lviv U21,2020-12-15
+football,Ukraine,Youth League,2020/2021,12.03. 05:00,Mariupol U21,Kolos Kovalivka U21,2020-12-15
+football,Uganda,Premier League,2020/2021,17.03. 06:30,Onduparaka FC,URA SC,2020-12-15
+football,Ukraine,Youth League,2020/2021,12.03. 05:00,Minaj U21,Inhulets U21,2020-12-15
+football,Ukraine,Youth League,2020/2021,12.03. 05:00,Oleksandriya U21,Olimpik Donetsk U21,2020-12-15
+football,Uganda,Premier League,2020/2021,17.03. 06:30,Vipers,Kampala City,2020-12-15
+football,Uganda,Premier League,2020/2021,18.03. 03:00,Busoga,Airtel Kitara,2020-12-15
+football,Ukraine,Youth League,2020/2021,12.03. 05:00,Shakhtar Donetsk U21,Desna U21,2020-12-15
+football,Ukraine,Youth League,2020/2021,12.03. 05:00,Vorskla Poltava U21,Dnipro-1 U21,2020-12-15
+football,Ukraine,Youth League,2020/2021,12.03. 05:00,Zorya U21,Dynamo Kiev U21,2020-12-15
+football,Ukraine,Youth League,2020/2021,19.03. 06:00,Desna U21,Dnipro-1 U21,2020-12-15
+football,Ukraine,Youth League,2020/2021,19.03. 06:00,Dynamo Kiev U21,Rukh Lviv U21,2020-12-15
+football,Ukraine,Youth League,2020/2021,19.03. 06:00,Inhulets U21,Oleksandriya U21,2020-12-15
+football,Ukraine,Youth League,2020/2021,19.03. 06:00,Kolos Kovalivka U21,Zorya U21,2020-12-15
+football,Ukraine,Youth League,2020/2021,19.03. 06:00,Lviv U21,Shakhtar Donetsk U21,2020-12-15
+football,Ukraine,Youth League,2020/2021,19.03. 06:00,Mariupol U21,Minaj U21,2020-12-15
+football,Ukraine,Youth League,2020/2021,19.03. 06:00,Vorskla Poltava U21,Olimpik Donetsk U21,2020-12-15
+football,Ukraine,Persha Liga,2020/2021,05.03. 06:00,Ch. Odessa,Kramatorsk,2020-12-15
+football,Ukraine,Youth League,2020/2021,02.04. 05:00,Desna U21,Olimpik Donetsk U21,2020-12-15
+football,Ukraine,Youth League,2020/2021,02.04. 05:00,Dnipro-1 U21,Lviv U21,2020-12-15
+football,Ukraine,Persha Liga,2020/2021,05.03. 08:00,Obolon,VPK-Agro,2020-12-15
+football,Ukraine,Persha Liga,2020/2021,12.03. 06:00,Ch. Odessa,Volyn Lutsk,2020-12-15
+football,Ukraine,Youth League,2020/2021,02.04. 05:00,Mariupol U21,Inhulets U21,2020-12-15
+football,Ukraine,Youth League,2020/2021,02.04. 05:00,Minaj U21,Kolos Kovalivka U21,2020-12-15
+football,Ukraine,Druha Liga,2020/2021,14.03. 08:00,Uzhhorod,Dunaivtsi,2020-12-15
+football,Ukraine,Persha Liga,2020/2021,12.03. 06:00,Hirnyk-Sport,Prykarpattya,2020-12-15
+football,Ukraine,Youth League,2020/2021,02.04. 05:00,Oleksandriya U21,Dynamo Kiev U21,2020-12-15
+football,Ukraine,Premier League,2020/2021,13.02. 07:00,Dnipro-1,Inhulets,2020-12-15
+football,Ukraine,Druha Liga,2020/2021,19.03. 08:00,Balkany,Nikopol,2020-12-15
+football,Ukraine,Druha Liga,2020/2021,19.03. 08:00,Bukovyna,Obolon 2,2020-12-15
+football,Ukraine,Persha Liga,2020/2021,12.03. 06:00,Obolon,Veres-Rivne,2020-12-15
+football,Ukraine,Youth League,2020/2021,02.04. 05:00,Rukh Lviv U21,Zorya U21,2020-12-15
+football,Ukraine,Youth League,2020/2021,02.04. 05:00,Shakhtar Donetsk U21,Vorskla Poltava U21,2020-12-15
+football,Ukraine,Premier League,2020/2021,13.02. 07:00,Dyn. Kyiv,Olimpik Donetsk,2020-12-15
+football,Ukraine,Druha Liga,2020/2021,19.03. 08:00,Chernihiv,Karpaty Halych,2020-12-15
+football,Ukraine,Druha Liga,2020/2021,19.03. 08:00,Dinaz Vyshgorod,Chaika,2020-12-15
+football,Ukraine,Persha Liga,2020/2021,15.03. 07:00,Metalist 1925,Alliance,2020-12-15
+football,Ukraine,Youth League,2020/2021,09.04. 05:00,Desna U21,Oleksandriya U21,2020-12-15
+football,Ukraine,Premier League,2020/2021,13.02. 07:00,FK Zorya Luhansk,Desna,2020-12-15
+football,Ukraine,Premier League,2020/2021,13.02. 07:00,Kolos Kovalivka,Shakhtar Donetsk,2020-12-15
+football,Ukraine,Druha Liga,2020/2021,19.03. 08:00,Kryvbas 2020,Dnipro Cherkasy,2020-12-15
+football,Ukraine,Persha Liga,2020/2021,19.03. 08:30,Alliance,Nyva Ternopil,2020-12-15
+football,Ukraine,Youth League,2020/2021,09.04. 05:00,Dynamo Kiev U21,Dnipro-1 U21,2020-12-15
+football,Ukraine,Youth League,2020/2021,09.04. 05:00,Mariupol U21,Shakhtar Donetsk U21,2020-12-15
+football,Ukraine,Premier League,2020/2021,13.02. 07:00,Mariupol,Oleksandriya,2020-12-15
+football,Ukraine,Druha Liga,2020/2021,19.03. 08:00,Metal Kharkiv,Cherkashchyna,2020-12-15
+football,Ukraine,Druha Liga,2020/2021,19.03. 08:00,MFC Metalurh,Real Pharma,2020-12-15
+football,Ukraine,Persha Liga,2020/2021,19.03. 08:30,Hirnyk-Sport,Ch. Odessa,2020-12-15
+football,Ukraine,Youth League,2020/2021,09.04. 05:00,Olimpik Donetsk U21,Kolos Kovalivka U21,2020-12-15
+football,Ukraine,Youth League,2020/2021,09.04. 05:00,Rukh Lviv U21,Minaj U21,2020-12-15
+football,Ukraine,Premier League,2020/2021,13.02. 07:00,Minaj,Lviv,2020-12-15
+football,Ukraine,Premier League,2020/2021,13.02. 07:00,Rukh Lviv,Vorskla Poltava,2020-12-15
+football,Ukraine,Druha Liga,2020/2021,19.03. 08:00,Nova Kakhovka,Peremoga Dnipro,2020-12-15
+football,Ukraine,Persha Liga,2020/2021,19.03. 08:30,Kramatorsk,Kremin,2020-12-15
+football,Ukraine,Youth League,2020/2021,09.04. 05:00,Vorskla Poltava U21,Lviv U21,2020-12-15
+football,Ukraine,Premier League,2020/2021,20.02. 07:00,Desna,Dyn. Kyiv,2020-12-15
+football,Ukraine,Premier League,2020/2021,20.02. 07:00,Inhulets,Vorskla Poltava,2020-12-15
+football,Ukraine,Druha Liga,2020/2021,19.03. 08:00,Nyva Vinnytsya,Karpaty,2020-12-15
+football,Ukraine,Druha Liga,2020/2021,19.03. 08:00,Podillya Khmelnytskyi,Dunaivtsi,2020-12-15
+football,Ukraine,Persha Liga,2020/2021,19.03. 08:30,Krystal,Ahrobiznes Volochysk,2020-12-15
+football,Ukraine,Youth League,2020/2021,09.04. 05:00,Zorya U21,Inhulets U21,2020-12-15
+football,Ukraine,Youth League,2020/2021,16.04. 05:00,Inhulets U21,Rukh Lviv U21,2020-12-15
+football,Ukraine,Premier League,2020/2021,20.02. 07:00,Lviv,Kolos Kovalivka,2020-12-15
+football,Ukraine,Druha Liga,2020/2021,19.03. 08:00,Uzhhorod,Volyn Lutsk 2,2020-12-15
+football,Ukraine,Persha Liga,2020/2021,19.03. 08:30,Metalist 1925,Mykolaiv,2020-12-15
+football,Ukraine,Persha Liga,2020/2021,19.03. 08:30,Prykarpattya,Obolon,2020-12-15
+football,Ukraine,Youth League,2020/2021,16.04. 05:00,Kolos Kovalivka U21,Dnipro-1 U21,2020-12-15
+football,Ukraine,Youth League,2020/2021,16.04. 05:00,Lviv U21,Oleksandriya U21,2020-12-15
+football,Ukraine,Youth League,2020/2021,16.04. 05:00,Mariupol U21,Olimpik Donetsk U21,2020-12-15
+football,Ukraine,Premier League,2020/2021,20.02. 07:00,Mariupol,FK Zorya Luhansk,2020-12-15
+football,Ukraine,Druha Liga,2020/2021,19.03. 08:00,Yarud Mariupol,Mykolaiv 2,2020-12-15
+football,Ukraine,Druha Liga,2020/2021,23.03. 08:00,Bukovyna,Rubikon Kyiv,2020-12-15
+football,Ukraine,Persha Liga,2020/2021,19.03. 08:30,Veres-Rivne,Zhytomyr,2020-12-15
+football,Ukraine,Youth League,2020/2021,16.04. 05:00,Minaj U21,Desna U21,2020-12-15
+football,Ukraine,Youth League,2020/2021,16.04. 05:00,Shakhtar Donetsk U21,Dynamo Kiev U21,2020-12-15
+football,Ukraine,Premier League,2020/2021,20.02. 07:00,Oleksandriya,Minaj,2020-12-15
+football,Ukraine,Premier League,2020/2021,20.02. 07:00,Olimpik Donetsk,Dnipro-1,2020-12-15
+football,Ukraine,Druha Liga,2020/2021,23.03. 08:00,Dnipro Cherkasy,Nova Kakhovka,2020-12-15
+football,Ukraine,Persha Liga,2020/2021,19.03. 08:30,Volyn Lutsk,VPK-Agro,2020-12-15
+football,Ukraine,Youth League,2020/2021,16.04. 05:00,Vorskla Poltava U21,Zorya U21,2020-12-15
+football,Ukraine,Premier League,2020/2021,20.02. 07:00,Shakhtar Donetsk,Rukh Lviv,2020-12-15
+football,Ukraine,Premier League,2020/2021,27.02. 07:00,Desna,Inhulets,2020-12-15
+football,Ukraine,Druha Liga,2020/2021,23.03. 08:00,Yarud Mariupol,Nikopol,2020-12-15
+football,Ukraine,Druha Liga,2020/2021,24.03. 08:00,Balkany,Dnipro Cherkasy,2020-12-15
+football,Ukraine,Druha Liga,2020/2021,24.03. 08:00,MFC Metalurh,Cherkashchyna,2020-12-15
+football,Ukraine,Persha Liga,2020/2021,26.03. 08:30,Ahrobiznes Volochysk,Metalist 1925,2020-12-15
+football,Ukraine,Persha Liga,2020/2021,26.03. 08:30,Ch. Odessa,Obolon,2020-12-15
+football,Ukraine,Youth League,2020/2021,23.04. 05:00,Dnipro-1 U21,Minaj U21,2020-12-15
+football,Ukraine,Premier League,2020/2021,27.02. 07:00,Kolos Kovalivka,Rukh Lviv,2020-12-15
+football,Ukraine,Druha Liga,2020/2021,24.03. 08:00,Nikopol,Nova Kakhovka,2020-12-15
+football,Ukraine,Druha Liga,2020/2021,27.03. 08:00,Balkany,Peremoga Dnipro,2020-12-15
+football,United Arab Emirates,Division 1,2020/2021,17.12. 04:40,Al Urooba,Emirates Club,2020-12-15
+football,Ukraine,Persha Liga,2020/2021,26.03. 08:30,Kremin,Hirnyk-Sport,2020-12-15
+football,Ukraine,Persha Liga,2020/2021,26.03. 08:30,Mykolaiv,Alliance,2020-12-15
+football,Ukraine,Youth League,2020/2021,23.04. 05:00,Dynamo Kiev U21,Inhulets U21,2020-12-15
+football,Ukraine,Premier League,2020/2021,27.02. 07:00,Lviv,Dyn. Kyiv,2020-12-15
+football,Ukraine,Premier League,2020/2021,27.02. 07:00,Mariupol,Dnipro-1,2020-12-15
+football,Ukraine,Druha Liga,2020/2021,27.03. 08:00,Bukovyna,Dinaz Vyshgorod,2020-12-15
+football,United Arab Emirates,Division 1,2020/2021,18.12. 04:40,Dibba Al Fujairah,Al-Taawon,2020-12-15
+football,Ukraine,Persha Liga,2020/2021,26.03. 08:30,Nyva Ternopil,Volyn Lutsk,2020-12-15
+football,Ukraine,Youth League,2020/2021,23.04. 05:00,Kolos Kovalivka U21,Vorskla Poltava U21,2020-12-15
+football,Ukraine,Premier League,2020/2021,27.02. 07:00,Minaj,Olimpik Donetsk,2020-12-15
+football,Ukraine,Premier League,2020/2021,27.02. 07:00,Shakhtar Donetsk,FK Zorya Luhansk,2020-12-15
+football,Ukraine,Druha Liga,2020/2021,27.03. 08:00,Chaika,Karpaty Halych,2020-12-15
+football,United Arab Emirates,Division 1,2020/2021,18.12. 04:45,Al Bataeh,Masafi,2020-12-15
+football,Ukraine,Persha Liga,2020/2021,26.03. 08:30,Prykarpattya,Veres-Rivne,2020-12-15
+football,Ukraine,Youth League,2020/2021,23.04. 05:00,Lviv U21,Desna U21,2020-12-15
+football,Ukraine,Premier League,2020/2021,27.02. 07:00,Vorskla Poltava,Oleksandriya,2020-12-15
+football,Ukraine,Druha Liga,2020/2021,27.03. 08:00,Chernihiv,Rubikon Kyiv,2020-12-15
+football,United Arab Emirates,Division 1,2020/2021,19.12. 04:45,Al Arabi,Dibba Al Hisn,2020-12-15
+football,Ukraine,Persha Liga,2020/2021,26.03. 08:30,VPK-Agro,Kramatorsk,2020-12-15
+football,Ukraine,Youth League,2020/2021,23.04. 05:00,Mariupol U21,Rukh Lviv U21,2020-12-15
+football,Ukraine,Premier League,2020/2021,06.03. 07:00,Dnipro-1,Oleksandriya,2020-12-15
+football,Ukraine,Druha Liga,2020/2021,27.03. 08:00,Kryvbas 2020,Real Pharma,2020-12-15
+football,Ukraine,Druha Liga,2020/2021,27.03. 08:00,Nova Kakhovka,Mykolaiv 2,2020-12-15
+football,United Arab Emirates,Division 1,2020/2021,19.12. 04:45,Al Thaid,Masfut,2020-12-15
+football,United Arab Emirates,Division 1,2020/2021,25.12. 04:45,Al-Taawon,Al Arabi,2020-12-15
+football,Ukraine,Persha Liga,2020/2021,26.03. 08:30,Zhytomyr,Krystal,2020-12-15
+football,Ukraine,Youth League,2020/2021,23.04. 05:00,Oleksandriya U21,Shakhtar Donetsk U21,2020-12-15
+football,Ukraine,Premier League,2020/2021,06.03. 07:00,Dyn. Kyiv,Minaj,2020-12-15
+football,Ukraine,Druha Liga,2020/2021,27.03. 08:00,Nyva Vinnytsya,Volyn Lutsk 2,2020-12-15
+football,United Arab Emirates,Division 1,2020/2021,25.12. 04:45,Dibba Al Hisn,Al Urooba,2020-12-15
+football,Ukraine,Persha Liga,2020/2021,31.03. 07:30,Alliance,Ahrobiznes Volochysk,2020-12-15
+football,Ukraine,Persha Liga,2020/2021,31.03. 07:30,Hirnyk-Sport,VPK-Agro,2020-12-15
+football,Ukraine,Youth League,2020/2021,23.04. 05:00,Zorya U21,Olimpik Donetsk U21,2020-12-15
+football,Ukraine,Premier League,2020/2021,06.03. 07:00,FK Zorya Luhansk,Lviv,2020-12-15
+football,Ukraine,Premier League,2020/2021,06.03. 07:00,Inhulets,Kolos Kovalivka,2020-12-15
+football,Ukraine,Druha Liga,2020/2021,27.03. 08:00,Podillya Khmelnytskyi,Karpaty,2020-12-15
+football,Ukraine,Druha Liga,2020/2021,27.03. 08:00,Uzhhorod,Obolon 2,2020-12-15
+football,United Arab Emirates,Division 1,2020/2021,26.12. 04:45,Emirates Club,Al Hamriyah,2020-12-15
+football,Ukraine,Persha Liga,2020/2021,31.03. 07:30,Kramatorsk,Nyva Ternopil,2020-12-15
+football,Ukraine,Youth League,2020/2021,30.04. 05:00,Desna U21,Kolos Kovalivka U21,2020-12-15
+football,Ukraine,Youth League,2020/2021,30.04. 05:00,Mariupol U21,Lviv U21,2020-12-15
+football,Ukraine,Premier League,2020/2021,06.03. 07:00,Mariupol,Vorskla Poltava,2020-12-15
+football,Ukraine,Druha Liga,2020/2021,28.03. 07:00,Metal Kharkiv,Dnipro Cherkasy,2020-12-15
+football,United Arab Emirates,Division 1,2020/2021,26.12. 04:45,Masafi,Dibba Al Fujairah,2020-12-15
+football,Ukraine,Persha Liga,2020/2021,31.03. 07:30,Metalist 1925,Krystal,2020-12-15
+football,Ukraine,Youth League,2020/2021,30.04. 05:00,Olimpik Donetsk U21,Inhulets U21,2020-12-15
+football,Ukraine,Premier League,2020/2021,06.03. 07:00,Olimpik Donetsk,Shakhtar Donetsk,2020-12-15
+football,Ukraine,Druha Liga,2020/2021,28.03. 07:00,MFC Metalurh,Nikopol,2020-12-15
+football,Ukraine,Druha Liga,2020/2021,28.03. 07:00,Yarud Mariupol,Tavriya,2020-12-15
+football,United Arab Emirates,Division 1,2020/2021,26.12. 04:45,Masfut,Al Bataeh,2020-12-15
+football,Ukraine,Persha Liga,2020/2021,31.03. 07:30,Obolon,Kremin,2020-12-15
+football,Ukraine,Persha Liga,2020/2021,31.03. 07:30,Prykarpattya,Zhytomyr,2020-12-15
+football,Ukraine,Youth League,2020/2021,30.04. 05:00,Rukh Lviv U21,Oleksandriya U21,2020-12-15
+football,Ukraine,Premier League,2020/2021,06.03. 07:00,Rukh Lviv,Desna,2020-12-15
+football,Ukraine,Druha Liga,2020/2021,03.04. 07:00,Bukovyna,Chaika,2020-12-15
+football,United Arab Emirates,Division 1,2020/2021,01.01. 04:50,Al Arabi,Masafi,2020-12-15
+football,Ukraine,Persha Liga,2020/2021,31.03. 07:30,Veres-Rivne,Ch. Odessa,2020-12-15
+football,Ukraine,Persha Liga,2020/2021,31.03. 07:30,Volyn Lutsk,Mykolaiv,2020-12-15
+football,Ukraine,Youth League,2020/2021,30.04. 05:00,Shakhtar Donetsk U21,Dnipro-1 U21,2020-12-15
+football,Ukraine,Premier League,2020/2021,13.03. 07:00,FK Zorya Luhansk,Dyn. Kyiv,2020-12-15
+football,Ukraine,Premier League,2020/2021,13.03. 07:00,Lviv,Rukh Lviv,2020-12-15
+football,Ukraine,Druha Liga,2020/2021,03.04. 07:00,Dinaz Vyshgorod,Uzhhorod,2020-12-15
+football,United Arab Emirates,Division 1,2020/2021,01.01. 04:50,Al Bataeh,Al Thaid,2020-12-15
+football,Ukraine,Persha Liga,2020/2021,05.04. 07:30,Ahrobiznes Volochysk,Volyn Lutsk,2020-12-15
+football,Ukraine,Youth League,2020/2021,30.04. 05:00,Vorskla Poltava U21,Dynamo Kiev U21,2020-12-15
+football,Ukraine,Youth League,2020/2021,30.04. 05:00,Zorya U21,Minaj U21,2020-12-15
+football,Ukraine,Premier League,2020/2021,13.03. 07:00,Mariupol,Kolos Kovalivka,2020-12-15
+football,Ukraine,Druha Liga,2020/2021,03.04. 07:00,Dnipro Cherkasy,Cherkashchyna,2020-12-15
+football,United Arab Emirates,Division 1,2020/2021,01.01. 04:50,Al Hamriyah,Dibba Al Hisn,2020-12-15
+football,Ukraine,Persha Liga,2020/2021,05.04. 07:30,Ch. Odessa,Prykarpattya,2020-12-15
+football,Ukraine,Youth League,2020/2021,07.05. 05:00,Dnipro-1 U21,Zorya U21,2020-12-15
+football,United Arab Emirates,UAE League,2020/2021,17.12. 06:00,Al Dhafra,Hatta,2020-12-15
+football,Ukraine,Premier League,2020/2021,13.03. 07:00,Minaj,Inhulets,2020-12-15
+football,Ukraine,Druha Liga,2020/2021,03.04. 07:00,Dunaivtsi,Chernihiv,2020-12-15
+football,United Arab Emirates,Division 1,2020/2021,02.01. 04:50,Al Urooba,Al-Taawon,2020-12-15
+football,Ukraine,Persha Liga,2020/2021,05.04. 07:30,Kremin,Veres-Rivne,2020-12-15
+football,Ukraine,Youth League,2020/2021,07.05. 05:00,Dynamo Kiev U21,Mariupol U21,2020-12-15
+football,United Arab Emirates,UAE League,2020/2021,17.12. 06:00,Bani Yas,Al Sharjah,2020-12-15
+football,Ukraine,Premier League,2020/2021,13.03. 07:00,Oleksandriya,Olimpik Donetsk,2020-12-15
+football,Ukraine,Druha Liga,2020/2021,03.04. 07:00,Mykolaiv 2,Balkany,2020-12-15
+football,United Arab Emirates,Division 1,2020/2021,02.01. 04:50,Dibba Al Fujairah,Masfut,2020-12-15
+football,Ukraine,Persha Liga,2020/2021,05.04. 07:30,Krystal,Alliance,2020-12-15
+football,Ukraine,Youth League,2020/2021,07.05. 05:00,Inhulets U21,Lviv U21,2020-12-15
+football,United Arab Emirates,UAE League,2020/2021,17.12. 09:00,Al Wasl,Al Jazira,2020-12-15
+football,Ukraine,Premier League,2020/2021,13.03. 07:00,Shakhtar Donetsk,Desna,2020-12-15
+football,Ukraine,Druha Liga,2020/2021,03.04. 07:00,Nikopol,Kryvbas 2020,2020-12-15
+football,United Arab Emirates,Division 1,2020/2021,08.01. 04:50,Al Thaid,Dibba Al Fujairah,2020-12-15
+football,Ukraine,Persha Liga,2020/2021,05.04. 07:30,Mykolaiv,Kramatorsk,2020-12-15
+football,Ukraine,Youth League,2020/2021,07.05. 05:00,Minaj U21,Shakhtar Donetsk U21,2020-12-15
+football,United Arab Emirates,UAE League,2020/2021,18.12. 06:00,Al Fujairah,Shabab Al-Ahli Dubai,2020-12-15
+football,Ukraine,Premier League,2020/2021,13.03. 07:00,Vorskla Poltava,Dnipro-1,2020-12-15
+football,Ukraine,Druha Liga,2020/2021,03.04. 07:00,Obolon 2,Nyva Vinnytsya,2020-12-15
+football,United Arab Emirates,Division 1,2020/2021,08.01. 04:50,Al-Taawon,Al Hamriyah,2020-12-15
+football,Ukraine,Persha Liga,2020/2021,05.04. 07:30,Nyva Ternopil,Hirnyk-Sport,2020-12-15
+football,Ukraine,Youth League,2020/2021,07.05. 05:00,Oleksandriya U21,Kolos Kovalivka U21,2020-12-15
+football,United Arab Emirates,UAE League,2020/2021,18.12. 06:00,Ittihad Kalba,Al Wahda,2020-12-15
+football,Ukraine,Premier League,2020/2021,20.03. 08:00,Desna,Dnipro-1,2020-12-15
+football,Ukraine,Druha Liga,2020/2021,03.04. 07:00,Peremoga Dnipro,MFC Metalurh,2020-12-15
+football,United Arab Emirates,Division 1,2020/2021,08.01. 04:50,Masfut,Al Arabi,2020-12-15
+football,Ukraine,Persha Liga,2020/2021,05.04. 07:30,VPK-Agro,Obolon,2020-12-15
+football,Ukraine,Youth League,2020/2021,07.05. 05:00,Rukh Lviv U21,Olimpik Donetsk U21,2020-12-15
+football,United Arab Emirates,UAE League,2020/2021,18.12. 09:00,Ajman,Khorfakkan,2020-12-15
+football,Ukraine,Premier League,2020/2021,20.03. 08:00,Dyn. Kyiv,Rukh Lviv,2020-12-15
+football,Ukraine,Druha Liga,2020/2021,03.04. 07:00,Real Pharma,Metal Kharkiv,2020-12-15
+football,United Arab Emirates,Division 1,2020/2021,09.01. 04:50,Dibba Al Hisn,Emirates Club,2020-12-15
+football,Ukraine,Persha Liga,2020/2021,05.04. 07:30,Zhytomyr,Metalist 1925,2020-12-15
+football,Ukraine,Youth League,2020/2021,07.05. 05:00,Vorskla Poltava U21,Desna U21,2020-12-15
+football,United Arab Emirates,UAE League,2020/2021,18.12. 09:00,Al Nasr,Al Ain,2020-12-15
+football,Ukraine,Premier League,2020/2021,20.03. 08:00,Inhulets,Oleksandriya,2020-12-15
+football,Ukraine,Druha Liga,2020/2021,03.04. 07:00,Rubikon Kyiv,Karpaty Halych,2020-12-15
+football,United Arab Emirates,Division 1,2020/2021,09.01. 04:50,Masafi,Al Urooba,2020-12-15
+football,Ukraine,Persha Liga,2020/2021,10.04. 07:30,Alliance,Metalist 1925,2020-12-15
+football,Ukraine,Youth League,2020/2021,14.05. 05:00,Dnipro-1 U21,Rukh Lviv U21,2020-12-15
+football,United Arab Emirates,UAE League,2020/2021,25.12. 06:00,Al Wahda,Al Fujairah,2020-12-15
+football,Ukraine,Premier League,2020/2021,20.03. 08:00,Kolos Kovalivka,FK Zorya Luhansk,2020-12-15
+football,Ukraine,Druha Liga,2020/2021,03.04. 07:00,Tavriya,Nova Kakhovka,2020-12-15
+football,United Arab Emirates,Division 1,2020/2021,22.01. 05:05,Al Urooba,Masfut,2020-12-15
+football,Ukraine,Persha Liga,2020/2021,10.04. 07:30,Ch. Odessa,Zhytomyr,2020-12-15
+football,Ukraine,Youth League,2020/2021,14.05. 05:00,Kolos Kovalivka U21,Dynamo Kiev U21,2020-12-15
+football,United Arab Emirates,UAE League,2020/2021,25.12. 06:00,Hatta,Al Sharjah,2020-12-15
+football,Ukraine,Premier League,2020/2021,20.03. 08:00,Lviv,Shakhtar Donetsk,2020-12-15
+football,Ukraine,Druha Liga,2020/2021,03.04. 07:00,Volyn Lutsk 2,Podillya Khmelnytskyi,2020-12-15
+football,United Arab Emirates,Division 1,2020/2021,22.01. 05:05,Dibba Al Fujairah,Al Bataeh,2020-12-15
+football,Ukraine,Persha Liga,2020/2021,10.04. 07:30,Hirnyk-Sport,Mykolaiv,2020-12-15
+football,Ukraine,Youth League,2020/2021,14.05. 05:00,Lviv U21,Olimpik Donetsk U21,2020-12-15
+football,United Arab Emirates,UAE League,2020/2021,25.12. 09:00,Khorfakkan,Al Wasl,2020-12-15
+football,Ukraine,Premier League,2020/2021,20.03. 08:00,Mariupol,Minaj,2020-12-15
+football,Ukraine,Druha Liga,2020/2021,09.04. 07:00,Balkany,Tavriya,2020-12-15
+football,United Arab Emirates,Division 1,2020/2021,22.01. 05:05,Emirates Club,Al-Taawon,2020-12-15
+football,Ukraine,Persha Liga,2020/2021,10.04. 07:30,Kramatorsk,Ahrobiznes Volochysk,2020-12-15
+football,Ukraine,Youth League,2020/2021,14.05. 05:00,Mariupol U21,Desna U21,2020-12-15
+football,United Arab Emirates,UAE League,2020/2021,26.12. 06:00,Al Ain,Ittihad Kalba,2020-12-15
+football,Ukraine,Premier League,2020/2021,20.03. 08:00,Vorskla Poltava,Olimpik Donetsk,2020-12-15
+football,Ukraine,Druha Liga,2020/2021,09.04. 07:00,Chaika,Rubikon Kyiv,2020-12-15
+football,United Arab Emirates,Division 1,2020/2021,23.01. 05:10,Al Arabi,Al Thaid,2020-12-15
+football,Ukraine,Persha Liga,2020/2021,10.04. 07:30,Obolon,Nyva Ternopil,2020-12-15
+football,Ukraine,Youth League,2020/2021,14.05. 05:00,Minaj U21,Vorskla Poltava U21,2020-12-15
+football,United Arab Emirates,UAE League,2020/2021,26.12. 06:00,Al Dhafra,Al Nasr,2020-12-15
+football,Ukraine,Premier League,2020/2021,03.04. 07:00,Desna,Olimpik Donetsk,2020-12-15
+football,Ukraine,Druha Liga,2020/2021,09.04. 07:00,Cherkashchyna,Real Pharma,2020-12-15
+football,United Arab Emirates,Division 1,2020/2021,23.01. 05:10,Al Hamriyah,Masafi,2020-12-15
+football,Ukraine,Persha Liga,2020/2021,10.04. 07:30,Prykarpattya,Kremin,2020-12-15
+football,Ukraine,Youth League,2020/2021,14.05. 05:00,Shakhtar Donetsk U21,Inhulets U21,2020-12-15
+football,United Arab Emirates,UAE League,2020/2021,26.12. 09:00,Al Jazira,Ajman,2020-12-15
+football,Ukraine,Premier League,2020/2021,03.04. 07:00,Dnipro-1,Lviv,2020-12-15
+football,Ukraine,Druha Liga,2020/2021,09.04. 07:00,Chernihiv,Karpaty,2020-12-15
+football,United Arab Emirates,Division 1,2020/2021,29.01. 05:10,Al Bataeh,Al Arabi,2020-12-15
+football,Ukraine,Persha Liga,2020/2021,10.04. 07:30,Veres-Rivne,VPK-Agro,2020-12-15
+football,Ukraine,Youth League,2020/2021,14.05. 05:00,Zorya U21,Oleksandriya U21,2020-12-15
+football,United Arab Emirates,UAE League,2020/2021,26.12. 09:00,Shabab Al-Ahli Dubai,Bani Yas,2020-12-15
+football,Ukraine,Premier League,2020/2021,03.04. 07:00,Mariupol,Inhulets,2020-12-15

@@ -1,0 +1,1371 @@
+sport,country,league
+football,Albania,Superliga
+football,Albania,First Division
+hockey,France,Ligue Magnus
+football,Albania,Albanian Cup
+football,Albania,Super Cup
+hockey,France,D1
+hockey,France,French Cup
+hockey,France,Super Cup
+hockey,Turkey,Super Lig
+handball,Switzerland,NLA
+handball,Switzerland,Schweizer Cup
+handball,Switzerland,Super Cup
+handball,Switzerland,SPL Women
+handball,Switzerland,Schweizer Cup Women
+football,Philippines,PFL
+football,Philippines,Copa Paulino Alcantara
+football,World,World Cup
+football,World,Olympic Games
+football,World,FIFA Club World Cup
+football,South America,Copa América
+football,World,FIFA Confederations Cup
+football,World,World Cup U20
+football,South America,Copa Libertadores
+football,South America,Copa Sudamericana
+football,World,World Cup U17
+football,North & Central America,Gold Cup
+football,South America,Recopa Sudamericana
+football,South America,South American Championship U20
+football,World,Friendly International
+football,North & Central America,CONCACAF Champions League
+football,South America,World Cup
+football,World,Club Friendly
+football,North & Central America,CONCACAF Nations League
+football,North & Central America,CONCACAF League
+football,South America,South American Championship U17
+football,South America,Copa Antel
+football,World,Arab Club Champions Cup
+football,North & Central America,World Cup
+football,South America,Copa América Women
+football,South America,Copa Libertadores Women
+football,World,Arab Cup of Nations
+football,World,Audi Cup
+football,North & Central America,CONCACAF Cup
+football,North & Central America,CONCACAF Championship U20
+football,South America,South American Championship Women U20
+football,World,Bangabandhu Gold Cup
+football,North & Central America,CONCACAF Championship U17
+football,North & Central America,Campeones Cup
+football,South America,South American Championship Women U17
+football,World,CEE Cup
+football,World,China Cup
+football,World,COTIF Tournament
+football,North & Central America,Caribbean Cup
+football,World,International Champions Cup
+football,World,Islamic Solidarity Games
+football,North & Central America,Caribbean Club Championship
+football,World,J.League Cup / Copa Sudamericana
+football,North & Central America,Caribbean Club Shield
+football,World,Kings Cup (Thailand)
+football,North & Central America,Central American & Caribbean Games
+football,North & Central America,Copa Centroamericana
+football,World,Kirin Cup (Japan)
+football,World,La Manga Cup
+football,North & Central America,Leagues Cup
+football,World,Mediterranean Games
+football,North & Central America,CONCACAF Championship Women
+football,North & Central America,CONCACAF Championship Women U20
+football,World,Visit Tucson Sun Cup
+football,World,Nordic Tournament U17
+football,North & Central America,CONCACAF Championship Women U17
+football,World,Pan American Games
+football,North & Central America,Central American & Caribbean Games Women
+football,World,Premier League Asia Trophy
+football,World,Slovakia Cup
+football,World,Toulon Tournament
+football,World,Trofeo Colombino
+football,World,Universiade
+football,World,Valentin Granatkin Memorial
+football,World,Viareggio Cup
+football,World,World Medical Football Championship
+football,World,World Cup Women
+football,World,World Cup Women U20
+football,World,World Cup Women U17
+football,World,Olympic Games Women
+football,World,Friendly International Women
+football,World,Club Friendly Women
+football,World,Algarve Cup Women
+football,World,International Champions Cup Women
+football,World,International Tournament (Cyprus) Women
+football,World,Istria Cup Women
+football,World,Pan American Games Women
+football,World,SheBelieves Cup Women
+football,World,Tournoi de France Women
+football,World,Tournament of Nations Women
+football,World,Universiade Women
+football,Europe,Euro
+football,Europe,Champions League
+football,Europe,Europa League
+football,Europe,UEFA Nations League
+football,Europe,Euro U21
+football,Europe,Euro U19
+football,Europe,World Cup
+football,Europe,Euro U17
+football,Europe,UEFA Super Cup
+football,Europe,UEFA Regions' Cup
+football,Europe,UEFA Youth League
+football,Europe,Elite League U20
+football,Europe,Atlantic Cup
+football,Europe,Baltic Cup
+football,Europe,Baltic Cup U21
+football,Europe,Czech-Slovak Super Cup
+football,Europe,Emirates Cup
+football,Europe,Marbella Cup
+football,Europe,Premier League (Crimea)
+football,Europe,Uhren Cup
+football,Europe,Champions League Women
+football,Europe,Euro Women
+football,Europe,Euro U19 Women
+football,Europe,Euro U17 Women
+football,Australia & Oceania,OFC Nations Cup
+football,Australia & Oceania,OFC Champions League
+football,Australia & Oceania,OFC Championship U23
+football,Australia & Oceania,OFC Championship U19
+football,Australia & Oceania,OFC Championship U16
+football,Australia & Oceania,Pacific Games
+football,Australia & Oceania,OFC Nations Cup Women
+football,Australia & Oceania,OFC Championship U19 Women
+football,Australia & Oceania,World Cup
+football,Australia & Oceania,OFC Championship U16 Women
+football,Australia & Oceania,Pacific Games Women
+football,Asia,Asian Cup
+football,Asia,AFC Champions League
+football,Asia,AFC Cup
+football,Asia,EAFF E-1 Football Championship
+football,Asia,SAFF Championship
+football,Asia,WAFF Championship
+football,Asia,World Cup
+football,Asia,Asian Games
+football,Asia,Southeast Asian Games
+football,Asia,AFC Championship U23
+football,Asia,AFC Championship U19
+football,Asia,AFC Championship U16
+football,Asia,AFF Championship U22
+football,Asia,AFF Championship U19
+football,Asia,AFF Suzuki Cup
+football,Asia,AFC Solidarity Cup
+football,Asia,Guangdong - Hong Kong Cup
+football,Asia,Gulf Cup of Nations
+football,Asia,Gulf Clubs Championship
+football,Asia,Asian Cup Women
+football,Asia,Asian Games Women
+football,Asia,EAFF E-1 Football Championship Women
+football,Asia,East Asian Games Women
+football,Asia,Southeast Asian Games Women
+football,Asia,AFC Championship Women U19
+football,Asia,AFC Championship Women U16
+football,Asia,CAFA Championship Women
+football,Asia,SAFF Championship Women
+football,Africa,Africa Cup of Nations
+football,Africa,CAF Champions League
+football,Africa,CAF Confederations Cup
+football,Africa,World Cup
+football,Africa,CAF Super Cup
+football,Africa,African Nations Championship
+football,Africa,Africa Cup of Nations U23
+football,Africa,Africa Cup of Nations U20
+football,Africa,Africa Cup of Nations U17
+football,Africa,CECAFA Championship
+football,Africa,CECAFA Clubs Cup
+football,Africa,COSAFA Cup
+football,Africa,COSAFA Championship U20
+football,Africa,WAFU Cup of Nations
+football,Africa,African Championship Women
+football,Zimbabwe,Premier Soccer League
+football,Zambia,Super League
+football,Yemen,Division 1
+football,Wales,Cymru Premier
+football,Wales,Cymru North
+football,Wales,Cymru South
+football,Wales,Division 1
+football,Wales,Cymru Alliance
+football,Vietnam,V.League 1
+football,Wales,FA Cup
+football,Wales,League Cup
+football,Vietnam,V.League 2
+football,Vietnam,Vietnamese Cup
+football,Vietnam,Super Cup
+football,Vietnam,National League Women
+football,Vietnam,Vietnamese Cup Women
+football,Uzbekistan,Super League
+football,Uzbekistan,Uzbekistan Cup
+football,Uzbekistan,Super Cup
+football,USA,MLS
+football,USA,USL Championship
+football,USA,USL League One
+football,USA,USL League Two
+football,USA,NISA
+football,USA,US Open Cup
+football,USA,MLS is Back
+football,Uruguay,Primera Division
+football,USA,Carolina Challenge Cup
+football,USA,NWSL Women
+football,USA,NWSL Challenge Cup Women
+football,Uruguay,Segunda Division
+football,Uruguay,Super Cup
+football,United Arab Emirates,UAE League
+football,United Arab Emirates,Arabian Gulf Cup
+football,United Arab Emirates,Division 1
+football,United Arab Emirates,Super Cup
+football,United Arab Emirates,Presidents Cup
+football,Ukraine,Premier League
+football,Ukraine,Persha Liga
+football,Ukraine,Druha Liga
+football,Ukraine,Youth League
+football,Ukraine,Ukrainian Cup
+football,Ukraine,Super Cup
+football,Uganda,Premier League
+football,Turkmenistan,Yokary Liga
+football,Turkmenistan,Youth League
+football,Tunisia,Ligue Professionnelle 1
+football,Tunisia,Ligue 2
+football,Tunisia,Tunisia Cup
+football,Tunisia,Super Cup
+football,Trinidad and Tobago,Pro League
+football,Togo,Championnat National
+football,Thailand,Thai League 1
+football,Thailand,Thai League 2
+football,Thailand,Thai FA Cup
+football,Thailand,Champions Cup
+football,Tanzania,Ligi Kuu Bara
+football,Tajikistan,Vysshaya Liga
+football,Tajikistan,Super Cup
+football,Taiwan,Premier League
+football,Taiwan,Mulan Football League Women
+football,Syria,Premier League
+football,Syria,Syria Cup
+football,Switzerland,Super League
+football,Switzerland,Challenge League
+football,Switzerland,Promotion League
+football,Switzerland,1.Liga Classic Group 1
+football,Switzerland,1.Liga Classic Group 2
+football,Switzerland,1.Liga Classic Group 3
+football,Switzerland,1.Liga Classic Play Offs
+football,Switzerland,Swiss Cup
+football,Switzerland,Nationalliga A Women
+football,Sweden,Allsvenskan
+football,Sweden,Superettan
+football,Sweden,Division 1 - Norra
+football,Sweden,Division 1 - Södra
+football,Sweden,Division 1 - Relegation
+football,Sweden,Division 2 - Norrland
+football,Sweden,Division 2 - Norra Svealand
+football,Sweden,Division 2 - Västra Götaland
+football,Sweden,Division 2 - Södra Svealand
+football,Sweden,Division 2 - Norra Götaland
+football,Sweden,Division 2 - Östra Svealand
+football,Sweden,Division 2 - Östra Götaland
+football,Sweden,Division 2 - Promotion Group
+football,Sweden,Svenska Cupen
+football,Sweden,Super Cup
+football,Sweden,Allsvenskan Women
+football,Sweden,Elitettan Women
+football,Sweden,Svenska Cupen Women
+football,Sudan,Premier League
+football,Sweden,Super Cup Women
+football,Sri Lanka,Champions League
+football,Spain,LaLiga
+football,Spain,LaLiga2
+football,Spain,Segunda Division B - Group 1
+football,Spain,Segunda Division B - Group 2
+football,Spain,Segunda Division B - Group 3
+football,Spain,Segunda Division B - Group 4
+football,Spain,Segunda Division B - Group 5
+football,Spain,Segunda Division B Winners Play Offs
+football,Spain,Segunda Division B Losers Play Offs
+football,Spain,Segunda Division B Play Offs
+football,Spain,Segunda Division B Play Out
+football,Spain,Tercera Division - Group 1
+football,Spain,Tercera Division - Group 2
+football,Spain,Tercera Division - Group 3
+football,Spain,Tercera Division - Group 4
+football,Spain,Tercera Division - Group 5
+football,Spain,Tercera Division - Group 6
+football,Spain,Tercera Division - Group 7
+football,Spain,Tercera Division - Group 8
+football,Spain,Tercera Division - Group 9
+football,Spain,Tercera Division - Group 10
+football,Spain,Tercera Division - Group 11
+football,Spain,Tercera Division - Group 12
+football,Spain,Tercera Division - Group 13
+football,Spain,Tercera Division - Group 14
+football,Spain,Tercera Division - Group 15
+football,Spain,Tercera Division - Group 16
+football,Spain,Tercera Division - Group 17
+football,Spain,Tercera Division - Group 18
+football,Spain,Tercera Division - Play Offs
+football,Spain,Tercera Division - Promotion Play Offs
+football,Spain,Copa del Rey
+football,Spain,Copa Federacion
+football,Spain,Super Cup
+football,Spain,Primera Division Women
+football,Spain,Copa de la Reina Women
+football,Spain,Super Cup Women
+football,South Korea,K League 1
+football,South Korea,K League 2
+football,South Korea,K3 League
+football,South Korea,League Cup
+football,South Korea,Korean Cup
+football,South Korea,WK League Women
+football,South Africa,Premier League
+football,South Africa,GladAfrica Championship
+football,South Africa,Diski Challenge
+football,South Africa,Nedbank Cup
+football,South Africa,Telkom Knockout
+football,South Africa,MTN 8 Cup
+football,South Africa,Multichoice Diski Shield
+football,Slovenia,Prva liga
+football,Slovenia,2. SNL
+football,Slovenia,3. SNL - East
+football,Slovenia,3. SNL - West
+football,Slovenia,Slovenian Cup
+football,Slovenia,Super Cup
+football,Slovenia,1. SZNL Women
+football,Slovakia,Fortuna liga
+football,Slovakia,2. liga
+football,Slovakia,Divison C West
+football,Slovakia,Divison C East
+football,Slovakia,Divison C Central
+football,Slovakia,Divison C Bratislava
+football,Slovakia,Slovak Cup
+football,Slovakia,Super Cup
+football,Slovakia,1. Liga Women
+football,Singapore,Premier League
+football,Singapore,Singapore Cup
+football,Singapore,Singapore Community Shield
+football,Sierra Leone,Premier League
+football,Seychelles,First Division League
+football,Seychelles,Special Competition
+football,Serbia,Super Liga
+football,Serbia,Prva Liga
+football,Serbia,Srpska Liga - Belgrade
+football,Serbia,Srpska Liga - Vojvodina
+football,Serbia,Srpska Liga - East
+football,Serbia,Srpska Liga - West
+football,Serbia,Serbian Cup
+football,Senegal,Ligue 1
+football,Scotland,Premiership
+football,Scotland,Championship
+football,Scotland,League One
+football,Scotland,League Two
+football,Scotland,Lowland League
+football,Scotland,Highland League
+football,Saudi Arabia,Saudi Professional League
+football,Scotland,Challenge Cup
+football,Scotland,Scottish Cup
+football,Scotland,League Cup
+football,Saudi Arabia,Division 1
+football,Saudi Arabia,King Cup
+football,Saudi Arabia,Super Cup
+football,Scotland,SWPL 1 Women
+football,Scotland,Scottish Cup Women
+football,Scotland,SWPL Cup Women
+football,San Marino,Campionato Sammarinese
+football,San Marino,Coppa Titano
+football,San Marino,Super Cup
+football,Rwanda,Premier League
+football,Russia,Premier League
+football,Russia,FNL
+football,Russia,PFL - Group 1
+football,Russia,PFL - Group 2
+football,Russia,PFL - Group 3
+football,Russia,PFL - Group 4
+football,Russia,Youth League
+football,Russia,Russian Cup
+football,Russia,Super Cup
+football,Russia,Supreme Division Women
+football,Russia,FNL Cup
+football,Romania,Liga 1
+football,Romania,Liga 2
+football,Romania,Liga 3 - Seria 1
+football,Romania,Liga 3 - Seria 2
+football,Romania,Liga 3 - Seria 3
+football,Romania,Liga 3 - Seria 4
+football,Romania,Liga 3 - Seria 5
+football,Romania,Liga 3 - Seria 6
+football,Romania,Liga 3 - Seria 7
+football,Romania,Liga 3 - Seria 8
+football,Romania,Liga 3 - Seria 9
+football,Romania,Liga 3 - Seria 10
+football,Romania,Romanian Cup
+football,Romania,Super Cup
+football,Romania,Superliga Women
+football,Réunion,Regionale 1
+football,Romania,Romanian Cup Women
+football,Republic of the Congo,Ligue 1
+football,Qatar,QSL
+football,Qatar,Division 2
+football,Qatar,QSL Cup
+football,Qatar,Sheikh Jassim Cup
+football,Qatar,Crown Prince Cup
+football,Portugal,Primeira Liga
+football,Portugal,Liga Portugal 2
+football,Portugal,Campeonato de Portugal
+football,Portugal,Super Cup
+football,Portugal,Taça de Portugal
+football,Portugal,League Cup
+football,Portugal,Liga Revelacao U23
+football,Portugal,Liga BPI Women
+football,Portugal,Taça de Portugal Women
+football,Portugal,Taça da Liga Women
+football,Portugal,Super Cup Women
+football,Poland,Ekstraklasa
+football,Poland,Division 1
+football,Poland,Division 2
+football,Poland,III Liga - Group I
+football,Poland,III Liga - Group II
+football,Peru,Liga 1
+football,Poland,III Liga - Group III
+football,Poland,III Liga - Group IV
+football,Poland,Polish Cup
+football,Poland,Super Cup
+football,Poland,Central Youth League
+football,Peru,Liga 2
+football,Peru,Copa Bicentenario
+football,Peru,Copa Peru
+football,Peru,Supercopa Peruana
+football,Poland,Ekstraliga Women
+football,Poland,Polish Cup Women
+football,Paraguay,Primera Division
+football,Paraguay,Division Intermedia
+football,Paraguay,Copa Paraguay
+football,Panama,LPF
+football,Palestine,West Bank League
+football,Pakistan,Premier League
+football,Oman,Professional League
+football,Oman,Sultan Cup
+football,Oman,Super Cup
+football,Norway,Eliteserien
+football,Norway,OBOS-ligaen
+football,Norway,Division 2 - Group 1
+football,Norway,Division 2 - Group 2
+football,Norway,Division 3 - Group 1
+football,Norway,Division 3 - Group 2
+football,Norway,Division 3 - Group 3
+football,Norway,Division 3 - Group 4
+football,Norway,Division 3 - Group 5
+football,Norway,Division 3 - Group 6
+football,Norway,NM Cup
+football,Norway,Super Cup
+football,Norway,Junior U19
+football,Norway,Junior Elite Tournament
+football,Norway,Toppserien Women
+football,Norway,Norway Cup Women
+football,North Macedonia,1. MFL
+football,North Macedonia,2. MFL
+football,North Macedonia,Macedonian Cup
+football,North Macedonia,Super Cup
+football,Northern Ireland,NIFL Premiership
+football,Northern Ireland,NIFL Championship
+football,Northern Ireland,Irish Cup
+football,Northern Ireland,Irish League Cup
+football,Northern Ireland,Charity Shield
+football,Northern Ireland,Premiership Women
+football,Nigeria,NPFL
+football,Nigeria,NPFL Pre-season
+football,Nigeria,NNL
+football,Nigeria,Aiteo Cup
+football,Nigeria,Super Cup
+football,Niger,Ligue 1
+football,Nicaragua,Liga Primera
+football,Nicaragua,Liga Primera U20
+football,New Zealand,Football Championship
+football,New Zealand,National League Women
+football,Netherlands,Eredivisie
+football,Netherlands,Eerste Divisie
+football,Netherlands,Tweede Divisie
+football,Netherlands,Derde Divisie
+football,Netherlands,KNVB Beker
+football,Netherlands,Super Cup
+football,Netherlands,Divisie 1 U21
+football,Netherlands,Divisie 1 U18
+football,Netherlands,Eredivisie Women
+football,Netherlands,KNVB Beker Women
+football,Netherlands,Eredivisie Cup Women
+football,Namibia,MTC Premiership
+football,Myanmar,National League
+football,Mozambique,Mocambola
+football,Morocco,Botola Pro
+football,Morocco,Botola 2
+football,Morocco,Coupe du Trone
+football,Montenegro,Prva Crnogorska Liga
+football,Montenegro,Druga Liga
+football,Montenegro,Montenegrin Cup
+football,Mongolia,Premier League
+football,Moldova,Divizia Nationala
+football,Moldova,Moldovan Cup
+football,Moldova,Super Cup
+football,Mexico,Liga MX
+football,Mexico,Liga de Expansion MX
+football,Mexico,Liga Premier Serie A
+football,Mexico,Liga Premier Serie B
+football,Mexico,Copa Mexico
+football,Mexico,Copa por Mexico
+football,Mexico,Campeón de Campeones
+football,Mexico,Liga MX Women
+football,Mauritius,Mauritian League
+football,Mauritania,Ligue 1
+football,Malta,Premier League
+football,Malta,Division 1
+football,Malta,FA Trophy
+football,Malta,Super Cup
+football,Malta,Summer Cup
+football,Mali,Premiere Division
+football,Maldives,Dhivehi Premier League
+football,Malaysia,Super League
+football,Malaysia,Premier League
+football,Malaysia,Malaysia Cup
+football,Malaysia,FA Cup
+football,Malaysia,Piala Sumbangsih
+football,Malawi,Super League
+football,Macao,Elite League
+football,Luxembourg,National Division
+football,Luxembourg,Luxembourg Cup
+football,Lithuania,A Lyga
+football,Lithuania,I Lyga
+football,Lithuania,Lithuanian Cup
+football,Lithuania,Super Cup
+football,Liechtenstein,Liechtenstein Cup
+football,Libya,Premier League
+football,Liberia,LFA First Division
+football,Lesotho,Premier League
+football,Lebanon,Premier League
+football,Lebanon,Super Cup
+football,Latvia,Optibet Virsliga
+football,Latvia,1. Liga
+football,Latvia,Latvian Cup
+football,Latvia,League Cup
+football,Laos,Lao League
+football,Kyrgyzstan,Premier Liga
+football,Kuwait,Premier League
+football,Kuwait,Crown Prince Cup
+football,Kuwait,Emir Cup
+football,Kuwait,Super Cup
+football,Kosovo,Superliga
+football,Kosovo,Kosovar Cup
+football,Kosovo,Super Cup
+football,Kenya,Premier League
+football,Kazakhstan,Premier League
+football,Kazakhstan,First Division
+football,Kazakhstan,Super Cup
+football,Kazakhstan,Kazakhstan Cup
+football,Jordan,Premier League
+football,Jordan,Jordan Cup
+football,Jordan,Shield Cup
+football,Jordan,Super Cup
+handball,World,World Championship
+handball,World,World Championship Women
+handball,World,World Championship U21
+handball,World,World Championship U20 Women
+handball,World,World Championship U19
+handball,World,World Championship U18 Women
+handball,World,Olympic Games
+handball,World,Olympic Games Women
+handball,World,Friendly International
+handball,World,Friendly International Women
+handball,World,Club Friendly
+handball,World,Club Friendly Women
+handball,World,IHF Emerging Nations Championship
+handball,World,Mediterranean Games
+handball,World,Mediterranean Games Women
+handball,World,Mobelringen Cup Women
+handball,World,Pan American Championship
+handball,World,Pan American Championship Women
+handball,World,Pan American Games
+handball,World,Pan American Games Women
+handball,World,Pan American Club Championship
+handball,World,Pan American Club Championship Women
+handball,World,South and Central American Championship
+handball,World,Super Globe
+handball,World,Super Globe Women
+handball,World,Universiade
+handball,World,Universiade Women
+handball,North & Central America,Central American & Caribbean Games
+handball,North & Central America,Central American & Caribbean Games Women
+handball,Europe,European Championship
+handball,Europe,European Championship Women
+handball,Europe,Champions League
+handball,Europe,Champions League Women
+handball,Europe,EHF European League
+handball,Europe,EHF European League Women
+handball,Europe,EHF Euro Cup
+handball,Europe,European Cup
+handball,Europe,European Cup Women
+handball,Europe,European Championship U20
+handball,Europe,European Championship U20 B
+handball,Europe,European Championship U19 Women
+handball,Europe,European Championship U19 B Women
+handball,Europe,European Championship U18
+handball,Europe,European Championship U18 B
+handball,Europe,European Championship U17 Women
+handball,Europe,European Championship U17 B Women
+handball,Europe,Baltic League
+handball,Europe,BENE-League
+handball,Europe,Czech-Slovak Cup
+handball,Europe,EHF Challenge Trophy Women
+handball,Europe,Golden League - Denmark
+handball,Europe,Golden League - Denmark Women
+handball,Europe,Golden League - France Women
+handball,Europe,Golden League - Norway Women
+handball,Europe,MOL Liga Women
+handball,Europe,SEHA Liga
+handball,Asia,Asian Championship
+handball,Asia,Asian Championship Women
+handball,Asia,Asian Games
+handball,Asia,Asian Games Women
+handball,Africa,African Championship
+handball,Africa,African Championship Women
+handball,Ukraine,Superleague
+handball,Turkey,Superlig Women
+handball,Turkey,Superlig
+football,Japan,J1 League
+football,Japan,J2 League
+football,Japan,J3 League
+football,Japan,YBC Levain Cup
+football,Japan,Emperors Cup
+football,Japan,Super Cup
+football,Japan,J Youth Cup
+football,Japan,Nadeshiko League Women
+football,Japan,Empress's Cup Women
+football,Jamaica,Premier League
+football,Ivory Coast,Ligue 1
+football,Ireland,Premier Division
+football,Ireland,Division 1
+football,Ireland,FAI Cup
+football,Ireland,League Cup
+football,Ireland,Super Cup
+football,Ireland,National League Women
+football,Iraq,Super League
+football,Iran,Persian Gulf Pro League
+football,Iran,Division 1
+football,Iran,Hazfi Cup
+football,Iran,Super Cup
+football,Indonesia,Liga 1
+football,Indonesia,Liga 2
+football,Indonesia,President Cup
+football,Indonesia,Piala Indonesia
+football,India,ISL
+football,India,I-League
+football,India,Calcutta Football League
+football,India,Santosh Trophy
+football,India,Durand Cup
+football,India,Hero Super Cup
+football,Iceland,Pepsideild
+football,Iceland,Inkasso-deildin
+football,Iceland,Division 2
+football,Iceland,League Cup
+football,Iceland,Icelandic Cup
+football,Iceland,Reykjavik Cup
+handball,Sweden,Handbollsligan
+football,Iceland,Fotbolti.net Cup
+football,Iceland,Super Cup
+football,Iceland,Urvalsdeild Women
+football,Iceland,Icelandic Cup Women
+handball,Sweden,Allsvenskan
+handball,Sweden,SHE Women
+handball,Sweden,Allsvenskan Women
+handball,Spain,Liga ASOBAL
+handball,Spain,Division de Honor Plata
+handball,Spain,Copa Asobal
+handball,Spain,Copa del Rey
+handball,Spain,Supercopa
+handball,Spain,Division de Honor Women
+handball,Spain,Copa de la Reina Women
+handball,Spain,Supercopa Women
+handball,South Korea,1st League
+handball,South Korea,1st League Women
+handball,Slovenia,1. NLB Liga
+handball,Slovenia,1.A DRL Women
+handball,Slovakia,Extraliga
+handball,Serbia,Superliga
+handball,Russia,Superleague
+handball,Russia,Russian Cup
+handball,Russia,Supercup
+handball,Russia,Superleague Women
+handball,Russia,Russian Cup Women
+handball,Russia,Supercup Women
+handball,Romania,Liga Nationala
+handball,Romania,Liga Nationala Women
+handball,Romania,Romanian Cup
+handball,Romania,Romanian Cup Women
+handball,Portugal,Andebol 1
+handball,Portugal,Taca de Portugal
+handball,Portugal,Super Cup
+handball,Portugal,1a Divisao Women
+handball,Poland,Superliga
+handball,Poland,I Liga
+handball,Poland,Polish Cup
+handball,Poland,Superliga Women
+handball,Poland,I Liga Women
+handball,Poland,Polish Cup Women
+handball,Norway,REMA 1000-ligaen
+handball,Norway,1. Division
+handball,Norway,REMA 1000-ligaen women
+handball,Norway,NM Cup
+handball,Norway,1. Division Women
+handball,Norway,NM Cup Women
+handball,North Macedonia,Superleague
+handball,North Macedonia,Superleague Women
+football,Hungary,OTP Bank Liga
+football,Hungary,Merkantil Bank Liga
+football,Hungary,NB III - East
+football,Hungary,NB III - Centre
+football,Hungary,NB III - West
+football,Hungary,Hungarian Cup
+football,Hong Kong,Premier League
+football,Hungary,NB I Women
+football,Honduras,Liga Nacional
+football,Hong Kong,FA Cup
+football,Hong Kong,Senior Shield
+football,Haiti,Championnat National
+football,Guinea,Ligue 1
+football,Guatemala,Liga Nacional
+football,Greece,Super League
+football,Greece,Super League 2
+football,Greece,Football League
+football,Greece,Gamma Ethniki - Group 1
+football,Greece,Gamma Ethniki - Group 2
+football,Gibraltar,Gibraltar Cup
+football,Greece,Gamma Ethniki - Group 3
+football,Greece,Gamma Ethniki - Group 4
+football,Greece,Gamma Ethniki - Group 5
+football,Greece,Gamma Ethniki - Group 6
+football,Greece,Gamma Ethniki - Group 7
+football,Gibraltar,National League
+football,Gibraltar,League Cup
+football,Greece,Gamma Ethniki - Group 8
+football,Greece,Gamma Ethniki - Group 9
+football,Greece,Gamma Ethniki - Group 10
+football,Greece,Gamma Ethniki - Promotion Play-offs
+football,Greece,Greek Cup
+football,Ghana,Premier League
+football,Ghana,Special Competition
+football,Germany,Bundesliga
+football,Germany,2. Bundesliga
+football,Germany,3. Liga
+football,Germany,Regionalliga North
+football,Germany,Regionalliga Nordost
+football,Germany,Regionalliga West
+football,Georgia,Crystalbet Erovnuli Liga
+football,Germany,Regionalliga Sudwest
+football,Germany,Regionalliga Bayern
+football,Germany,Regionalliga Play Offs
+football,Germany,Oberliga NOFV-Nord
+football,Georgia,Crystalbet Erovnuli Liga 2
+football,Georgia,Georgian Cup
+football,Georgia,Super Cup
+football,Germany,Oberliga NOFV- Sud
+football,Germany,Oberliga NOFV - Relegation
+football,Germany,Oberliga Schleswig-Holstein
+hockey,World,World Championship
+football,Germany,Oberliga Hamburg
+football,Germany,Oberliga Bremen
+football,Germany,Oberliga Niedersachsen
+football,Germany,Oberliga Westfalen
+hockey,World,World Cup
+hockey,World,Olympic Games
+hockey,World,Friendly International
+hockey,World,Club Friendly
+hockey,World,WCH IA
+football,Germany,Oberliga Hessen
+football,Germany,Oberliga Rheinland-Pfalz/Saar
+football,Germany,Oberliga Bayern Nord
+football,Germany,Oberliga Bayern Süd
+football,Germany,Oberliga Baden-Württemberg
+hockey,World,WCH IB
+hockey,World,WCH IIA
+hockey,World,WCH IIB
+hockey,World,WCH IIIA
+hockey,World,WCH IIIB
+hockey,World,WCH IV
+hockey,World,WCH U20
+hockey,World,WCH U20 IA
+football,Germany,Oberliga Mittelrhein
+football,Germany,Oberliga Niederrhein
+football,Germany,Oberliga NRW
+football,Germany,Oberliga Sudwest
+hockey,World,WCH U20 IB
+hockey,World,WCH U20 IIA
+hockey,World,WCH U20 IIB
+hockey,World,WCH U20 III
+hockey,World,WCH U18
+hockey,World,WCH U18 IA
+hockey,World,WCH U18 IB
+hockey,World,WCH U18 IIA
+football,Germany,Oberliga Bayern
+football,Germany,Oberliga Bayern - Relegation
+football,Germany,Oberliga Play Offs
+football,Germany,DFB Pokal
+hockey,World,WCH U18 IIB
+hockey,World,WCH U18 IIIA
+hockey,World,WCH U18 IIIB
+hockey,World,World Hockey Challenge U17
+hockey,World,Junior Club World Cup
+hockey,World,World Junior A Challenge
+football,Germany,Super Cup
+football,Germany,Telekom Cup - winter
+football,Germany,Junioren Bundesliga North
+football,Germany,Junioren Bundesliga South
+football,Germany,Junioren Bundesliga West
+hockey,World,Universiade
+hockey,World,Germany Cup
+hockey,World,Hlinka-Gretzky Cup
+hockey,World,International Tournament (South Korea)
+hockey,World,Olympic Games Women
+football,Germany,Junioren Bundesliga Play Offs
+football,Germany,DFB Junioren Pokal
+football,Germany,Bundesliga Women
+football,Germany,2. Bundesliga Women
+football,Germany,DFB Pokal Women
+hockey,World,WCH Women
+hockey,World,WCH IA Women
+hockey,World,WCH IB Women
+hockey,World,WCH IIA Women
+hockey,World,WCH IIB Women
+hockey,World,WCH III Women
+hockey,World,WCH U18 Women
+hockey,World,WCH U18 IA Women
+hockey,World,WCH U18 IB Women
+hockey,World,WCH U18 IIA Women
+hockey,World,WCH U18 IIB Women
+hockey,World,Friendly International Women
+hockey,World,Universiade Women
+hockey,Europe,Champions League
+hockey,Europe,Beijer Hockey Games
+hockey,Europe,Carlson Hockey Games
+hockey,Europe,Channel One Cup
+hockey,Europe,Karjala Cup
+hockey,Asia,Asian Games
+hockey,Europe,Alps Hockey League
+hockey,Asia,Southeast Asian Games
+hockey,Asia,Asia Challenge Cup
+hockey,Asia,Asia Challenge Cup Div. I
+hockey,Asia,Asia League
+hockey,Asia,Asian Games Women
+hockey,Europe,Baltic League
+hockey,Europe,BeNe League
+hockey,Europe,Continental Cup
+hockey,Europe,Mountfield Cup
+hockey,USA,NHL
+hockey,Europe,Spengler Cup (Davos)
+hockey,Europe,Zbynek Kusy Memorial
+hockey,Europe,International Tournament (Austria)
+hockey,Europe,International Tournament (Belarus)
+hockey,Europe,International Tournament (Denmark)
+hockey,USA,AHL
+hockey,USA,ECHL
+hockey,USA,FHL
+hockey,USA,SPHL
+hockey,USA,USHL
+hockey,USA,NWHL Women
+hockey,Europe,International Tournament (France)
+hockey,Europe,International Tournament (Hungary)
+hockey,Europe,International Tournament (Italy)
+hockey,Europe,International Tournament (Latvia)
+hockey,Europe,International Tournament (Lithuania)
+hockey,Europe,International Tournament (Netherlands)
+hockey,Europe,International Tournament (Norway)
+hockey,Europe,International Tournament (Poland)
+hockey,Europe,International Tournament (Romania)
+hockey,Europe,International Tournament (Slovakia)
+hockey,Europe,International Tournament (Slovenia)
+hockey,Europe,International Tournament (Switzerland)
+hockey,Europe,International Tournament (Ukraine)
+hockey,Europe,European Trophy
+hockey,Europe,Summer IHT (Basel)
+hockey,Europe,Dolomiten Cup
+hockey,Europe,Red Bulls Salute
+hockey,Europe,Rona Cup
+hockey,Europe,Visegrad Cup
+hockey,Europe,All Star Cup
+hockey,Europe,U20 Super Challenge
+hockey,Europe,EHT Final Women
+hockey,Europe,EHT Czech Republic Women
+hockey,Europe,EHT Finland Women
+hockey,Europe,Champions Cup Women
+hockey,Europe,European Cup U16 Women
+hockey,United Kingdom,Elite League
+hockey,United Kingdom,Challenge Cup
+hockey,Ukraine,UHL
+handball,Netherlands,Eredivisie
+handball,Netherlands,Eredivisie Women
+handball,Montenegro,Prva liga
+handball,Malta,1st Division
+handball,Luxembourg,AXA League
+handball,Lithuania,Lietuvos Lyga
+handball,Latvia,SynotTip Virsliga
+handball,Italy,Serie A
+handball,Italy,Coppa Italia
+handball,Italy,Coppa Italia Women
+handball,Italy,Serie A Women
+handball,Israel,Division 1
+handball,Iceland,Olis Deildin
+handball,Iceland,Olis Deild Women
+handball,Hungary,NB I
+handball,Hungary,Hungarian Cup
+handball,Hungary,NB I Women
+handball,Hungary,Hungarian Cup Women
+handball,Greece,A1
+handball,Greece,Greek Cup
+handball,Germany,Bundesliga
+handball,Germany,2. Bundesliga
+handball,Germany,DHB Pokal
+handball,Germany,Super Cup
+handball,Germany,1. Bundesliga Women
+handball,Germany,2. Bundesliga Women
+handball,France,Lidl Starligue
+handball,Germany,DHB Pokal Women
+handball,Germany,Super Cup Women
+handball,France,Proligue
+handball,France,Coupe de France
+handball,France,Coupe de la Ligue
+handball,France,Trophee des Champions
+handball,France,Division 1 Women
+handball,France,Coupe de France Women
+handball,France,Coupe de la Ligue Women
+football,Gambia,GFA League
+football,Gabon,Championnat D1
+football,France,Ligue 1
+football,France,Ligue 2
+football,France,National
+football,France,National 2 - Group A
+football,France,National 2 - Group B
+football,France,National 2 - Group C
+football,France,National 2 - Group D
+football,France,Coupe de la Ligue
+football,France,Coupe de France
+football,France,Super Cup
+football,France,Division 1 Women
+football,France,Division 2 Women
+football,France,Coupe de France Women
+football,France,Super Cup Women
+football,Finland,Veikkausliiga
+football,Finland,Ykkonen
+football,Finland,Kakkonen Group A
+football,Finland,Kakkonen Group B
+football,Finland,Kakkonen Group C
+football,Finland,Kakkonen Play Offs
+football,Finland,Suomen Cup
+football,Finland,Kakkosen Cup
+football,Finland,Kansallinen Liiga Women
+football,Finland,Suomen Cup Women
+football,Fiji,Premier League
+football,Faroe Islands,Premier League
+football,Faroe Islands,Faroe Islands Cup
+football,Faroe Islands,Super Cup
+football,Ethiopia,Premier League
+football,Eswatini,Swazi MTN Premier League
+football,Estonia,Meistriliiga
+football,Estonia,Esiliiga
+football,Estonia,Estonian Cup
+football,Estonia,Super Cup
+hockey,Switzerland,National League
+hockey,Switzerland,Swiss League
+hockey,Switzerland,MySports League
+hockey,Switzerland,Swiss Cup
+hockey,Sweden,SHL
+hockey,Sweden,HockeyAllsvenskan
+hockey,Sweden,HockeyEttan Norra
+hockey,Sweden,HockeyEttan Sodra
+hockey,Sweden,HockeyEttan Vastra
+hockey,Sweden,HockeyEttan Ostra
+hockey,Sweden,AllEttan Norra
+hockey,Sweden,AllEttan Södra
+hockey,Sweden,AllEttan Play Offs
+hockey,Sweden,SCA Cupen
+hockey,Sweden,SuperElit U20
+hockey,Sweden,SDHL Women
+hockey,Spain,LNHH
+hockey,Slovenia,IHL
+hockey,Slovenia,Hokejska liga
+hockey,Slovakia,Tipos Extraliga
+hockey,Serbia,Hockey League
+hockey,Slovakia,1. Liga
+hockey,Slovakia,2. Liga
+hockey,Slovakia,Super Cup
+hockey,Russia,KHL
+hockey,Russia,VHL
+hockey,Russia,VHL-B
+hockey,Russia,MHL
+hockey,Russia,NMHL
+hockey,Russia,Liga Pro - Short Hockey
+hockey,Russia,Comet Division - Short Hockey
+hockey,Romania,Campionatul National
+hockey,Russia,WHL Women
+hockey,Romania,Romanian Cup
+hockey,Poland,Polish Hockey League
+hockey,Poland,Polish Cup
+hockey,Poland,Super Cup
+handball,Finland,SM-sarja
+handball,Finland,SM-sarja Women
+handball,Estonia,Meistriliiga
+handball,Denmark,Herre Handbold Ligaen
+handball,Denmark,1. Division
+handball,Denmark,Santander Cup
+handball,Denmark,Super Cup
+handball,Denmark,Bambusa Kvindeligaen Women
+handball,Denmark,1. Division Women
+handball,Denmark,Santander Cup Women
+handball,Czech Republic,Extraliga
+handball,Denmark,Super Cup Women
+handball,Czech Republic,Czech Cup
+handball,Czech Republic,Czech Cup Women
+handball,Bulgaria,A RHG
+handball,Bosnia and Herzegovina,Premijer Liga
+handball,Belgium,Division 1
+handball,Belarus,Division 1
+football,England,Premier League
+football,England,Championship
+football,England,League One
+football,England,League Two
+football,England,National League
+football,England,National League North
+football,El Salvador,Primera Division
+football,England,National League South
+football,England,NPL Premier Division
+football,England,Southern League Central Division
+football,England,Southern League South Division
+football,England,Isthmian League Premier Division
+football,England,Non League Premier - Play Offs
+football,England,Professional Development League
+football,England,EFL Cup
+football,England,EFL Trophy
+football,England,FA Cup
+football,England,FA Trophy
+football,England,FA Community Shield
+football,England,Premier League Cup
+football,England,Premier League International Cup
+football,England,Premier League 2
+football,England,Premier League U18
+football,England,FA Youth Cup
+football,England,Women’s Super League
+football,England,Women’s Championship
+football,England,Women’s FA Cup
+football,England,Women's League Cup
+football,England,Women's FA Community Shield
+football,Egypt,Premier League
+football,Egypt,Egypt Cup
+football,Egypt,Super Cup
+football,Ecuador,Liga Pro
+football,Ecuador,Serie B
+football,Ecuador,Copa Ecuador
+football,Ecuador,Super Cup
+football,DR Congo,Ligue 1
+football,Dominican Republic,LDF
+football,Djibouti,Division 1
+football,Denmark,Superliga
+football,Denmark,1st Division
+football,Denmark,2nd Division - Group 1
+football,Denmark,2nd Division - Group 2
+football,Denmark,2nd Division - Group 3
+football,Denmark,2nd Division - Promotion Group
+football,Denmark,2nd Division - Relegation Group
+football,Denmark,Landspokal Cup
+football,Denmark,Elitedivisionen Women
+football,Denmark,Danish Cup Women
+football,Czech Republic,1. Liga
+football,Czech Republic,Division 2
+football,Czech Republic,CFL - Group A
+football,Czech Republic,CFL - Group B
+football,Czech Republic,MSFL
+football,Czech Republic,Division A
+football,Czech Republic,Division B
+football,Czech Republic,Division C
+football,Czech Republic,Division D
+football,Czech Republic,Division E
+football,Czech Republic,Division F
+football,Czech Republic,Moravskoslezsky KP
+football,Czech Republic,Zlinsky KP
+football,Czech Republic,Jihomoravsky KP
+football,Czech Republic,Vysocina KP
+football,Czech Republic,Kralovehradecky KP
+football,Czech Republic,Liberecky KP
+football,Czech Republic,Ustecky KP
+football,Czech Republic,Plzensky KP
+football,Czech Republic,Jihocesky KP
+football,Czech Republic,Prazsky prebor
+football,Czech Republic,Stredocesky KP
+football,Czech Republic,Karlovarsky KP
+football,Czech Republic,Olomoucky KP
+football,Czech Republic,Pardubicky KP
+football,Czech Republic,MOL Cup
+football,Czech Republic,Super Cup
+football,Czech Republic,Youth League
+football,Czech Republic,U19 League
+football,Czech Republic,Tipsport liga
+football,Czech Republic,CFL
+football,Czech Republic,1. Liga Women
+football,Czech Republic,2. Liga Women
+football,Czech Republic,Czech Cup Women
+football,Cyprus,First Division
+football,Cyprus,Division 2
+football,Cyprus,Cyprus Cup
+football,Cyprus,Super Cup
+hockey,Norway,Fjordkraft-ligaen
+hockey,Norway,Division 1
+hockey,New Zealand,NZIHL
+hockey,Netherlands,Dutch Cup
+hockey,Lithuania,Lietuvos Cempionatas
+hockey,Latvia,Optibet Hokeja Liga
+hockey,Kazakhstan,Championship
+hockey,Kazakhstan,Kazakhstan Cup
+hockey,Japan,Japan Cup
+hockey,Italy,Serie A
+hockey,Italy,IHL
+hockey,Italy,Italian Cup
+hockey,Italy,Super Cup
+hockey,Hungary,Erste Liga
+hockey,Hungary,Hungarian Cup
+hockey,Germany,DEL
+hockey,Germany,DEL2
+hockey,Germany,Oberliga
+hockey,Germany,Oberliga North
+hockey,Germany,Oberliga South
+hockey,Germany,MagentaSport Cup
+handball,Austria,HLA
+handball,Austria,OHB Cup
+handball,Austria,Supercup
+handball,Austria,WHA Women
+handball,Austria,OHB Cup Women
+football,Curaçao,Promé Divishon
+football,Croatia,1. HNL
+football,Croatia,2. HNL
+football,Croatia,3. HNL Center
+football,Croatia,3. HNL North
+football,Croatia,3. HNL South
+football,Costa Rica,Primera Division
+football,Croatia,3. HNL East
+football,Croatia,3. HNL West
+football,Croatia,Croatian Cup
+football,Croatia,Super Cup
+football,Costa Rica,Liga de Ascenso
+football,Costa Rica,Super Cup
+football,Colombia,Primera A
+football,Colombia,Primera B
+football,Colombia,Copa Colombia
+football,Colombia,Super Cup
+football,Colombia,Liga Women
+football,China,Super League
+football,China,Jia League
+football,China,Yi League
+football,China,FA Cup
+football,China,Super Cup
+football,China,Super League Women
+football,Chile,Primera Division
+football,Chile,Primera B
+football,Chile,Segunda Division
+football,Chile,Chilean Cup
+football,Chile,Super Cup
+football,Cape Verde,Campeonato Nacional
+football,Canada,Canadian Premier League
+football,Canada,Championship
+football,Canada,CSL
+football,Canada,U Sports
+hockey,Finland,Liiga
+hockey,Finland,Mestis
+hockey,Finland,Suomi-sarja
+hockey,Finland,SM-sarja U20
+hockey,Finland,Suomen Cup
+hockey,Finland,Naisten Liiga
+hockey,Estonia,Hokiliiga
+hockey,Denmark,Danish Cup
+hockey,Denmark,Metal Ligaen
+hockey,Czech Republic,Extraliga
+hockey,Czech Republic,Chance Liga
+hockey,Czech Republic,2. Liga - North
+hockey,Czech Republic,2. Liga - South
+hockey,Czech Republic,2. Liga - East
+hockey,Czech Republic,2. Liga - Promotion Group
+hockey,Canada,OHL
+hockey,Czech Republic,2. Liga
+hockey,Czech Republic,Generali Ceska Cup
+hockey,Czech Republic,JLA
+hockey,Czech Republic,DHL Super Cup
+hockey,Canada,WHL
+hockey,Canada,QMJHL
+hockey,Canada,LNAH
+hockey,Canada,U Sports
+hockey,Canada,Memorial Cup
+hockey,Czech Republic,ULLH
+hockey,Belarus,Extraleague
+hockey,Canada,CWHL Women
+hockey,Canada,Top Prospects Game
+hockey,Belarus,Minsk Championship
+hockey,Belarus,Belarusian Cup
+hockey,Austria,ICE Hockey League
+football,Cameroon,Elite One
+football,Cameroon,Elite Two
+football,Cambodia,C-League
+football,Burundi,Primus League
+football,Burundi,Coupe du President
+football,Burundi,Super Coupe
+football,Burkina Faso,Premier League
+football,Bulgaria,Parva liga
+football,Bulgaria,Vtora liga
+football,Bulgaria,Third League - South-East
+football,Bulgaria,Third League - South-West
+football,Bulgaria,Third League - North-East
+football,Bulgaria,Third League - North-West
+football,Bulgaria,Bulgarian Cup
+football,Bulgaria,Super Cup
+football,Brazil,Serie A
+football,Brazil,Serie B
+football,Brazil,Serie C
+football,Brazil,Serie D
+football,Brazil,Primeira Liga
+football,Brazil,Campeonato Acreano
+football,Botswana,Premier League
+football,Brazil,Campeonato Alagoano
+football,Brazil,Campeonato Amapaense
+football,Brazil,Campeonato Amazonense
+football,Brazil,Campeonato Baiano
+football,Brazil,Campeonato Brasiliense
+football,Brazil,Campeonato Capixaba
+football,Brazil,Campeonato Carioca
+football,Brazil,Campeonato Carioca B1
+football,Bosnia and Herzegovina,Premier League
+football,Brazil,Campeonato Catarinense
+football,Brazil,Campeonato Cearense
+football,Brazil,Campeonato Gaucho
+football,Bosnia and Herzegovina,Prva Liga - FBiH
+football,Bosnia and Herzegovina,Prva Liga - RS
+football,Bosnia and Herzegovina,Bosnia and Herzegovina Cup
+football,Brazil,Campeonato Gaucho 2
+football,Brazil,Campeonato Goiano
+football,Brazil,Campeonato Maranhense
+football,Brazil,Campeonato Matogrossense
+football,Brazil,Campeonato Mineiro
+football,Brazil,Campeonato Mineiro 2
+football,Brazil,Campeonato Paraense
+football,Brazil,Campeonato Paraibano
+football,Brazil,Campeonato Paranaense
+football,Brazil,Campeonato Paulista
+football,Brazil,Campeonato Paulista A2
+football,Brazil,Campeonato Pernambucano
+football,Brazil,Campeonato Piauiense
+football,Brazil,Campeonato Potiguar
+football,Brazil,Campeonato Rondoniense
+football,Brazil,Campeonato Roraimense
+football,Brazil,Campeonato Sergipano
+football,Brazil,Campeonato Sul-Matogrossense
+football,Brazil,Campeonato Tocantinense
+football,Brazil,Copa do Brasil
+football,Brazil,Copa do Brasil U20
+football,Brazil,Copa Paulista
+football,Brazil,Copa Verde
+football,Brazil,Copa do Nordeste
+football,Brazil,Supercopa do Brasil
+football,Brazil,Brasileiro U23
+football,Brazil,Brasileiro U20
+football,Brazil,Copa Sao Paulo de juniores
+football,Brazil,Brasileiro Women
+football,Brazil,Brasileiro A2 Women
+football,Bolivia,Division Profesional
+football,Bolivia,Nacional B
+football,Bermuda,Premier League
+hockey,Australia,AIHL
+football,Benin,Ligue 1
+football,Belgium,Jupiler League
+football,Belgium,Proximus League
+football,Belgium,National Division 1
+football,Belgium,Second Amateur Division Group ACFF
+football,Belgium,Second Amateur Division Group VFV A
+football,Belarus,Vysshaya Liga
+football,Belgium,Second Amateur Division Group VFV B
+football,Belgium,Second Amateur Division Play Offs
+football,Belgium,Belgian Cup
+football,Belgium,Super Cup
+football,Belgium,Pro League U21
+football,Belarus,Pershaya Liga
+football,Belarus,Division 2 - Group A
+football,Belarus,Division 2 - Group B
+football,Belarus,Division 2 - Promotion Group
+football,Belgium,Super League Women
+football,Belgium,1st National Women
+football,Belgium,Belgian Cup Women
+football,Bangladesh,Premier League
+football,Belarus,Division 2 - Play Offs
+football,Belarus,Belarusian Cup
+football,Belarus,Super Cup
+football,Bangladesh,Federation Cup
+football,Belarus,Vysshaya Liga Reserve
+football,Belarus,Vysshaya Liga Women
+football,Bahrain,Premier League
+football,Bahrain,King's Cup
+football,Bahrain,Bahrain Cup
+football,Azerbaijan,Premier League
+football,Azerbaijan,Azerbaijan Cup
+football,Azerbaijan,Super Cup
+football,Austria,Tipico Bundesliga
+football,Austria,2. Liga
+football,Austria,Regionalliga West - Promotion Group
+football,Austria,Regionalliga East
+football,Austria,Regionalliga Central
+football,Austria,Regionalliga West - Tyrol
+football,Austria,Regionalliga West - Salzburg
+football,Austria,Regionalliga West - Vorarlberg
+football,Austria,Regionalliga West
+football,Austria,OFB Cup
+football,Austria,Bundesliga Women
+football,Australia,A-League
+football,Australia,NPL ACT
+football,Australia,NPL Northern NSW
+football,Australia,NPL NSW
+football,Australia,NPL Queensland
+football,Australia,NPL South Australian
+football,Australia,NPL Tasmania
+football,Australia,NPL Victoria
+football,Australia,NPL Western Australia
+football,Australia,NPL Finals Series
+football,Australia,Brisbane Premier League
+football,Australia,FFA Cup
+football,Australia,Y-League
+football,Australia,W-League
+football,Aruba,Division di Honor
+football,Armenia,Premier League
+football,Armenia,First League
+football,Armenia,Armenian Cup
+football,Armenia,Super Cup
+football,Argentina,Liga Profesional
+football,Argentina,Copa Diego Maradona
+football,Argentina,Primera Nacional
+football,Argentina,Torneo Federal
+football,Argentina,Primera B
+football,Angola,Girabola
+football,Argentina,Primera C
+football,Argentina,Primera D
+football,Argentina,Copa Argentina
+football,Argentina,Copa de la Superliga
+football,Argentina,Super Cup
+football,Argentina,Torneos De Verano
+football,Argentina,Trofeo de Campeones
+football,Andorra,Primera Divisió
+football,Andorra,Andorra Cup
+football,Andorra,Super Cup
+football,Algeria,Ligue 1
+football,Algeria,Ligue 2
+football,Algeria,Algeria Cup
+football,Algeria,U21 League
+football,Algeria,Super Cup
+football,Israel,Ligat ha'Al
+football,Israel,Leumit League
+football,Israel,Liga Alef North
+football,Israel,Liga Alef South
+football,Israel,Liga Alef - Promotion Play Offs
+football,Israel,Liga Alef - Relegation
+football,Israel,State Cup
+football,Israel,Toto Cup
+football,Israel,Super Cup
+football,Turkey,Super Lig
+football,Turkey,1. Lig
+football,Turkey,2. Lig White Group
+football,Turkey,2. Lig Red Group
+football,Turkey,2. Lig Play Offs
+football,Turkey,3. Lig Group 1
+football,Turkey,3. Lig Group 2
+football,Turkey,3. Lig Group 3
+football,Turkey,3. Lig Group 4
+football,Turkey,TFF 3. Lig Play Offs
+football,Turkey,Turkish Cup
+football,Turkey,Super Cup

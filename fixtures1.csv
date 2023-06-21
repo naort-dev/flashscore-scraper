@@ -1,0 +1,136 @@
+sport,country,league,season,match_time,home_team,away_team,scraped_date
+football,Albania,Superliga,2020/2021,19.12. 04:45,Apolonia Fier,Teuta,2020-12-15
+football,Albania,Superliga,2020/2021,19.12. 04:45,Kastrioti,Kukesi,2020-12-15
+football,Albania,Superliga,2020/2021,19.12. 04:45,Laci,Vllaznia,2020-12-15
+football,Albania,Superliga,2020/2021,19.12. 04:45,Skenderbeu,KF Tirana,2020-12-15
+football,Albania,Superliga,2020/2021,19.12. 07:45,Partizani,Bylis,2020-12-15
+football,Albania,Superliga,2020/2021,23.12. 04:45,Apolonia Fier,Vllaznia,2020-12-15
+football,Albania,Superliga,2020/2021,23.12. 04:45,Laci,Bylis,2020-12-15
+football,Albania,Superliga,2020/2021,23.12. 04:45,Partizani,Kastrioti,2020-12-15
+football,Albania,Superliga,2020/2021,23.12. 04:45,Skenderbeu,Teuta,2020-12-15
+football,Albania,Superliga,2020/2021,23.12. 07:45,Kukesi,KF Tirana,2020-12-15
+football,Albania,Superliga,2020/2021,27.12. 04:45,Bylis,Apolonia Fier,2020-12-15
+football,Albania,Superliga,2020/2021,27.12. 04:45,Kastrioti,Laci,2020-12-15
+football,Albania,Superliga,2020/2021,27.12. 04:45,Vllaznia,Skenderbeu,2020-12-15
+football,Albania,Superliga,2020/2021,27.12. 07:45,Partizani,Kukesi,2020-12-15
+football,Albania,Superliga,2020/2021,27.12. 07:45,Teuta,KF Tirana,2020-12-15
+football,Albania,Superliga,2020/2021,30.12. 10:00,Apolonia Fier,Kastrioti,2020-12-15
+football,Albania,Superliga,2020/2021,30.12. 10:00,KF Tirana,Vllaznia,2020-12-15
+football,Albania,Superliga,2020/2021,30.12. 10:00,Kukesi,Teuta,2020-12-15
+football,Albania,Superliga,2020/2021,30.12. 10:00,Laci,Partizani,2020-12-15
+football,Albania,Superliga,2020/2021,30.12. 10:00,Skenderbeu,Bylis,2020-12-15
+football,Albania,Superliga,2020/2021,09.01. 10:00,Bylis,KF Tirana,2020-12-15
+football,Albania,Superliga,2020/2021,09.01. 10:00,Kastrioti,Skenderbeu,2020-12-15
+football,Albania,Superliga,2020/2021,09.01. 10:00,Laci,Kukesi,2020-12-15
+football,Albania,Superliga,2020/2021,09.01. 10:00,Partizani,Apolonia Fier,2020-12-15
+football,Albania,Superliga,2020/2021,09.01. 10:00,Vllaznia,Teuta,2020-12-15
+football,Albania,Superliga,2020/2021,16.01. 10:00,Apolonia Fier,Laci,2020-12-15
+football,Albania,Superliga,2020/2021,16.01. 10:00,KF Tirana,Kastrioti,2020-12-15
+football,Albania,Superliga,2020/2021,16.01. 10:00,Kukesi,Vllaznia,2020-12-15
+football,Albania,Superliga,2020/2021,16.01. 10:00,Skenderbeu,Partizani,2020-12-15
+football,Albania,Superliga,2020/2021,16.01. 10:00,Teuta,Bylis,2020-12-15
+football,Albania,Superliga,2020/2021,20.01. 10:00,Apolonia Fier,Kukesi,2020-12-15
+handball,Austria,HLA,2020/2021,15.12. 10:00,Bregenz,West Wien,2020-12-15
+football,Albania,Superliga,2020/2021,20.01. 10:00,Bylis,Vllaznia,2020-12-15
+football,Albania,Superliga,2020/2021,20.01. 10:00,Kastrioti,Teuta,2020-12-15
+football,Albania,Superliga,2020/2021,20.01. 10:00,Laci,Skenderbeu,2020-12-15
+football,Albania,Superliga,2020/2021,20.01. 10:00,Partizani,KF Tirana,2020-12-15
+handball,Austria,HLA,2020/2021,15.12. 10:30,Ferlach,Linz,2020-12-15
+handball,Austria,HLA,2020/2021,16.12. 11:20,Handball Tirol,Alpla Hard,2020-12-15
+handball,Austria,HLA,2020/2021,16.12. 11:20,HSG Graz,Aon Fivers,2020-12-15
+football,Albania,Superliga,2020/2021,24.01. 10:00,KF Tirana,Laci,2020-12-15
+football,Albania,Superliga,2020/2021,24.01. 10:00,Kukesi,Bylis,2020-12-15
+football,Albania,Superliga,2020/2021,24.01. 10:00,Skenderbeu,Apolonia Fier,2020-12-15
+football,Albania,Superliga,2020/2021,24.01. 10:00,Teuta,Partizani,2020-12-15
+handball,Austria,HLA,2020/2021,17.12. 11:00,Linz,Barnbach/K.,2020-12-15
+handball,Austria,HLA,2020/2021,18.12. 09:30,Krems,Ferlach,2020-12-15
+handball,Austria,HLA,2020/2021,19.12. 09:00,Handball Tirol,HSG Graz,2020-12-15
+handball,Austria,HLA,2020/2021,19.12. 10:30,Aon Fivers,Barnbach/K.,2020-12-15
+football,Albania,Superliga,2020/2021,24.01. 10:00,Vllaznia,Kastrioti,2020-12-15
+football,Albania,Superliga,2020/2021,30.01. 10:00,Apolonia Fier,KF Tirana,2020-12-15
+football,Albania,Superliga,2020/2021,30.01. 10:00,Kastrioti,Bylis,2020-12-15
+football,Albania,Superliga,2020/2021,30.01. 10:00,Laci,Teuta,2020-12-15
+handball,Austria,HLA,2020/2021,22.12. 09:00,Barnbach/K.,Bregenz,2020-12-15
+handball,Austria,HLA,2020/2021,23.12. 11:20,Ferlach,West Wien,2020-12-15
+handball,Austria,HLA,2020/2021,05.02. 09:30,Linz,Krems,2020-12-15
+handball,Austria,HLA,2020/2021,06.02. 09:00,Alpla Hard,Barnbach/K.,2020-12-15
+football,Albania,Superliga,2020/2021,30.01. 10:00,Partizani,Vllaznia,2020-12-15
+football,Albania,Superliga,2020/2021,30.01. 10:00,Skenderbeu,Kukesi,2020-12-15
+football,Albania,Superliga,2020/2021,06.02. 10:00,Bylis,Partizani,2020-12-15
+football,Albania,Superliga,2020/2021,06.02. 10:00,KF Tirana,Skenderbeu,2020-12-15
+handball,Austria,HLA,2020/2021,06.02. 09:00,West Wien,HSG Graz,2020-12-15
+handball,Austria,HLA,2020/2021,06.02. 10:00,Ferlach,Bregenz,2020-12-15
+handball,Austria,HLA,2020/2021,06.02. 10:30,Aon Fivers,Handball Tirol,2020-12-15
+handball,Austria,HLA,2020/2021,12.02. 09:30,HSG Graz,Ferlach,2020-12-15
+handball,Austria,HLA,2020/2021,13.02. 09:00,Alpla Hard,Linz,2020-12-15
+football,Albania,Superliga,2020/2021,06.02. 10:00,Kukesi,Kastrioti,2020-12-15
+football,Albania,Superliga,2020/2021,06.02. 10:00,Teuta,Apolonia Fier,2020-12-15
+football,Albania,Superliga,2020/2021,06.02. 10:00,Vllaznia,Laci,2020-12-15
+handball,Austria,HLA,2020/2021,13.02. 09:00,Handball Tirol,West Wien,2020-12-15
+handball,Austria,HLA,2020/2021,13.02. 10:00,Bregenz,Krems,2020-12-15
+handball,Austria,HLA,2020/2021,13.02. 10:30,Barnbach/K.,Aon Fivers,2020-12-15
+handball,Austria,HLA,2020/2021,19.02. 10:00,Krems,HSG Graz,2020-12-15
+football,Albania,Superliga,2020/2021,13.02. 10:00,Bylis,Laci,2020-12-15
+football,Albania,Superliga,2020/2021,13.02. 10:00,Kastrioti,Partizani,2020-12-15
+football,Albania,Superliga,2020/2021,13.02. 10:00,KF Tirana,Kukesi,2020-12-15
+football,Albania,Superliga,2020/2021,13.02. 10:00,Teuta,Skenderbeu,2020-12-15
+football,Albania,Superliga,2020/2021,13.02. 10:00,Vllaznia,Apolonia Fier,2020-12-15
+handball,Austria,HLA,2020/2021,20.02. 10:00,Ferlach,Handball Tirol,2020-12-15
+handball,Austria,HLA,2020/2021,20.02. 10:00,Linz,Bregenz,2020-12-15
+handball,Austria,HLA,2020/2021,20.02. 10:00,West Wien,Barnbach/K.,2020-12-15
+handball,Austria,HLA,2020/2021,20.02. 10:30,Aon Fivers,Alpla Hard,2020-12-15
+football,Albania,Superliga,2020/2021,17.02. 10:00,Apolonia Fier,Bylis,2020-12-15
+football,Albania,Superliga,2020/2021,17.02. 10:00,KF Tirana,Teuta,2020-12-15
+football,Albania,Superliga,2020/2021,17.02. 10:00,Kukesi,Partizani,2020-12-15
+football,Albania,Superliga,2020/2021,17.02. 10:00,Laci,Kastrioti,2020-12-15
+football,Albania,Superliga,2020/2021,17.02. 10:00,Skenderbeu,Vllaznia,2020-12-15
+football,Albania,Superliga,2020/2021,21.02. 10:00,Bylis,Skenderbeu,2020-12-15
+football,Albania,Superliga,2020/2021,21.02. 10:00,Kastrioti,Apolonia Fier,2020-12-15
+football,Albania,Superliga,2020/2021,21.02. 10:00,Partizani,Laci,2020-12-15
+football,Albania,Superliga,2020/2021,21.02. 10:00,Teuta,Kukesi,2020-12-15
+football,Albania,Superliga,2020/2021,21.02. 10:00,Vllaznia,KF Tirana,2020-12-15
+football,Albania,Superliga,2020/2021,27.02. 10:00,Apolonia Fier,Partizani,2020-12-15
+football,Albania,Superliga,2020/2021,27.02. 10:00,KF Tirana,Bylis,2020-12-15
+football,Albania,Superliga,2020/2021,27.02. 10:00,Kukesi,Laci,2020-12-15
+football,Albania,Superliga,2020/2021,27.02. 10:00,Skenderbeu,Kastrioti,2020-12-15
+football,Albania,Superliga,2020/2021,27.02. 10:00,Teuta,Vllaznia,2020-12-15
+football,Albania,Superliga,2020/2021,03.03. 10:00,Bylis,Teuta,2020-12-15
+football,Albania,Superliga,2020/2021,03.03. 10:00,Kastrioti,KF Tirana,2020-12-15
+football,Albania,Superliga,2020/2021,03.03. 10:00,Laci,Apolonia Fier,2020-12-15
+football,Albania,Superliga,2020/2021,03.03. 10:00,Partizani,Skenderbeu,2020-12-15
+football,Albania,Superliga,2020/2021,03.03. 10:00,Vllaznia,Kukesi,2020-12-15
+football,Albania,Superliga,2020/2021,07.03. 10:00,KF Tirana,Partizani,2020-12-15
+football,Albania,Superliga,2020/2021,07.03. 10:00,Kukesi,Apolonia Fier,2020-12-15
+football,Albania,Superliga,2020/2021,07.03. 10:00,Skenderbeu,Laci,2020-12-15
+football,Albania,Superliga,2020/2021,07.03. 10:00,Teuta,Kastrioti,2020-12-15
+football,Albania,Superliga,2020/2021,07.03. 10:00,Vllaznia,Bylis,2020-12-15
+football,Albania,Superliga,2020/2021,14.03. 11:00,Apolonia Fier,Skenderbeu,2020-12-15
+football,Albania,Superliga,2020/2021,14.03. 11:00,Bylis,Kukesi,2020-12-15
+football,Albania,Superliga,2020/2021,14.03. 11:00,Kastrioti,Vllaznia,2020-12-15
+football,Albania,Superliga,2020/2021,14.03. 11:00,Laci,KF Tirana,2020-12-15
+football,Albania,Superliga,2020/2021,14.03. 11:00,Partizani,Teuta,2020-12-15
+football,Albania,Superliga,2020/2021,20.03. 11:00,Bylis,Kastrioti,2020-12-15
+football,Albania,Superliga,2020/2021,20.03. 11:00,KF Tirana,Apolonia Fier,2020-12-15
+football,Albania,Superliga,2020/2021,20.03. 11:00,Kukesi,Skenderbeu,2020-12-15
+football,Albania,Superliga,2020/2021,20.03. 11:00,Teuta,Laci,2020-12-15
+football,Albania,Superliga,2020/2021,20.03. 11:00,Vllaznia,Partizani,2020-12-15
+football,Albania,Superliga,2020/2021,24.03. 11:00,Apolonia Fier,Teuta,2020-12-15
+football,Albania,Superliga,2020/2021,24.03. 11:00,Kastrioti,Kukesi,2020-12-15
+football,Albania,Superliga,2020/2021,24.03. 11:00,Laci,Vllaznia,2020-12-15
+football,Albania,Superliga,2020/2021,24.03. 11:00,Partizani,Bylis,2020-12-15
+football,Albania,Superliga,2020/2021,24.03. 11:00,Skenderbeu,KF Tirana,2020-12-15
+football,Albania,Superliga,2020/2021,03.04. 10:00,Apolonia Fier,Vllaznia,2020-12-15
+football,Albania,Superliga,2020/2021,03.04. 10:00,Kukesi,KF Tirana,2020-12-15
+football,Albania,Superliga,2020/2021,03.04. 10:00,Laci,Bylis,2020-12-15
+football,Albania,Superliga,2020/2021,03.04. 10:00,Partizani,Kastrioti,2020-12-15
+football,Albania,Superliga,2020/2021,03.04. 10:00,Skenderbeu,Teuta,2020-12-15
+football,Albania,Superliga,2020/2021,10.04. 10:00,Bylis,Apolonia Fier,2020-12-15
+football,Albania,Superliga,2020/2021,10.04. 10:00,Kastrioti,Laci,2020-12-15
+football,Albania,Superliga,2020/2021,10.04. 10:00,Partizani,Kukesi,2020-12-15
+football,Albania,Superliga,2020/2021,10.04. 10:00,Teuta,KF Tirana,2020-12-15
+football,Albania,Superliga,2020/2021,10.04. 10:00,Vllaznia,Skenderbeu,2020-12-15
+football,Albania,Superliga,2020/2021,18.04. 10:00,Apolonia Fier,Kastrioti,2020-12-15
+football,Albania,Superliga,2020/2021,18.04. 10:00,KF Tirana,Vllaznia,2020-12-15
+football,Albania,Superliga,2020/2021,18.04. 10:00,Kukesi,Teuta,2020-12-15
+football,Albania,Superliga,2020/2021,18.04. 10:00,Laci,Partizani,2020-12-15
+football,Albania,Superliga,2020/2021,18.04. 10:00,Skenderbeu,Bylis,2020-12-15

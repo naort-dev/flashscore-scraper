@@ -1,0 +1,278 @@
+sport,country,league,season,team,overall_rank,home_rank,home_mp,home_w,home_wo,home_lo,home_d,home_l,home_gf,home_ga,home_pts,away_rank,away_mp,away_w,away_wo,away_lo,away_d,away_l,away_gf,away_ga,away_pts,scraped_date
+football,World,FIFA Confederations Cup,2017,Portugal,1,1,3,2,,,1,0,7,2,7,1,3,2,,,1,0,7,2,7,2020-12-15
+football,World,FIFA Confederations Cup,2017,Mexico,2,2,3,2,,,1,0,6,4,7,2,3,2,,,1,0,6,4,7,2020-12-15
+football,World,FIFA Confederations Cup,2017,Russia,3,3,3,1,,,0,2,3,3,3,3,3,1,,,0,2,3,3,3,2020-12-15
+football,World,FIFA Confederations Cup,2017,New Zealand,4,4,3,0,,,0,3,1,8,0,4,3,0,,,0,3,1,8,0,2020-12-15
+football,World,FIFA Confederations Cup,2017,Germany,1,1,3,2,,,1,0,7,4,7,1,3,2,,,1,0,7,4,7,2020-12-15
+football,World,FIFA Confederations Cup,2017,Chile,2,2,3,1,,,2,0,4,2,5,2,3,1,,,2,0,4,2,5,2020-12-15
+hockey,Australia,AIHL,2020,Newcastle,1,1,0,0,0,0,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2020-12-15
+football,World,FIFA Confederations Cup,2017,Australia,3,3,3,0,,,2,1,4,5,2,3,3,0,,,2,1,4,5,2,2020-12-15
+hockey,Australia,AIHL,2020,Sydney Ice Dogs,2,2,0,0,0,0,,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2020-12-15
+hockey,Australia,AIHL,2020,Sydney Bears,3,3,0,0,0,0,,0,0,0,0,3,0,0,0,0,0,0,0,0,0,2020-12-15
+football,World,FIFA Confederations Cup,2017,Cameroon,4,4,3,0,,,1,2,2,6,1,4,3,0,,,1,2,2,6,1,2020-12-15
+hockey,Australia,AIHL,2020,Melbourne Ice,4,4,0,0,0,0,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,2020-12-15
+hockey,Australia,AIHL,2020,Adelaide,5,5,0,0,0,0,,0,0,0,0,5,0,0,0,0,0,0,0,0,0,2020-12-15
+hockey,Australia,AIHL,2020,Melbourne Mustangs,6,6,0,0,0,0,,0,0,0,0,6,0,0,0,0,0,0,0,0,0,2020-12-15
+hockey,Australia,AIHL,2020,Perth,7,7,0,0,0,0,,0,0,0,0,7,0,0,0,0,0,0,0,0,0,2020-12-15
+hockey,Australia,AIHL,2020,CBR Brave,8,8,0,0,0,0,,0,0,0,0,8,0,0,0,0,0,0,0,0,0,2020-12-15
+football,World,Tournament of Nations Women,2018,USA W,1,1,3,2,,,1,0,9,4,7,1,3,2,,,1,0,9,4,7,2020-12-15
+football,World,Tournament of Nations Women,2018,Australia W,2,2,3,2,,,1,0,6,2,7,2,3,2,,,1,0,6,2,7,2020-12-15
+football,World,Tournament of Nations Women,2018,Brazil W,3,3,3,1,,,0,2,4,8,3,3,3,1,,,0,2,4,8,3,2020-12-15
+football,World,Tournament of Nations Women,2018,Japan W,4,4,3,0,,,0,3,3,8,0,4,3,0,,,0,3,3,8,0,2020-12-15
+football,World,Tournoi de France Women,2020,France W,1,1,3,2,,,1,0,5,3,7,4,0,0,,,0,0,0,0,0,2020-12-15
+football,World,Tournoi de France Women,2020,Brazil W,3,2,1,0,,,1,0,2,2,1,3,2,0,,,1,1,0,1,1,2020-12-15
+football,World,Tournoi de France Women,2020,Netherlands W,2,3,1,0,,,1,0,0,0,1,1,2,0,,,2,0,3,3,2,2020-12-15
+football,World,SheBelieves Cup Women,2020,USA W,1,1,3,3,,,0,0,6,1,9,1,3,3,,,0,0,6,1,9,2020-12-15
+football,World,Tournoi de France Women,2020,Canada W,4,4,1,0,,,1,0,0,0,1,2,2,0,,,1,1,2,3,1,2020-12-15
+football,World,SheBelieves Cup Women,2020,Spain W,2,2,3,2,,,0,1,4,2,6,2,3,2,,,0,1,4,2,6,2020-12-15
+football,World,SheBelieves Cup Women,2020,England W,3,3,3,1,,,0,2,1,3,3,3,3,1,,,0,2,1,3,3,2020-12-15
+football,World,SheBelieves Cup Women,2020,Japan W,4,4,3,0,,,0,3,2,7,0,4,3,0,,,0,3,2,7,0,2020-12-15
+football,World,Pan American Games Women,2019,Paraguay W,1,1,2,1,,,1,0,3,1,4,2,1,1,,,0,0,2,1,3,2020-12-15
+football,World,Pan American Games Women,2019,Mexico W,3,2,3,1,,,1,1,5,4,4,3,0,0,,,0,0,0,0,0,2020-12-15
+football,World,Pan American Games Women,2019,Colombia W,2,3,0,0,,,0,0,0,0,0,1,3,1,,,2,0,4,2,5,2020-12-15
+football,World,Istria Cup Women,2019,Slovenia W,1,1,2,1,,,1,0,3,1,4,1,2,1,,,1,0,3,1,4,2020-12-15
+football,World,Pan American Games Women,2019,Jamaica W,4,4,1,0,,,0,1,0,2,0,4,2,0,,,0,2,1,5,0,2020-12-15
+football,World,Pan American Games Women,2019,Argentina W,2,1,2,1,,,1,0,3,0,4,2,1,1,,,0,0,1,0,3,2020-12-15
+football,World,Istria Cup Women,2019,Ukraine W,2,2,2,1,,,0,1,5,3,3,2,2,1,,,0,1,5,3,3,2020-12-15
+football,World,Istria Cup Women,2019,Croatia W,3,3,2,0,,,1,1,0,4,1,3,2,0,,,1,1,0,4,1,2020-12-15
+football,World,Pan American Games Women,2019,Costa Rica W,1,2,1,1,,,0,0,3,1,3,1,2,1,,,1,0,3,1,4,2020-12-15
+football,World,Pan American Games Women,2019,Panama W,3,3,3,0,,,1,2,2,5,1,4,0,0,,,0,0,0,0,0,2020-12-15
+football,World,Istria Cup Women,2019,Serbia W,1,1,2,2,,,0,0,6,0,6,1,2,2,,,0,0,6,0,6,2020-12-15
+football,World,Istria Cup Women,2019,Bosnia & Herzegovina W,2,2,2,1,,,0,1,3,3,3,2,2,1,,,0,1,3,3,3,2020-12-15
+football,World,Pan American Games Women,2019,Peru W,4,4,0,0,,,0,0,0,0,0,3,3,0,,,1,2,2,7,1,2020-12-15
+football,World,Istria Cup Women,2019,Montenegro W,3,3,2,0,,,0,2,1,7,0,3,2,0,,,0,2,1,7,0,2020-12-15
+football,World,International Tournament (Cyprus) Women,2020,Croatia W,1,1,2,1,,,1,0,4,3,4,1,2,1,,,1,0,4,3,4,2020-12-15
+football,World,International Tournament (Cyprus) Women,2020,Finland W,2,2,3,1,,,1,1,7,6,4,2,3,1,,,1,1,7,6,4,2020-12-15
+football,World,International Tournament (Cyprus) Women,2020,Mexico W,3,3,3,0,,,3,0,3,3,3,3,3,0,,,3,0,3,3,3,2020-12-15
+football,World,International Tournament (Cyprus) Women,2020,Czech Republic W,4,4,2,0,,,2,0,1,1,2,4,2,0,,,2,0,1,1,2,2020-12-15
+football,World,International Tournament (Cyprus) Women,2020,Slovakia W,5,5,2,0,,,1,1,4,6,1,5,2,0,,,1,1,4,6,1,2020-12-15
+football,World,International Tournament (Cyprus) Women,2020,Thailand W,6,6,0,0,,,0,0,0,0,0,6,0,0,,,0,0,0,0,0,2020-12-15
+football,World,World Cup Women U17,2018,Ghana U17 W,1,1,3,3,,,0,0,10,1,9,1,3,3,,,0,0,10,1,9,2020-12-15
+football,World,World Cup Women U17,2018,New Zealand U17 W,2,2,3,2,,,0,1,3,3,6,2,3,2,,,0,1,3,3,6,2020-12-15
+football,World,World Cup Women U17,2018,Finland U17 W,3,3,3,0,,,1,2,2,5,1,3,3,0,,,1,2,2,5,1,2020-12-15
+football,World,World Cup Women U17,2018,Uruguay U17 W,4,4,3,0,,,1,2,2,8,1,4,3,0,,,1,2,2,8,1,2020-12-15
+football,World,World Cup Women U17,2018,Japan U17 W,1,1,3,1,,,2,0,7,1,5,1,3,1,,,2,0,7,1,5,2020-12-15
+football,World,World Cup Women U17,2018,Mexico U17 W,2,2,3,1,,,2,0,2,1,5,2,3,1,,,2,0,2,1,5,2020-12-15
+football,World,World Cup Women U17,2018,Brazil U17 W,3,3,3,1,,,1,1,4,2,4,3,3,1,,,1,1,4,2,4,2020-12-15
+football,World,World Cup Women U17,2018,South Africa U17 W,4,4,3,0,,,1,2,1,10,1,4,3,0,,,1,2,1,10,1,2020-12-15
+football,World,World Cup Women U17,2018,Germany U17 W,1,1,3,2,,,0,1,8,2,6,1,3,2,,,0,1,8,2,6,2020-12-15
+football,World,World Cup Women U17,2018,North Korea U17 W,2,2,3,2,,,0,1,6,5,6,2,3,2,,,0,1,6,5,6,2020-12-15
+football,World,World Cup Women U17,2018,Cameroon U17 W,3,3,3,1,,,0,2,2,5,3,3,3,1,,,0,2,2,5,3,2020-12-15
+football,World,World Cup Women U17,2018,USA U17 W,4,4,3,1,,,0,2,3,7,3,4,3,1,,,0,2,3,7,3,2020-12-15
+football,World,World Cup Women U17,2018,Spain U17 W,1,1,3,2,,,1,0,10,1,7,1,3,2,,,1,0,10,1,7,2020-12-15
+football,World,World Cup Women U17,2018,Canada U17 W,2,2,3,2,,,0,1,5,5,6,2,3,2,,,0,1,5,5,6,2020-12-15
+football,World,World Cup Women U17,2018,Colombia U17 W,3,3,3,0,,,2,1,2,5,2,3,3,0,,,2,1,2,5,2,2020-12-15
+football,World,World Cup Women U17,2018,South Korea U17 W,4,4,3,0,,,1,2,1,7,1,4,3,0,,,1,2,1,7,1,2020-12-15
+football,World,World Medical Football Championship,2018,Czech Republic Med.,1,1,3,3,,,0,0,4,0,9,1,3,3,,,0,0,4,0,9,2020-12-15
+football,World,World Medical Football Championship,2018,Kazakhstan Med.,2,2,3,1,,,0,2,4,7,3,2,3,1,,,0,2,4,7,3,2020-12-15
+football,World,World Medical Football Championship,2018,Russia Med.,3,3,3,0,,,0,3,0,7,0,3,3,0,,,0,3,0,7,0,2020-12-15
+football,World,World Medical Football Championship,2018,Australia Med.,1,1,3,2,,,0,1,8,2,6,1,3,2,,,0,1,8,2,6,2020-12-15
+football,World,World Medical Football Championship,2018,Germany Med.,2,2,3,1,,,1,1,4,2,4,2,3,1,,,1,1,4,2,4,2020-12-15
+football,World,World Medical Football Championship,2018,Uzbekistan Med.,3,3,3,1,,,1,1,2,4,4,3,3,1,,,1,1,2,4,4,2020-12-15
+football,World,World Medical Football Championship,2018,South Korea Med.,4,4,3,1,,,0,2,4,10,3,4,3,1,,,0,2,4,10,3,2020-12-15
+football,World,World Medical Football Championship,2018,Brazil Med.,1,1,3,2,,,1,0,7,3,7,1,3,2,,,1,0,7,3,7,2020-12-15
+football,World,World Medical Football Championship,2018,USA Med.,2,2,3,1,,,1,1,6,7,4,2,3,1,,,1,1,6,7,4,2020-12-15
+football,World,World Medical Football Championship,2018,Catalonia Selection Med.,3,3,3,0,,,3,0,7,7,3,3,3,0,,,3,0,7,7,3,2020-12-15
+football,World,World Medical Football Championship,2018,Canada Med.,4,4,3,0,,,1,2,3,6,1,4,3,0,,,1,2,3,6,1,2020-12-15
+football,World,World Medical Football Championship,2018,Great Britain Med.,1,1,3,3,,,0,0,8,1,9,1,3,3,,,0,0,8,1,9,2020-12-15
+football,World,World Medical Football Championship,2018,Hungary Med.,2,2,3,2,,,0,1,9,1,6,2,3,2,,,0,1,9,1,6,2020-12-15
+football,World,World Medical Football Championship,2018,Ireland Med.,3,3,3,1,,,0,2,2,5,3,3,3,1,,,0,2,2,5,3,2020-12-15
+football,World,Viareggio Cup,2019,Braga U19,1,1,3,2,,,1,0,6,1,7,1,3,2,,,1,0,6,1,7,2020-12-15
+football,World,World Medical Football Championship,2018,Lithuania Med.,4,4,3,0,,,0,3,1,13,0,4,3,0,,,0,3,1,13,0,2020-12-15
+football,World,World Medical Football Championship,2018,Sweden Med.,1,1,3,3,,,0,0,16,2,9,1,3,3,,,0,0,16,2,9,2020-12-15
+football,World,Viareggio Cup,2019,Inter U19,2,2,3,2,,,1,0,5,2,7,2,3,2,,,1,0,5,2,7,2020-12-15
+football,World,Viareggio Cup,2019,Cagliari U19,3,3,3,1,,,0,2,2,3,3,3,3,1,,,0,2,2,3,3,2020-12-15
+football,World,World Medical Football Championship,2018,Mexico Med.,2,2,3,2,,,0,1,7,12,6,2,3,2,,,0,1,7,12,6,2020-12-15
+football,World,World Medical Football Championship,2018,Colombia Med.,3,3,3,1,,,0,2,4,5,3,3,3,1,,,0,2,4,5,3,2020-12-15
+football,World,Viareggio Cup,2019,APIA Tigers U19,4,4,3,0,,,0,3,1,8,0,4,3,0,,,0,3,1,8,0,2020-12-15
+football,World,World Medical Football Championship,2018,Austria Med.,4,4,3,0,,,0,3,2,10,0,4,3,0,,,0,3,2,10,0,2020-12-15
+football,World,World Medical Football Championship,2018,Ukraine Med.,1,1,3,2,,,1,0,9,2,7,1,3,2,,,1,0,9,2,7,2020-12-15
+football,World,Viareggio Cup,2019,Empoli U19,1,1,3,1,,,2,0,6,3,5,1,3,1,,,2,0,6,3,5,2020-12-15
+football,World,World Medical Football Championship,2018,Argentina Med.,2,2,3,1,,,1,1,4,2,4,2,3,1,,,1,1,4,2,4,2020-12-15
+football,World,World Medical Football Championship,2018,Venezuela Med.,3,3,3,1,,,0,2,3,6,3,3,3,1,,,0,2,3,6,3,2020-12-15
+football,World,Viareggio Cup,2019,Nordsjaelland U19,2,2,3,1,,,1,1,9,6,4,2,3,1,,,1,1,9,6,4,2020-12-15
+football,World,Viareggio Cup,2019,Ascoli U19,3,3,3,1,,,1,1,4,5,4,3,3,1,,,1,1,4,5,4,2020-12-15
+football,World,Viareggio Cup,2019,UYSS New York U19,4,4,3,1,,,0,2,2,7,3,4,3,1,,,0,2,2,7,3,2020-12-15
+football,World,Viareggio Cup,2019,Bologna U19,1,1,3,3,,,0,0,7,2,9,1,3,3,,,0,0,7,2,9,2020-12-15
+football,World,Valentin Granatkin Memorial,2019,Russia U18,1,1,3,3,,,0,0,7,0,9,1,3,3,,,0,0,7,0,9,2020-12-15
+football,World,Viareggio Cup,2019,Club Brugge U19,2,2,3,2,,,0,1,11,4,6,2,3,2,,,0,1,11,4,6,2020-12-15
+football,World,Viareggio Cup,2019,Viareggio U19,3,3,3,1,,,0,2,3,11,3,3,3,1,,,0,2,3,11,3,2020-12-15
+football,World,Valentin Granatkin Memorial,2019,Moldova U18,2,2,3,1,,,1,1,2,2,4,2,3,1,,,1,1,2,2,4,2020-12-15
+football,World,Viareggio Cup,2019,Ternana U19,4,4,3,0,,,0,3,3,7,0,4,3,0,,,0,3,3,7,0,2020-12-15
+football,World,Valentin Granatkin Memorial,2019,Bulgaria U18,3,3,3,0,,,2,1,1,4,2,3,3,0,,,2,1,1,4,2,2020-12-15
+football,World,Viareggio Cup,2019,Athletico-PR U19,1,1,3,3,,,0,0,9,3,9,1,3,3,,,0,0,9,3,9,2020-12-15
+football,World,Viareggio Cup,2019,Torino U19,2,2,3,2,,,0,1,11,3,6,2,3,2,,,0,1,11,3,6,2020-12-15
+football,World,Valentin Granatkin Memorial,2019,India U18,4,4,3,0,,,1,2,2,6,1,4,3,0,,,1,2,2,6,1,2020-12-15
+football,World,Valentin Granatkin Memorial,2019,Turkey U18,1,1,3,2,,,1,0,6,0,7,1,3,2,,,1,0,6,0,7,2020-12-15
+football,World,Viareggio Cup,2019,Rieti U19,3,3,3,1,,,0,2,6,7,3,3,3,1,,,0,2,6,7,3,2020-12-15
+football,World,Viareggio Cup,2019,Norchi Tbilisi U19,4,4,3,0,,,0,3,3,16,0,4,3,0,,,0,3,3,16,0,2020-12-15
+football,World,Valentin Granatkin Memorial,2019,Greece U18,2,2,3,1,,,2,0,8,5,5,2,3,1,,,2,0,8,5,5,2020-12-15
+football,World,Viareggio Cup,2019,Parma U19,1,1,3,3,,,0,0,9,1,9,1,3,3,,,0,0,9,1,9,2020-12-15
+football,World,Valentin Granatkin Memorial,2019,Tajikistan U18,3,3,3,0,,,2,1,5,10,2,3,3,0,,,2,1,5,10,2,2020-12-15
+football,World,Valentin Granatkin Memorial,2019,Kyrgyzstan U18,4,4,3,0,,,1,2,2,6,1,4,3,0,,,1,2,2,6,1,2020-12-15
+football,World,Universiade,2019,Ireland Univ.,1,1,2,1,,,1,0,4,3,4,1,2,1,,,1,0,4,3,4,2020-12-15
+football,World,Viareggio Cup,2019,Venezia U19,2,2,3,2,,,0,1,9,4,6,2,3,2,,,0,1,9,4,6,2020-12-15
+football,World,Valentin Granatkin Memorial,2019,Argentina U18,1,1,3,3,,,0,0,8,3,9,1,3,3,,,0,0,8,3,9,2020-12-15
+football,World,Valentin Granatkin Memorial,2019,Russia U18 2,2,2,3,2,,,0,1,5,3,6,2,3,2,,,0,1,5,3,6,2020-12-15
+football,World,Universiade,2019,South Korea Univ.,2,2,2,1,,,0,1,4,4,3,2,2,1,,,0,1,4,4,3,2020-12-15
+football,World,Universiade,2019,Uruguay Univ.,3,3,2,0,,,1,1,2,3,1,3,2,0,,,1,1,2,3,1,2020-12-15
+football,World,Viareggio Cup,2019,Nania U19,3,3,3,1,,,0,2,4,5,3,3,3,1,,,0,2,4,5,3,2020-12-15
+football,World,Viareggio Cup,2019,Euro New York U19,4,4,3,0,,,0,3,1,13,0,4,3,0,,,0,3,1,13,0,2020-12-15
+football,World,Valentin Granatkin Memorial,2019,Iran U18,3,3,3,1,,,0,2,5,6,3,3,3,1,,,0,2,5,6,3,2020-12-15
+football,World,Valentin Granatkin Memorial,2019,Armenia U18,4,4,3,0,,,0,3,0,6,0,4,3,0,,,0,3,0,6,0,2020-12-15
+football,World,Universiade,2019,Italy Univ.,1,1,2,2,,,0,0,4,0,6,1,2,2,,,0,0,4,0,6,2020-12-15
+football,World,Viareggio Cup,2019,Sassuolo U19,1,1,3,2,,,0,1,7,1,6,1,3,2,,,0,1,7,1,6,2020-12-15
+football,World,Universiade,2019,Ukraine Univ.,2,2,2,1,,,0,1,1,2,3,2,2,1,,,0,1,1,2,3,2020-12-15
+football,World,Viareggio Cup,2019,FK Rigas U19,2,2,3,2,,,0,1,5,3,6,2,3,2,,,0,1,5,3,6,2020-12-15
+football,World,Universiade,2019,Mexico Univ.,3,3,2,0,,,0,2,0,3,0,3,2,0,,,0,2,0,3,0,2020-12-15
+football,World,Viareggio Cup,2019,Benevento U19,3,3,3,1,,,1,1,1,1,4,3,3,1,,,1,1,1,1,4,2020-12-15
+football,World,Universiade,2019,Brazil Univ.,1,1,2,1,,,1,0,4,1,4,1,2,1,,,1,0,4,1,4,2020-12-15
+football,World,Viareggio Cup,2019,Pontedera U19,4,4,3,0,,,1,2,2,10,1,4,3,0,,,1,2,2,10,1,2020-12-15
+football,World,Viareggio Cup,2019,AC Milan U19,1,1,3,3,,,0,0,7,2,9,1,3,3,,,0,0,7,2,9,2020-12-15
+football,World,Universiade,2019,France Univ.,2,2,2,1,,,1,0,4,2,4,2,2,1,,,1,0,4,2,4,2020-12-15
+football,World,Universiade,2019,South Africa Univ.,3,3,2,0,,,0,2,1,6,0,3,2,0,,,0,2,1,6,0,2020-12-15
+football,World,Viareggio Cup,2019,Berekum Chelsea U19,2,2,3,2,,,0,1,5,2,6,2,3,2,,,0,1,5,2,6,2020-12-15
+football,World,Universiade,2019,Japan Univ.,1,1,2,2,,,0,0,7,1,6,1,2,2,,,0,0,7,1,6,2020-12-15
+football,World,Viareggio Cup,2019,Spezia U19,3,3,3,1,,,0,2,4,5,3,3,3,1,,,0,2,4,5,3,2020-12-15
+football,World,Universiade,2019,Russia Univ.,2,2,2,1,,,0,1,3,4,3,2,2,1,,,0,1,3,4,3,2020-12-15
+football,World,Viareggio Cup,2019,Carrarese U19,4,4,3,0,,,0,3,2,9,0,4,3,0,,,0,3,2,9,0,2020-12-15
+football,World,Viareggio Cup,2019,Fiorentina U19,1,1,3,2,,,1,0,7,2,7,1,3,2,,,1,0,7,2,7,2020-12-15
+football,World,Universiade,2019,Argentina Univ.,3,3,2,0,,,0,2,0,5,0,3,2,0,,,0,2,0,5,0,2020-12-15
+football,World,Viareggio Cup,2019,Perugia U19,2,2,3,2,,,0,1,4,4,6,2,3,2,,,0,1,4,4,6,2020-12-15
+football,World,Viareggio Cup,2019,Krasnodar U19,3,3,3,1,,,1,1,9,5,4,3,3,1,,,1,1,9,5,4,2020-12-15
+football,World,Viareggio Cup,2019,Westchester U19,4,4,3,0,,,0,3,2,11,0,4,3,0,,,0,3,2,11,0,2020-12-15
+football,World,Viareggio Cup,2019,Genoa U19,1,1,3,2,,,1,0,5,3,7,1,3,2,,,1,0,5,3,7,2020-12-15
+football,World,Viareggio Cup,2019,Dukla Prague U19,2,2,3,2,,,0,1,7,4,6,2,3,2,,,0,1,7,4,6,2020-12-15
+football,World,Viareggio Cup,2019,Livorno U19,3,3,3,1,,,0,2,3,5,3,3,3,1,,,0,2,3,5,3,2020-12-15
+football,World,Slovakia Cup,2020,Russia U18,1,1,0,0,,,0,0,0,0,0,1,0,0,,,0,0,0,0,0,2020-12-15
+football,World,Viareggio Cup,2019,Atlantida Juniors U19,4,4,3,0,,,1,2,2,5,1,4,3,0,,,1,2,2,5,1,2020-12-15
+football,World,Slovakia Cup,2020,USA U18,2,2,0,0,,,0,0,0,0,0,2,0,0,,,0,0,0,0,0,2020-12-15
+football,World,Viareggio Cup,2019,Serie D team U19,1,1,3,2,,,1,0,5,1,7,1,3,2,,,1,0,5,1,7,2020-12-15
+football,World,Viareggio Cup,2019,Spal U19,2,2,3,2,,,0,1,4,2,6,2,3,2,,,0,1,4,2,6,2020-12-15
+football,World,Slovakia Cup,2020,Slovakia U18,3,3,0,0,,,0,0,0,0,0,3,0,0,,,0,0,0,0,0,2020-12-15
+football,World,Slovakia Cup,2020,England U18,4,4,0,0,,,0,0,0,0,0,4,0,0,,,0,0,0,0,0,2020-12-15
+football,World,Viareggio Cup,2019,China U19,3,3,3,0,,,2,1,2,4,2,3,3,0,,,2,1,2,4,2,2020-12-15
+football,World,Viareggio Cup,2019,Salernitana U19,4,4,3,0,,,1,2,1,5,1,4,3,0,,,1,2,1,5,1,2020-12-15
+football,World,Slovakia Cup,2020,Japan U18,1,1,0,0,,,0,0,0,0,0,1,0,0,,,0,0,0,0,0,2020-12-15
+football,World,Slovakia Cup,2020,Czech Republic U18,2,2,0,0,,,0,0,0,0,0,2,0,0,,,0,0,0,0,0,2020-12-15
+football,World,Slovakia Cup,2020,Ukraine U18,3,3,0,0,,,0,0,0,0,0,3,0,0,,,0,0,0,0,0,2020-12-15
+football,World,Slovakia Cup,2020,Spain U18,4,4,0,0,,,0,0,0,0,0,4,0,0,,,0,0,0,0,0,2020-12-15
+football,World,Pan American Games,2019,Mexico U23,1,1,3,2,,,1,0,4,1,7,1,3,2,,,1,0,4,1,7,2020-12-15
+football,World,Pan American Games,2019,Argentina U23,2,2,3,2,,,0,1,7,5,6,2,3,2,,,0,1,7,5,6,2020-12-15
+football,World,Pan American Games,2019,Panama U23,3,3,3,0,,,2,1,2,4,2,3,3,0,,,2,1,2,4,2,2020-12-15
+football,World,Pan American Games,2019,Ecuador U23,4,4,3,0,,,1,2,3,6,1,4,3,0,,,1,2,3,6,1,2020-12-15
+football,World,Pan American Games,2019,Uruguay U23,1,1,3,3,,,0,0,7,0,9,1,3,3,,,0,0,7,0,9,2020-12-15
+football,World,Pan American Games,2019,Honduras U23,2,2,3,1,,,1,1,5,6,4,2,3,1,,,1,1,5,6,4,2020-12-15
+football,World,Pan American Games,2019,Jamaica U23,3,3,3,1,,,0,2,3,5,3,3,3,1,,,0,2,3,5,3,2020-12-15
+football,World,Pan American Games,2019,Peru U23,4,4,3,0,,,1,2,2,6,1,4,3,0,,,1,2,2,6,1,2020-12-15
+football,World,Nordic Tournament U17,2018,Iceland U17,1,1,3,3,,,0,0,7,2,9,1,3,3,,,0,0,7,2,9,2020-12-15
+football,World,Nordic Tournament U17,2018,Norway U17,2,2,3,2,,,0,1,4,2,6,2,3,2,,,0,1,4,2,6,2020-12-15
+football,World,Nordic Tournament U17,2018,Faroe Islands U17,3,3,3,0,,,1,2,2,5,1,3,3,0,,,1,2,2,5,1,2020-12-15
+football,World,Visit Tucson Sun Cup,2020,Columbus Crew,1,1,3,2,,,1,0,6,2,7,1,3,2,,,1,0,6,2,7,2020-12-15
+football,World,Nordic Tournament U17,2018,China U17,4,4,3,0,,,1,2,1,5,1,4,3,0,,,1,2,1,5,1,2020-12-15
+football,World,Visit Tucson Sun Cup,2020,Phoenix Rising,2,2,3,2,,,0,1,5,4,6,2,3,2,,,0,1,5,4,6,2020-12-15
+football,World,Nordic Tournament U17,2018,Finland U17,1,1,3,2,,,1,0,7,2,7,1,3,2,,,1,0,7,2,7,2020-12-15
+football,World,Visit Tucson Sun Cup,2020,New York Red Bulls,3,3,3,1,,,2,0,4,3,5,3,3,1,,,2,0,4,3,5,2020-12-15
+football,World,Visit Tucson Sun Cup,2020,Houston Dynamo,4,4,3,1,,,1,1,6,5,4,4,3,1,,,1,1,6,5,4,2020-12-15
+football,World,Nordic Tournament U17,2018,Denmark U17,2,2,3,2,,,1,0,3,1,7,2,3,2,,,1,0,3,1,7,2020-12-15
+football,World,Nordic Tournament U17,2018,Sweden U17,3,3,3,1,,,0,2,4,6,3,3,3,1,,,0,2,4,6,3,2020-12-15
+football,World,Visit Tucson Sun Cup,2020,Sporting Kansas City,5,5,3,0,,,1,2,2,4,1,5,3,0,,,1,2,2,4,1,2020-12-15
+football,World,Visit Tucson Sun Cup,2020,Real Salt Lake,6,6,3,0,,,1,2,2,7,1,6,3,0,,,1,2,2,7,1,2020-12-15
+football,World,Nordic Tournament U17,2018,Northern Ireland U17,4,4,3,0,,,0,3,1,6,0,4,3,0,,,0,3,1,6,0,2020-12-15
+football,World,Islamic Solidarity Games,2017,Cameroon U23,1,1,3,1,,,2,0,4,1,5,1,3,1,,,2,0,4,1,5,2020-12-15
+football,World,Islamic Solidarity Games,2017,Azerbaijan U23,2,2,3,1,,,2,0,2,0,5,2,3,1,,,2,0,2,0,5,2020-12-15
+football,World,Islamic Solidarity Games,2017,Morocco U23,3,3,3,1,,,2,0,2,1,5,3,3,1,,,2,0,2,1,5,2020-12-15
+football,World,Islamic Solidarity Games,2017,Saudi Arabia U23,4,4,3,0,,,0,3,0,6,0,4,3,0,,,0,3,0,6,0,2020-12-15
+football,World,Islamic Solidarity Games,2017,Algeria U23,1,1,3,2,,,1,0,4,2,7,1,3,2,,,1,0,4,2,7,2020-12-15
+football,World,Islamic Solidarity Games,2017,Oman U23,2,2,3,1,,,2,0,6,5,5,2,3,1,,,2,0,6,5,5,2020-12-15
+football,World,Islamic Solidarity Games,2017,Turkey U23,3,3,3,1,,,0,2,7,8,3,3,3,1,,,0,2,7,8,3,2020-12-15
+football,World,Islamic Solidarity Games,2017,Palestine U23,4,4,3,0,,,1,2,5,7,1,4,3,0,,,1,2,5,7,1,2020-12-15
+football,World,International Champions Cup,2019,Arsenal,4,1,2,2,0,0,,0,5,1,6,6,1,0,1,0,0,1,2,2,1,2020-12-15
+football,World,International Champions Cup,2019,Bayern Munich,5,2,2,2,0,0,,0,4,1,6,8,1,0,0,1,0,0,1,2,0,2020-12-15
+football,World,International Champions Cup,2019,Manchester Utd,3,3,2,1,1,0,,0,3,2,5,4,1,1,0,0,0,0,2,1,3,2020-12-15
+football,World,International Champions Cup,2019,Benfica,1,4,1,1,0,0,,0,3,0,3,1,2,2,0,0,0,0,3,1,6,2020-12-15
+football,World,International Champions Cup,2019,Atl. Madrid,2,5,1,1,0,0,,0,2,1,3,2,2,1,0,0,1,0,7,3,5,2020-12-15
+football,World,International Champions Cup,2019,Fiorentina,8,6,2,1,0,0,,1,3,3,3,11,1,0,0,1,0,0,0,3,0,2020-12-15
+football,World,International Champions Cup,2019,Juventus,9,7,2,0,1,0,,1,3,4,2,9,1,0,0,1,0,0,1,2,0,2020-12-15
+football,World,International Champions Cup,2019,Real Madrid,10,8,2,0,1,0,,1,5,9,2,10,1,0,0,1,0,0,1,3,0,2020-12-15
+football,World,International Champions Cup,2019,Guadalajara Chivas,12,9,1,0,0,1,,0,0,0,1,12,2,0,0,2,0,0,1,5,0,2020-12-15
+football,World,International Champions Cup,2019,Tottenham,6,10,2,0,0,1,,1,2,3,1,3,1,1,0,0,0,0,3,2,3,2020-12-15
+football,World,International Champions Cup,2019,Inter,7,11,0,0,0,0,,0,0,0,0,5,3,0,1,1,1,1,2,3,3,2020-12-15
+football,World,International Champions Cup,2019,AC Milan,11,12,1,0,0,0,,1,0,1,0,7,2,0,1,1,0,1,2,3,1,2020-12-15
+football,World,CEE Cup,2019,Sparta Prague U19,1,1,3,2,,,0,1,5,3,6,1,3,2,,,0,1,5,3,6,2020-12-15
+football,World,CEE Cup,2019,D. Zagreb U19,2,2,3,1,,,1,1,3,3,4,2,3,1,,,1,1,3,3,4,2020-12-15
+football,World,CEE Cup,2019,Shakhtar Donetsk U19,3,3,3,1,,,1,1,3,3,4,3,3,1,,,1,1,3,3,4,2020-12-15
+football,World,CEE Cup,2019,Besiktas U19,4,4,3,1,,,0,2,3,5,3,4,3,1,,,0,2,3,5,3,2020-12-15
+football,World,CEE Cup,2019,Palmeiras U19,1,1,3,3,,,0,0,12,4,9,1,3,3,,,0,0,12,4,9,2020-12-15
+football,World,CEE Cup,2019,Slavia Prague U19,2,2,3,2,,,0,1,4,5,6,2,3,2,,,0,1,4,5,6,2020-12-15
+football,World,CEE Cup,2019,Altinordu U19,3,3,3,0,,,1,2,3,6,1,3,3,0,,,1,2,3,6,1,2020-12-15
+football,World,CEE Cup,2019,Burnley U19,4,4,3,0,,,1,2,1,5,1,4,3,0,,,1,2,1,5,1,2020-12-15
+football,World,Arab Cup of Nations,2012,Saudi Arabia,1,1,2,1,,,1,0,6,2,4,2,0,0,,,0,0,0,0,0,2020-12-15
+football,World,Arab Cup of Nations,2012,Kuwait,2,2,1,1,,,0,0,2,0,3,3,1,0,,,0,1,0,4,0,2020-12-15
+football,World,Arab Cup of Nations,2012,Palestine,3,3,0,0,,,0,0,0,0,0,1,2,0,,,1,1,2,4,1,2020-12-15
+football,World,Arab Cup of Nations,2012,Libya,1,1,3,2,,,1,0,5,2,7,3,0,0,,,0,0,0,0,0,2020-12-15
+football,World,Arab Cup of Nations,2012,Morocco,1,2,1,1,,,0,0,4,0,3,1,2,1,,,1,0,4,0,4,2020-12-15
+football,World,Arab Cup of Nations,2012,Bahrain,4,3,1,0,,,0,1,0,2,0,4,2,0,,,0,2,1,6,0,2020-12-15
+football,World,Arab Cup of Nations,2012,Yemen,3,4,1,0,,,0,1,0,4,0,2,2,1,,,0,1,3,3,3,2020-12-15
+football,World,Arab Cup of Nations,2012,Iraq,1,1,2,2,,,0,0,3,1,6,2,1,0,,,1,0,1,1,1,2020-12-15
+football,World,Arab Cup of Nations,2012,Egypt,3,2,2,0,,,2,0,2,2,2,4,1,0,,,0,1,1,2,0,2020-12-15
+football,World,Arab Cup of Nations,2012,Sudan,3,3,1,0,,,1,0,1,1,1,1,2,1,,,1,0,3,1,4,2020-12-15
+football,World,Arab Cup of Nations,2012,Lebanon,4,4,1,0,,,0,1,0,2,0,3,2,0,,,1,1,1,2,1,2020-12-15
+football,World,World Cup U17,2019,Brazil U17,1,1,3,3,,,0,0,9,1,9,1,3,3,,,0,0,9,1,9,2020-12-15
+football,World,World Cup U17,2019,Angola U17,2,2,3,2,,,0,1,4,4,6,2,3,2,,,0,1,4,4,6,2020-12-15
+football,World,World Cup U17,2019,New Zealand U17,5,5,3,1,,,0,2,2,5,3,5,3,1,,,0,2,2,5,3,2020-12-15
+football,World,World Cup U17,2019,Canada U17,4,4,3,0,,,0,3,2,7,0,4,3,0,,,0,3,2,7,0,2020-12-15
+football,World,World Cup U17,2019,Nigeria U17,1,1,3,2,,,0,1,8,6,6,1,3,2,,,0,1,8,6,6,2020-12-15
+football,World,World Cup U17,2019,Ecuador U17,2,2,3,2,,,0,1,7,6,6,2,3,2,,,0,1,7,6,6,2020-12-15
+football,World,World Cup U17,2019,Australia U17,2,2,3,1,,,1,1,5,5,4,2,3,1,,,1,1,5,5,4,2020-12-15
+football,World,World Cup U17,2019,Hungary U17,4,4,3,0,,,1,2,6,9,1,4,3,0,,,1,2,6,9,1,2020-12-15
+football,World,World Cup U17,2019,France U17,1,1,3,3,,,0,0,7,1,9,1,3,3,,,0,0,7,1,9,2020-12-15
+football,World,World Cup U17,2019,South Korea U17,2,2,3,2,,,0,1,5,5,6,2,3,2,,,0,1,5,5,6,2020-12-15
+football,World,World Cup U17,2019,Chile U17,4,4,3,1,,,0,2,5,6,3,4,3,1,,,0,2,5,6,3,2020-12-15
+football,World,World Cup U17,2019,Haiti U17,4,4,3,0,,,0,3,3,8,0,4,3,0,,,0,3,3,8,0,2020-12-15
+football,World,World Cup U17,2019,Japan U17,1,1,3,2,,,1,0,4,0,7,1,3,2,,,1,0,4,0,7,2020-12-15
+football,World,World Cup U20,2019,Senegal U20,1,1,3,2,,,1,0,5,0,7,1,3,2,,,1,0,5,0,7,2020-12-15
+football,World,World Cup U17,2019,Senegal U17,2,2,3,2,,,0,1,7,3,6,2,3,2,,,0,1,7,3,6,2020-12-15
+football,World,World Cup U20,2019,Colombia U20,2,2,3,2,,,0,1,8,2,6,2,3,2,,,0,1,8,2,6,2020-12-15
+football,World,World Cup U17,2019,Netherlands U17,3,3,3,1,,,0,2,5,6,3,3,3,1,,,0,2,5,6,3,2020-12-15
+football,World,World Cup U17,2019,USA U17,4,4,3,0,,,1,2,1,8,1,4,3,0,,,1,2,1,8,1,2020-12-15
+football,World,World Cup U20,2019,Poland U20,1,1,3,1,,,1,1,5,2,4,1,3,1,,,1,1,5,2,4,2020-12-15
+football,World,World Cup U17,2019,Spain U17,1,1,3,2,,,1,0,7,1,7,1,3,2,,,1,0,7,1,7,2020-12-15
+football,World,World Cup U20,2019,Tahiti U20,4,4,3,0,,,0,3,0,14,0,4,3,0,,,0,3,0,14,0,2020-12-15
+football,World,World Cup U20,2019,Italy U20,1,1,3,2,,,1,0,3,1,7,1,3,2,,,1,0,3,1,7,2020-12-15
+football,World,World Cup U17,2019,Argentina U17,2,2,3,2,,,1,0,6,2,7,2,3,2,,,1,0,6,2,7,2020-12-15
+football,World,World Cup U17,2019,Tajikistan U17,6,6,3,1,,,0,2,3,8,3,6,3,1,,,0,2,3,8,3,2020-12-15
+football,World,World Cup U20,2019,Japan U20,2,2,3,1,,,2,0,4,1,5,2,3,1,,,2,0,4,1,5,2020-12-15
+football,World,World Cup U20,2019,Ecuador U20,3,3,3,1,,,1,1,2,2,4,3,3,1,,,1,1,2,2,4,2020-12-15
+football,World,World Cup U17,2019,Cameroon U17,4,4,3,0,,,0,3,1,6,0,4,3,0,,,0,3,1,6,0,2020-12-15
+football,World,World Cup U17,2019,Paraguay U17,1,1,3,2,,,1,0,9,1,7,1,3,2,,,1,0,9,1,7,2020-12-15
+football,World,World Cup U20,2019,Mexico U20,4,4,3,0,,,0,3,1,6,0,4,3,0,,,0,3,1,6,0,2020-12-15
+football,World,World Cup U20,2019,Uruguay U20,1,1,3,3,,,0,0,7,1,9,1,3,3,,,0,0,7,1,9,2020-12-15
+football,World,World Cup U17,2019,Italy U17,2,2,3,2,,,0,1,8,3,6,2,3,2,,,0,1,8,3,6,2020-12-15
+football,World,World Cup U17,2019,Mexico U17,1,1,3,1,,,1,1,9,2,4,1,3,1,,,1,1,9,2,4,2020-12-15
+football,World,World Cup U20,2019,New Zealand U20,2,2,3,2,,,0,1,7,2,6,2,3,2,,,0,1,7,2,6,2020-12-15
+football,World,World Cup U17,2019,Solomon Islands U17,4,4,3,0,,,0,3,0,20,0,4,3,0,,,0,3,0,20,0,2020-12-15
+football,World,World Cup U20,2019,Norway U20,6,6,3,1,,,0,2,13,5,3,6,3,1,,,0,2,13,5,3,2020-12-15
+football,World,World Cup U20,2019,Honduras U20,4,4,3,0,,,0,3,0,19,0,4,3,0,,,0,3,0,19,0,2020-12-15
+football,World,World Cup U20,2019,Ukraine U20,1,1,3,2,,,1,0,4,2,7,1,3,2,,,1,0,4,2,7,2020-12-15
+football,World,World Cup U20,2019,USA U20,2,2,3,2,,,0,1,4,2,6,2,3,2,,,0,1,4,2,6,2020-12-15
+football,World,World Cup U20,2019,Nigeria U20,2,2,3,1,,,1,1,5,3,4,2,3,1,,,1,1,5,3,4,2020-12-15
+football,World,World Cup U20,2019,Qatar U20,4,4,3,0,,,0,3,0,6,0,4,3,0,,,0,3,0,6,0,2020-12-15
+football,World,World Cup U20,2019,France U20,1,1,3,3,,,0,0,7,2,9,1,3,3,,,0,0,7,2,9,2020-12-15
+football,World,World Cup U20,2019,Mali U20,2,2,3,1,,,1,1,7,7,4,2,3,1,,,1,1,7,7,4,2020-12-15
+football,World,World Cup U20,2019,Panama U20,4,4,3,1,,,1,1,3,4,4,4,3,1,,,1,1,3,4,4,2020-12-15
+football,World,World Cup U20,2019,Saudi Arabia U20,4,4,3,0,,,0,3,4,8,0,4,3,0,,,0,3,4,8,0,2020-12-15
+football,World,World Cup U20,2019,Argentina U20,1,1,3,2,,,0,1,8,4,6,1,3,2,,,0,1,8,4,6,2020-12-15
+football,World,World Cup U20,2019,South Korea U20,2,2,3,2,,,0,1,3,2,6,2,3,2,,,0,1,3,2,6,2020-12-15
+football,World,World Cup U20,2019,Portugal U20,5,5,3,1,,,1,1,2,3,4,5,3,1,,,1,1,2,3,4,2020-12-15
+football,World,World Cup U20,2019,South Africa U20,4,4,3,0,,,1,2,3,7,1,4,3,0,,,1,2,3,7,1,2020-12-15
+football,World,World Cup,2022,Ecuador,3,1,2,2,,,0,0,10,3,6,5,2,1,,,0,1,3,3,3,2020-12-15
+football,World,World Cup,2022,Brazil,1,2,2,2,,,0,0,6,0,6,1,2,2,,,0,0,6,2,6,2020-12-15
+football,World,World Cup,2022,Chile,6,3,2,1,,,1,0,4,2,4,9,2,0,,,0,2,2,4,0,2020-12-15
+football,World,World Cup,2022,Argentina,2,4,2,1,,,1,0,2,1,4,2,2,2,,,0,0,4,1,6,2020-12-15
+football,World,World Cup,2022,Colombia,7,5,2,1,,,0,1,3,3,3,7,2,0,,,1,1,3,8,1,2020-12-15
+football,World,World Cup,2022,Venezuela,8,6,2,1,,,0,1,2,2,3,10,2,0,,,0,2,0,4,0,2020-12-15
+football,World,World Cup,2022,Uruguay,5,7,2,1,,,0,1,2,3,3,4,2,1,,,0,1,5,4,3,2020-12-15
+football,World,World Cup,2022,Paraguay,4,8,2,0,,,2,0,4,4,2,3,2,1,,,1,0,2,1,4,2020-12-15
+football,World,World Cup,2022,Bolivia,10,9,2,0,,,0,2,3,5,0,8,2,0,,,1,1,2,7,1,2020-12-15
+football,World,World Cup,2022,Peru,9,10,2,0,,,0,2,2,6,0,6,2,0,,,1,1,2,4,1,2020-12-15
